@@ -1,0 +1,1451 @@
+Season,HomeTeamName,AwayTeamName,Date,HomePossession,HomeYellowCards,HomeRedCards,HomeFouls,HomeShots,HomeGoals,AwayYellowCards,AwayRedCards,AwayFouls,AwayShots,AwayGoals,StadiumName
+2021/22,Tottenham Hotspur,Brighton and Hove Albion,Sat 16 Apr 2022,48.5,3,0,14,5,0,3,0,10,12,1,Tottenham Hotspur Stadium
+2021/22,Brentford,West Ham United,Sun 10 Apr 2022,47.1,0,0,2,15,2,1,0,6,5,0,Brentford Community Stadium
+2021/22,Leicester City,Crystal Palace,Sun 10 Apr 2022,50.8,1,0,11,12,2,1,0,12,11,1,King Power Stadium
+2021/22,Norwich City,Burnley,Sun 10 Apr 2022,44.9,1,0,12,17,2,1,0,10,18,0,Carrow Road
+2021/22,Manchester City,Liverpool,Sun 10 Apr 2022,55.1,1,0,9,11,2,4,0,11,6,2,Etihad Stadium
+2021/22,Everton,Manchester United,Sat 9 Apr 2022,32.5,2,0,4,7,1,2,0,10,12,0,Goodison Park
+2021/22,Arsenal,Brighton and Hove Albion,Sat 9 Apr 2022,64.6,3,0,12,20,1,4,0,19,8,2,Emirates Stadium
+2021/22,Southampton,Chelsea,Sat 9 Apr 2022,29,1,0,11,4,0,0,0,10,24,6,St. Mary's Stadium
+2021/22,Watford,Leeds United,Sat 9 Apr 2022,48.2,2,0,8,8,0,0,0,12,10,3,Vicarage Road
+2021/22,Aston Villa,Tottenham Hotspur,Sat 9 Apr 2022,51.5,2,0,12,19,0,3,0,14,11,4,Villa Park
+2021/22,Newcastle United,Wolverhampton Wanderers,Fri 8 Apr 2022,41.1,1,0,6,12,1,1,0,13,5,0,St. James' Park
+2021/22,Burnley,Everton,Wed 6 Apr 2022,50.9,2,0,11,13,3,2,0,16,16,2,Turf Moor
+2021/22,Crystal Palace,Arsenal,Mon 4 Apr 2022,31.4,0,0,11,6,3,2,0,15,12,0,Selhurst Park
+2021/22,West Ham United,Everton,Sun 3 Apr 2022,55.7,1,0,9,11,2,2,1,12,13,1,London Stadium
+2021/22,Tottenham Hotspur,Newcastle United,Sun 3 Apr 2022,60.8,2,0,10,19,5,3,0,7,8,1,Tottenham Hotspur Stadium
+2021/22,Liverpool,Watford,Sat 2 Apr 2022,73.1,1,0,9,20,2,1,0,8,5,0,Anfield
+2021/22,Brighton and Hove Albion,Norwich City,Sat 2 Apr 2022,63,1,0,12,31,0,1,0,11,6,0,Amex Stadium
+2021/22,Burnley,Manchester City,Sat 2 Apr 2022,23.3,1,0,11,3,0,0,0,6,18,2,Turf Moor
+2021/22,Chelsea,Brentford,Sat 2 Apr 2022,70.6,0,0,11,21,1,0,0,7,17,4,Stamford Bridge
+2021/22,Leeds United,Southampton,Sat 2 Apr 2022,55.8,1,0,14,12,1,1,0,7,14,1,Elland Road
+2021/22,Wolverhampton Wanderers,Aston Villa,Sat 2 Apr 2022,48.3,4,0,15,11,2,3,0,8,15,1,Molineux Stadium
+2021/22,Manchester United,Leicester City,Sat 2 Apr 2022,53.9,2,0,13,11,1,2,0,6,11,1,Old Trafford
+2021/22,Leicester City,Brentford,Sun 20 Mar 2022,52.8,1,0,10,12,2,2,0,10,15,1,King Power Stadium
+2021/22,Tottenham Hotspur,West Ham United,Sun 20 Mar 2022,52.7,0,0,7,17,3,1,0,7,6,1,Tottenham Hotspur Stadium
+2021/22,Aston Villa,Arsenal,Sat 19 Mar 2022,47,3,0,13,8,0,3,0,14,10,1,Villa Park
+2021/22,Wolverhampton Wanderers,Leeds United,Fri 18 Mar 2022,47.8,1,1,13,14,2,5,0,14,15,3,Molineux Stadium
+2021/22,Everton,Newcastle United,Thu 17 Mar 2022,38.3,2,1,13,9,1,1,0,11,17,0,Goodison Park
+2021/22,Brighton and Hove Albion,Tottenham Hotspur,Wed 16 Mar 2022,48.2,2,0,11,15,0,2,0,9,17,2,Amex Stadium
+2021/22,Arsenal,Liverpool,Wed 16 Mar 2022,48.4,0,0,9,9,0,1,0,9,9,2,Emirates Stadium
+2021/22,Crystal Palace,Manchester City,Mon 14 Mar 2022,26.2,3,0,6,7,0,1,0,11,19,0,Selhurst Park
+2021/22,Chelsea,Newcastle United,Sun 13 Mar 2022,72.8,4,0,17,8,1,3,0,17,7,0,Stamford Bridge
+2021/22,Everton,Wolverhampton Wanderers,Sun 13 Mar 2022,38,2,1,13,7,0,1,0,11,14,1,Goodison Park
+2021/22,Leeds United,Norwich City,Sun 13 Mar 2022,52.5,3,0,18,13,2,1,0,8,12,1,Elland Road
+2021/22,Southampton,Watford,Sun 13 Mar 2022,62.5,3,0,8,13,1,2,0,12,9,2,St. Mary's Stadium
+2021/22,West Ham United,Aston Villa,Sun 13 Mar 2022,47.1,1,0,9,11,2,0,0,3,13,1,London Stadium
+2021/22,Arsenal,Leicester City,Sun 13 Mar 2022,46,0,0,8,21,2,3,0,10,6,0,Emirates Stadium
+2021/22,Brighton and Hove Albion,Liverpool,Sat 12 Mar 2022,51.8,3,0,12,8,0,1,0,15,18,2,Amex Stadium
+2021/22,Brentford,Burnley,Sat 12 Mar 2022,54.9,1,0,6,13,2,1,1,10,7,0,Brentford Community Stadium
+2021/22,Manchester United,Tottenham Hotspur,Sat 12 Mar 2022,43.5,2,0,8,10,3,1,0,7,10,2,Old Trafford
+2021/22,Leeds United,Aston Villa,Thu 10 Mar 2022,50.9,5,0,17,4,0,3,0,11,15,3,Elland Road
+2021/22,Norwich City,Chelsea,Thu 10 Mar 2022,33.7,0,0,8,8,1,2,0,15,15,3,Carrow Road
+2021/22,Southampton,Newcastle United,Thu 10 Mar 2022,67.8,1,0,6,14,1,1,0,7,8,2,St. Mary's Stadium
+2021/22,Wolverhampton Wanderers,Watford,Thu 10 Mar 2022,65.8,2,0,11,10,4,2,0,10,9,0,Molineux Stadium
+2021/22,Tottenham Hotspur,Everton,Mon 7 Mar 2022,55,2,0,15,14,5,0,0,10,6,0,Tottenham Hotspur Stadium
+2021/22,Watford,Arsenal,Sun 6 Mar 2022,43,1,0,5,13,2,2,0,12,16,3,Vicarage Road
+2021/22,Manchester City,Manchester United,Sun 6 Mar 2022,69.4,0,0,10,24,4,1,0,14,5,1,Etihad Stadium
+2021/22,Leicester City,Leeds United,Sat 5 Mar 2022,51,1,0,9,7,1,2,0,12,19,0,King Power Stadium
+2021/22,Aston Villa,Southampton,Sat 5 Mar 2022,38.2,1,0,10,14,4,1,0,8,11,0,Villa Park
+2021/22,Burnley,Chelsea,Sat 5 Mar 2022,27.4,2,0,12,6,0,0,0,7,11,4,Turf Moor
+2021/22,Newcastle United,Brighton and Hove Albion,Sat 5 Mar 2022,32.4,1,0,8,10,2,1,0,10,15,1,St. James' Park
+2021/22,Norwich City,Brentford,Sat 5 Mar 2022,59.6,2,0,13,15,1,5,0,18,10,3,Carrow Road
+2021/22,Wolverhampton Wanderers,Crystal Palace,Sat 5 Mar 2022,64,0,0,13,12,0,3,0,8,12,2,Molineux Stadium
+2021/22,Liverpool,West Ham United,Sat 5 Mar 2022,68.7,2,0,7,22,1,1,0,7,13,0,Anfield
+2021/22,Burnley,Leicester City,Tue 1 Mar 2022,44.8,1,0,10,9,0,1,0,13,22,2,Turf Moor
+2021/22,West Ham United,Wolverhampton Wanderers,Sun 27 Feb 2022,39,1,0,8,13,1,0,0,2,14,0,London Stadium
+2021/22,Leeds United,Tottenham Hotspur,Sat 26 Feb 2022,49.6,4,0,16,19,0,2,0,11,15,4,Elland Road
+2021/22,Brentford,Newcastle United,Sat 26 Feb 2022,37.3,3,1,9,6,0,1,0,7,26,2,Brentford Community Stadium
+2021/22,Crystal Palace,Burnley,Sat 26 Feb 2022,59.2,0,0,5,11,1,2,0,16,5,1,Selhurst Park
+2021/22,Manchester United,Watford,Sat 26 Feb 2022,67.3,0,0,2,22,0,0,0,7,10,0,Old Trafford
+2021/22,Brighton and Hove Albion,Aston Villa,Sat 26 Feb 2022,66.5,4,0,17,12,0,5,0,11,9,2,Amex Stadium
+2021/22,Everton,Manchester City,Sat 26 Feb 2022,32.6,3,0,7,6,0,2,0,14,13,1,Goodison Park
+2021/22,Southampton,Norwich City,Fri 25 Feb 2022,58.1,1,0,12,27,2,2,0,9,8,0,St. Mary's Stadium
+2021/22,Arsenal,Wolverhampton Wanderers,Thu 24 Feb 2022,55.5,1,0,8,26,2,1,0,9,6,1,Emirates Stadium
+2021/22,Burnley,Tottenham Hotspur,Wed 23 Feb 2022,34.1,0,0,8,15,1,0,0,8,12,0,Turf Moor
+2021/22,Watford,Crystal Palace,Wed 23 Feb 2022,45.3,2,0,12,8,1,1,0,9,7,4,Vicarage Road
+2021/22,Liverpool,Leeds United,Wed 23 Feb 2022,63.7,0,0,5,23,6,3,0,11,3,0,Anfield
+2021/22,Leeds United,Manchester United,Sun 20 Feb 2022,54.5,6,0,13,16,2,3,0,19,15,4,Elland Road
+2021/22,Wolverhampton Wanderers,Leicester City,Sun 20 Feb 2022,36.3,4,0,12,11,2,4,0,9,17,1,Molineux Stadium
+2021/22,West Ham United,Newcastle United,Sat 19 Feb 2022,47,3,0,3,11,1,3,0,7,14,1,London Stadium
+2021/22,Arsenal,Brentford,Sat 19 Feb 2022,66.4,1,0,10,24,2,1,0,5,6,1,Emirates Stadium
+2021/22,Aston Villa,Watford,Sat 19 Feb 2022,59.6,1,0,12,20,0,2,0,7,8,1,Villa Park
+2021/22,Brighton and Hove Albion,Burnley,Sat 19 Feb 2022,68.9,1,0,12,11,0,4,0,12,10,3,Amex Stadium
+2021/22,Crystal Palace,Chelsea,Sat 19 Feb 2022,42.6,1,0,4,7,0,3,0,20,9,1,Selhurst Park
+2021/22,Liverpool,Norwich City,Sat 19 Feb 2022,69.4,0,0,7,29,3,1,0,8,6,1,Anfield
+2021/22,Southampton,Everton,Sat 19 Feb 2022,55.8,0,0,6,19,2,2,0,9,9,0,St. Mary's Stadium
+2021/22,Manchester City,Tottenham Hotspur,Sat 19 Feb 2022,71.2,0,0,5,21,2,3,0,7,6,3,Etihad Stadium
+2021/22,Manchester United,Brighton and Hove Albion,Tue 15 Feb 2022,50,3,0,8,19,2,1,1,10,10,0,Old Trafford
+2021/22,Burnley,Liverpool,Sun 13 Feb 2022,32.6,0,0,7,8,0,1,0,6,12,1,Turf Moor
+2021/22,Newcastle United,Aston Villa,Sun 13 Feb 2022,37,3,0,22,10,1,4,0,15,11,0,St. James' Park
+2021/22,Leicester City,West Ham United,Sun 13 Feb 2022,55.4,1,0,10,13,2,2,0,9,8,2,King Power Stadium
+2021/22,Tottenham Hotspur,Wolverhampton Wanderers,Sun 13 Feb 2022,58.6,3,0,13,17,0,1,0,13,11,2,Tottenham Hotspur Stadium
+2021/22,Manchester United,Southampton,Sat 12 Feb 2022,52.3,4,0,12,12,1,0,0,13,13,1,Old Trafford
+2021/22,Brentford,Crystal Palace,Sat 12 Feb 2022,42.6,1,0,10,9,0,0,0,10,6,0,Brentford Community Stadium
+2021/22,Everton,Leeds United,Sat 12 Feb 2022,41.7,1,0,8,21,3,1,0,9,7,0,Goodison Park
+2021/22,Watford,Brighton and Hove Albion,Sat 12 Feb 2022,35.2,3,0,16,9,0,2,0,9,11,2,Vicarage Road
+2021/22,Norwich City,Manchester City,Sat 12 Feb 2022,28.5,0,0,7,8,0,2,0,8,22,4,Carrow Road
+2021/22,Liverpool,Leicester City,Thu 10 Feb 2022,65,1,0,11,22,2,0,0,7,5,0,Anfield
+2021/22,Wolverhampton Wanderers,Arsenal,Thu 10 Feb 2022,58.3,2,0,12,15,0,3,1,13,12,1,Molineux Stadium
+2021/22,Manchester City,Brentford,Wed 9 Feb 2022,75.6,0,0,7,15,2,0,0,13,6,0,Etihad Stadium
+2021/22,Norwich City,Crystal Palace,Wed 9 Feb 2022,28.3,1,0,11,5,1,2,0,16,13,1,Carrow Road
+2021/22,Tottenham Hotspur,Southampton,Wed 9 Feb 2022,47.7,2,0,7,8,2,3,0,13,23,3,Tottenham Hotspur Stadium
+2021/22,Aston Villa,Leeds United,Wed 9 Feb 2022,39.5,1,1,11,12,3,3,0,9,16,3,Villa Park
+2021/22,Newcastle United,Everton,Tue 8 Feb 2022,39.3,2,0,13,20,3,3,0,13,11,1,St. James' Park
+2021/22,West Ham United,Watford,Tue 8 Feb 2022,64.3,1,0,1,9,1,0,0,6,6,0,London Stadium
+2021/22,Burnley,Manchester United,Tue 8 Feb 2022,35.9,2,0,11,9,1,1,0,10,22,1,Turf Moor
+2021/22,Burnley,Watford,Sat 5 Feb 2022,51.6,1,0,16,13,0,2,0,9,11,0,Turf Moor
+2021/22,Arsenal,Burnley,Sun 23 Jan 2022,75.6,0,0,9,20,0,2,0,13,10,0,Emirates Stadium
+2021/22,Crystal Palace,Liverpool,Sun 23 Jan 2022,43.4,4,0,12,8,1,1,0,10,14,3,Selhurst Park
+2021/22,Leicester City,Brighton and Hove Albion,Sun 23 Jan 2022,43.8,0,0,6,15,1,1,0,8,14,1,King Power Stadium
+2021/22,Chelsea,Tottenham Hotspur,Sun 23 Jan 2022,64.6,2,0,17,15,2,1,0,14,6,0,Stamford Bridge
+2021/22,Everton,Aston Villa,Sat 22 Jan 2022,49.6,5,0,14,15,0,4,0,16,8,1,Goodison Park
+2021/22,Brentford,Wolverhampton Wanderers,Sat 22 Jan 2022,49.5,2,0,6,11,1,3,1,7,7,2,Brentford Community Stadium
+2021/22,Leeds United,Newcastle United,Sat 22 Jan 2022,63,4,0,9,13,0,2,0,9,15,1,Elland Road
+2021/22,Manchester United,West Ham United,Sat 22 Jan 2022,56.9,1,0,9,18,1,1,0,8,6,0,Old Trafford
+2021/22,Southampton,Manchester City,Sat 22 Jan 2022,25.8,3,0,13,7,1,0,0,5,20,1,St. Mary's Stadium
+2021/22,Watford,Norwich City,Fri 21 Jan 2022,68.5,0,1,16,15,0,1,0,11,7,3,Vicarage Road
+2021/22,Leicester City,Tottenham Hotspur,Wed 19 Jan 2022,48.8,1,0,6,14,2,2,0,12,27,3,King Power Stadium
+2021/22,Brentford,Manchester United,Wed 19 Jan 2022,43.7,0,0,7,18,1,0,0,9,13,3,Brentford Community Stadium
+2021/22,Brighton and Hove Albion,Chelsea,Tue 18 Jan 2022,43.2,1,0,8,10,1,2,0,5,15,1,Amex Stadium
+2021/22,Liverpool,Brentford,Sun 16 Jan 2022,68.3,0,0,6,27,3,1,0,6,6,0,Anfield
+2021/22,West Ham United,Leeds United,Sun 16 Jan 2022,47.4,3,0,6,15,2,2,0,9,18,3,London Stadium
+2021/22,Manchester City,Chelsea,Sat 15 Jan 2022,55.7,0,0,11,11,1,2,0,6,4,0,Etihad Stadium
+2021/22,Newcastle United,Watford,Sat 15 Jan 2022,52,3,0,13,12,1,2,0,13,18,1,St. James' Park
+2021/22,Norwich City,Everton,Sat 15 Jan 2022,40.4,3,0,12,14,2,1,0,14,12,1,Carrow Road
+2021/22,Wolverhampton Wanderers,Southampton,Sat 15 Jan 2022,42.7,2,0,13,9,3,3,0,14,13,1,Molineux Stadium
+2021/22,Aston Villa,Manchester United,Sat 15 Jan 2022,54.6,1,0,8,13,2,2,0,13,13,2,Villa Park
+2021/22,Brighton and Hove Albion,Crystal Palace,Fri 14 Jan 2022,63.3,0,0,11,19,1,2,0,7,3,1,Amex Stadium
+2021/22,West Ham United,Norwich City,Wed 12 Jan 2022,61.6,0,0,9,13,2,0,0,8,7,0,London Stadium
+2021/22,Southampton,Brentford,Tue 11 Jan 2022,48.9,0,0,9,12,4,1,0,8,5,1,St. Mary's Stadium
+2021/22,Manchester United,Wolverhampton Wanderers,Mon 3 Jan 2022,51.3,3,0,9,9,0,1,0,8,19,1,Old Trafford
+2021/22,Brentford,Aston Villa,Sun 2 Jan 2022,45.4,2,0,17,10,2,2,0,11,16,1,Brentford Community Stadium
+2021/22,Everton,Brighton and Hove Albion,Sun 2 Jan 2022,49.9,1,0,5,17,2,1,0,12,12,3,Goodison Park
+2021/22,Leeds United,Burnley,Sun 2 Jan 2022,55.3,2,0,11,22,3,1,0,7,8,1,Elland Road
+2021/22,Chelsea,Liverpool,Sun 2 Jan 2022,55.3,1,0,5,15,2,2,0,13,10,2,Stamford Bridge
+2021/22,Arsenal,Manchester City,Sat 1 Jan 2022,28.8,3,1,13,7,1,2,0,5,15,2,Emirates Stadium
+2021/22,Watford,Tottenham Hotspur,Sat 1 Jan 2022,25.8,0,0,6,6,0,1,0,9,21,1,Vicarage Road
+2021/22,Crystal Palace,West Ham United,Sat 1 Jan 2022,62.7,0,0,6,22,2,2,0,16,10,3,Selhurst Park
+2021/22,Manchester United,Burnley,Thu 30 Dec 2021,57.3,0,0,5,18,3,0,0,10,10,1,Old Trafford
+2021/22,Chelsea,Brighton and Hove Albion,Wed 29 Dec 2021,47.7,4,0,14,11,1,1,0,7,18,1,Stamford Bridge
+2021/22,Brentford,Manchester City,Wed 29 Dec 2021,23.7,0,0,12,6,0,0,0,10,12,1,Brentford Community Stadium
+2021/22,Crystal Palace,Norwich City,Tue 28 Dec 2021,50.9,1,0,9,19,3,2,0,13,12,0,Selhurst Park
+2021/22,Southampton,Tottenham Hotspur,Tue 28 Dec 2021,34.6,2,1,15,9,1,2,0,5,21,1,St. Mary's Stadium
+2021/22,Watford,West Ham United,Tue 28 Dec 2021,43,0,0,12,14,1,1,0,12,13,4,Vicarage Road
+2021/22,Leicester City,Liverpool,Tue 28 Dec 2021,36.6,0,0,8,6,1,1,0,11,21,0,King Power Stadium
+2021/22,Newcastle United,Manchester United,Mon 27 Dec 2021,31.4,3,0,11,13,1,3,0,8,13,1,St. James' Park
+2021/22,Manchester City,Leicester City,Sun 26 Dec 2021,71.8,1,0,11,17,6,2,0,9,14,3,Etihad Stadium
+2021/22,Norwich City,Arsenal,Sun 26 Dec 2021,35.2,1,0,13,4,0,2,0,7,16,5,Carrow Road
+2021/22,Tottenham Hotspur,Crystal Palace,Sun 26 Dec 2021,59.7,1,0,16,17,3,1,1,9,4,0,Tottenham Hotspur Stadium
+2021/22,West Ham United,Southampton,Sun 26 Dec 2021,55.8,2,0,10,11,2,3,0,9,11,3,London Stadium
+2021/22,Aston Villa,Chelsea,Sun 26 Dec 2021,42.1,3,0,8,8,1,1,0,11,10,3,Villa Park
+2021/22,Brighton and Hove Albion,Brentford,Sun 26 Dec 2021,50.4,1,0,8,15,2,3,0,10,16,0,Amex Stadium
+2021/22,Newcastle United,Manchester City,Sun 19 Dec 2021,28.1,1,0,9,5,0,2,0,6,18,4,St. James' Park
+2021/22,Wolverhampton Wanderers,Chelsea,Sun 19 Dec 2021,36.9,0,0,9,4,0,2,0,7,8,0,Molineux Stadium
+2021/22,Tottenham Hotspur,Liverpool,Sun 19 Dec 2021,43.7,4,0,12,10,2,4,1,11,18,2,Tottenham Hotspur Stadium
+2021/22,Leeds United,Arsenal,Sat 18 Dec 2021,50.9,3,0,11,9,1,1,0,7,21,4,Elland Road
+2021/22,Chelsea,Everton,Thu 16 Dec 2021,80.1,2,0,11,23,1,3,0,11,5,1,Stamford Bridge
+2021/22,Liverpool,Newcastle United,Thu 16 Dec 2021,74.2,1,0,9,23,3,3,0,4,5,1,Anfield
+2021/22,Brighton and Hove Albion,Wolverhampton Wanderers,Wed 15 Dec 2021,59.3,2,0,11,12,0,0,0,15,8,1,Amex Stadium
+2021/22,Crystal Palace,Southampton,Wed 15 Dec 2021,59.7,2,0,16,9,2,4,0,20,15,2,Selhurst Park
+2021/22,Arsenal,West Ham United,Wed 15 Dec 2021,56.2,2,0,9,21,2,0,1,9,7,0,Emirates Stadium
+2021/22,Norwich City,Aston Villa,Tue 14 Dec 2021,50.2,3,0,12,7,0,1,0,9,17,2,Carrow Road
+2021/22,Manchester City,Leeds United,Tue 14 Dec 2021,64.2,1,0,5,31,7,1,0,9,6,0,Etihad Stadium
+2021/22,Burnley,West Ham United,Sun 12 Dec 2021,40.1,2,0,13,9,0,1,0,11,16,0,Turf Moor
+2021/22,Leicester City,Newcastle United,Sun 12 Dec 2021,47.3,2,0,9,8,4,3,0,16,12,0,King Power Stadium
+2021/22,Crystal Palace,Everton,Sun 12 Dec 2021,61.2,0,0,15,17,3,2,0,14,12,1,Selhurst Park
+2021/22,Manchester City,Wolverhampton Wanderers,Sat 11 Dec 2021,71,3,0,12,24,1,2,1,5,2,0,Etihad Stadium
+2021/22,Arsenal,Southampton,Sat 11 Dec 2021,61.3,2,0,5,15,3,0,0,9,11,0,Emirates Stadium
+2021/22,Chelsea,Leeds United,Sat 11 Dec 2021,57.8,2,0,9,16,3,5,0,15,12,2,Stamford Bridge
+2021/22,Liverpool,Aston Villa,Sat 11 Dec 2021,62.3,1,0,13,20,1,2,0,6,4,0,Anfield
+2021/22,Norwich City,Manchester United,Sat 11 Dec 2021,47.2,1,0,6,11,0,1,0,17,13,1,Carrow Road
+2021/22,Brentford,Watford,Fri 10 Dec 2021,63.4,4,0,12,14,2,0,0,18,6,1,Brentford Community Stadium
+2021/22,Everton,Arsenal,Mon 6 Dec 2021,36.1,2,0,8,11,2,2,0,12,10,1,Goodison Park
+2021/22,Leeds United,Brentford,Sun 5 Dec 2021,63.1,5,0,11,13,2,3,0,9,9,2,Elland Road
+2021/22,Manchester United,Crystal Palace,Sun 5 Dec 2021,61.3,2,0,16,16,1,2,0,9,8,0,Old Trafford
+2021/22,Tottenham Hotspur,Norwich City,Sun 5 Dec 2021,40.8,1,0,11,17,3,2,0,4,10,0,Tottenham Hotspur Stadium
+2021/22,Aston Villa,Leicester City,Sun 5 Dec 2021,41.1,1,0,8,13,2,1,0,25,12,1,Villa Park
+2021/22,West Ham United,Chelsea,Sat 4 Dec 2021,36.2,1,0,10,11,3,3,0,10,19,2,London Stadium
+2021/22,Newcastle United,Burnley,Sat 4 Dec 2021,47.8,1,0,11,19,1,1,0,9,10,0,St. James' Park
+2021/22,Southampton,Brighton and Hove Albion,Sat 4 Dec 2021,44.4,4,0,15,14,1,2,0,12,14,1,St. Mary's Stadium
+2021/22,Wolverhampton Wanderers,Liverpool,Sat 4 Dec 2021,32.9,2,0,4,3,0,2,0,7,17,1,Molineux Stadium
+2021/22,Watford,Manchester City,Sat 4 Dec 2021,22.9,3,0,11,11,1,0,0,7,26,3,Vicarage Road
+2021/22,Tottenham Hotspur,Brentford,Thu 2 Dec 2021,47,0,0,13,11,2,0,0,11,6,0,Tottenham Hotspur Stadium
+2021/22,Manchester United,Arsenal,Thu 2 Dec 2021,44.5,1,0,9,14,3,0,0,10,17,2,Old Trafford
+2021/22,Southampton,Leicester City,Wed 1 Dec 2021,44.5,1,0,14,15,2,3,0,11,15,2,St. Mary's Stadium
+2021/22,Watford,Chelsea,Wed 1 Dec 2021,49.8,4,0,18,14,1,3,0,16,8,2,Vicarage Road
+2021/22,West Ham United,Brighton and Hove Albion,Wed 1 Dec 2021,34.3,1,0,10,14,1,1,0,8,9,1,London Stadium
+2021/22,Wolverhampton Wanderers,Burnley,Wed 1 Dec 2021,65.2,2,0,5,16,0,3,0,7,6,0,Molineux Stadium
+2021/22,Aston Villa,Manchester City,Wed 1 Dec 2021,36,0,0,8,9,1,0,0,12,17,2,Villa Park
+2021/22,Everton,Liverpool,Wed 1 Dec 2021,31.3,4,0,8,8,1,3,0,16,16,4,Goodison Park
+2021/22,Newcastle United,Norwich City,Tue 30 Nov 2021,31.4,0,1,8,9,1,0,0,11,16,1,St. James' Park
+2021/22,Leeds United,Crystal Palace,Tue 30 Nov 2021,61.9,5,0,15,15,1,3,0,15,9,0,Elland Road
+2021/22,Brentford,Everton,Sun 28 Nov 2021,39.7,4,0,8,6,1,3,0,11,14,0,Brentford Community Stadium
+2021/22,Leicester City,Watford,Sun 28 Nov 2021,56.7,0,0,5,18,4,0,0,20,17,2,King Power Stadium
+2021/22,Manchester City,West Ham United,Sun 28 Nov 2021,68.5,2,0,7,19,2,0,0,6,5,1,Etihad Stadium
+2021/22,Chelsea,Manchester United,Sun 28 Nov 2021,65.7,2,0,13,24,1,5,0,14,3,1,Stamford Bridge
+2021/22,Arsenal,Newcastle United,Sat 27 Nov 2021,65.6,1,0,6,24,2,3,0,12,9,0,Emirates Stadium
+2021/22,Crystal Palace,Aston Villa,Sat 27 Nov 2021,63.3,3,0,12,8,1,3,1,10,10,2,Selhurst Park
+2021/22,Liverpool,Southampton,Sat 27 Nov 2021,64.5,0,0,7,20,4,1,0,14,7,0,Anfield
+2021/22,Norwich City,Wolverhampton Wanderers,Sat 27 Nov 2021,43.1,2,0,11,14,0,2,0,10,5,0,Carrow Road
+2021/22,Brighton and Hove Albion,Leeds United,Sat 27 Nov 2021,56.5,1,0,12,20,0,3,0,14,11,0,Amex Stadium
+2021/22,Manchester City,Everton,Sun 21 Nov 2021,77.3,1,0,5,17,3,1,0,7,4,0,Etihad Stadium
+2021/22,Tottenham Hotspur,Leeds United,Sun 21 Nov 2021,43.2,1,0,11,13,2,4,0,12,18,1,Tottenham Hotspur Stadium
+2021/22,Leicester City,Chelsea,Sat 20 Nov 2021,38.3,3,0,15,4,0,1,0,8,16,3,King Power Stadium
+2021/22,Aston Villa,Brighton and Hove Albion,Sat 20 Nov 2021,37,3,0,7,9,2,3,0,13,6,0,Villa Park
+2021/22,Burnley,Crystal Palace,Sat 20 Nov 2021,39.5,2,0,14,15,3,3,0,15,18,3,Turf Moor
+2021/22,Newcastle United,Brentford,Sat 20 Nov 2021,52.2,2,0,13,23,3,2,0,11,10,3,St. James' Park
+2021/22,Norwich City,Southampton,Sat 20 Nov 2021,37,3,0,8,8,2,2,0,9,17,1,Carrow Road
+2021/22,Watford,Manchester United,Sat 20 Nov 2021,38.7,2,0,7,20,4,1,1,5,9,1,Vicarage Road
+2021/22,Wolverhampton Wanderers,West Ham United,Sat 20 Nov 2021,52.4,1,0,6,15,1,1,0,9,8,0,Molineux Stadium
+2021/22,Liverpool,Arsenal,Sat 20 Nov 2021,62.5,2,0,15,19,4,0,0,12,5,0,Anfield
+2021/22,Arsenal,Watford,Sun 7 Nov 2021,60.7,4,0,6,14,1,2,1,19,7,0,Emirates Stadium
+2021/22,Everton,Tottenham Hotspur,Sun 7 Nov 2021,44.8,2,1,13,12,0,4,0,17,8,0,Goodison Park
+2021/22,Leeds United,Leicester City,Sun 7 Nov 2021,55.8,1,0,12,18,1,1,0,5,9,1,Elland Road
+2021/22,West Ham United,Liverpool,Sun 7 Nov 2021,30.9,1,0,11,7,3,1,0,6,16,2,London Stadium
+2021/22,Manchester United,Manchester City,Sat 6 Nov 2021,32.6,1,0,9,5,0,2,0,12,16,2,Old Trafford
+2021/22,Brentford,Norwich City,Sat 6 Nov 2021,64.5,2,0,12,19,1,3,0,13,9,2,Brentford Community Stadium
+2021/22,Chelsea,Burnley,Sat 6 Nov 2021,69.9,1,0,6,25,1,4,0,9,5,1,Stamford Bridge
+2021/22,Crystal Palace,Wolverhampton Wanderers,Sat 6 Nov 2021,59.7,2,0,14,13,2,1,0,13,4,0,Selhurst Park
+2021/22,Brighton and Hove Albion,Newcastle United,Sat 6 Nov 2021,65.7,3,1,16,14,1,4,0,10,6,1,Amex Stadium
+2021/22,Southampton,Aston Villa,Fri 5 Nov 2021,56.4,2,0,12,9,1,2,0,12,14,0,St. Mary's Stadium
+2021/22,Wolverhampton Wanderers,Everton,Mon 1 Nov 2021,62,1,0,10,10,2,1,0,8,14,1,Molineux Stadium
+2021/22,Norwich City,Leeds United,Sun 31 Oct 2021,47.9,1,0,14,14,1,4,0,23,13,2,Carrow Road
+2021/22,Aston Villa,West Ham United,Sun 31 Oct 2021,42.4,1,1,7,9,1,2,0,13,21,4,Villa Park
+2021/22,Leicester City,Arsenal,Sat 30 Oct 2021,64.3,2,0,8,16,0,0,0,11,9,2,King Power Stadium
+2021/22,Burnley,Brentford,Sat 30 Oct 2021,40.6,1,0,7,15,3,1,0,10,12,1,Turf Moor
+2021/22,Liverpool,Brighton and Hove Albion,Sat 30 Oct 2021,58.4,2,0,8,14,2,2,0,5,9,2,Anfield
+2021/22,Manchester City,Crystal Palace,Sat 30 Oct 2021,67.6,2,1,11,14,0,3,0,11,8,2,Etihad Stadium
+2021/22,Newcastle United,Chelsea,Sat 30 Oct 2021,20.8,3,0,14,6,0,2,0,12,19,3,St. James' Park
+2021/22,Watford,Southampton,Sat 30 Oct 2021,38.7,2,0,16,10,0,2,0,6,12,1,Vicarage Road
+2021/22,Tottenham Hotspur,Manchester United,Sat 30 Oct 2021,58.2,2,0,12,9,0,3,0,14,10,3,Tottenham Hotspur Stadium
+2021/22,Brentford,Leicester City,Sun 24 Oct 2021,54.4,1,0,13,15,1,1,0,7,10,2,Brentford Community Stadium
+2021/22,West Ham United,Tottenham Hotspur,Sun 24 Oct 2021,37.7,2,0,11,13,1,1,0,4,7,0,London Stadium
+2021/22,Manchester United,Liverpool,Sun 24 Oct 2021,36.8,6,1,10,12,0,0,0,8,19,5,Old Trafford
+2021/22,Chelsea,Norwich City,Sat 23 Oct 2021,61.8,0,0,14,23,7,2,1,16,3,0,Stamford Bridge
+2021/22,Crystal Palace,Newcastle United,Sat 23 Oct 2021,75,3,0,13,15,1,4,0,9,6,1,Selhurst Park
+2021/22,Everton,Watford,Sat 23 Oct 2021,50.1,4,0,9,15,2,3,0,13,20,5,Goodison Park
+2021/22,Leeds United,Wolverhampton Wanderers,Sat 23 Oct 2021,63,2,0,15,18,1,3,0,14,8,1,Elland Road
+2021/22,Southampton,Burnley,Sat 23 Oct 2021,61.3,1,0,10,16,2,3,0,11,9,2,St. Mary's Stadium
+2021/22,Brighton and Hove Albion,Manchester City,Sat 23 Oct 2021,47.7,2,0,10,10,1,3,0,6,23,4,Amex Stadium
+2021/22,Arsenal,Aston Villa,Fri 22 Oct 2021,53.8,2,0,17,22,3,5,0,10,10,1,Emirates Stadium
+2021/22,Arsenal,Crystal Palace,Mon 18 Oct 2021,53.6,1,0,7,17,2,1,0,4,9,2,Emirates Stadium
+2021/22,Everton,West Ham United,Sun 17 Oct 2021,39,0,0,3,15,0,2,0,3,16,1,Goodison Park
+2021/22,Newcastle United,Tottenham Hotspur,Sun 17 Oct 2021,35.5,4,1,13,7,2,1,0,4,14,3,St. James' Park
+2021/22,Watford,Liverpool,Sat 16 Oct 2021,23.8,0,0,4,6,0,0,0,10,19,5,Vicarage Road
+2021/22,Aston Villa,Wolverhampton Wanderers,Sat 16 Oct 2021,48.3,2,0,8,14,2,3,0,17,9,3,Villa Park
+2021/22,Leicester City,Manchester United,Sat 16 Oct 2021,48.8,0,0,5,22,4,3,0,17,18,2,King Power Stadium
+2021/22,Manchester City,Burnley,Sat 16 Oct 2021,70.6,1,0,11,15,2,0,0,5,7,0,Etihad Stadium
+2021/22,Norwich City,Brighton and Hove Albion,Sat 16 Oct 2021,35.1,3,0,5,15,0,5,0,14,11,0,Carrow Road
+2021/22,Southampton,Leeds United,Sat 16 Oct 2021,45.3,2,0,16,19,1,3,0,14,3,0,St. Mary's Stadium
+2021/22,Brentford,Chelsea,Sat 16 Oct 2021,43.9,1,0,13,17,0,1,0,8,5,1,Brentford Community Stadium
+2021/22,Crystal Palace,Leicester City,Sun 3 Oct 2021,60,2,0,15,18,2,3,0,11,9,2,Selhurst Park
+2021/22,Tottenham Hotspur,Aston Villa,Sun 3 Oct 2021,56.3,2,0,11,17,2,1,0,14,14,1,Tottenham Hotspur Stadium
+2021/22,West Ham United,Brentford,Sun 3 Oct 2021,59.9,2,0,16,18,1,3,0,13,13,2,London Stadium
+2021/22,Liverpool,Manchester City,Sun 3 Oct 2021,48.5,3,0,10,6,2,3,0,12,12,2,Anfield
+2021/22,Manchester United,Everton,Sat 2 Oct 2021,71.8,1,0,10,13,1,1,0,9,12,1,Old Trafford
+2021/22,Burnley,Norwich City,Sat 2 Oct 2021,56.1,5,0,13,14,0,2,0,3,10,0,Turf Moor
+2021/22,Chelsea,Southampton,Sat 2 Oct 2021,61.6,1,0,11,20,3,3,1,13,6,1,Stamford Bridge
+2021/22,Leeds United,Watford,Sat 2 Oct 2021,66.9,0,0,10,20,1,3,0,16,5,0,Elland Road
+2021/22,Wolverhampton Wanderers,Newcastle United,Sat 2 Oct 2021,51.9,0,0,15,7,2,2,0,5,8,1,Molineux Stadium
+2021/22,Brighton and Hove Albion,Arsenal,Sat 2 Oct 2021,58.2,2,0,8,21,0,1,0,5,8,0,Amex Stadium
+2021/22,Crystal Palace,Brighton and Hove Albion,Mon 27 Sep 2021,46.9,2,0,12,8,1,5,0,10,8,1,Selhurst Park
+2021/22,Southampton,Wolverhampton Wanderers,Sun 26 Sep 2021,57,0,0,12,18,0,0,0,8,5,1,St. Mary's Stadium
+2021/22,Arsenal,Tottenham Hotspur,Sun 26 Sep 2021,46.6,2,0,12,12,3,1,0,13,10,1,Emirates Stadium
+2021/22,Chelsea,Manchester City,Sat 25 Sep 2021,40.9,3,0,12,5,0,2,0,10,15,1,Stamford Bridge
+2021/22,Manchester United,Aston Villa,Sat 25 Sep 2021,59.6,2,0,9,28,0,2,0,13,7,1,Old Trafford
+2021/22,Everton,Norwich City,Sat 25 Sep 2021,46.8,2,0,12,11,2,3,0,9,10,0,Goodison Park
+2021/22,Leeds United,West Ham United,Sat 25 Sep 2021,53.5,3,0,10,15,1,2,0,6,20,2,Elland Road
+2021/22,Leicester City,Burnley,Sat 25 Sep 2021,67.1,2,0,10,22,2,4,0,8,9,2,King Power Stadium
+2021/22,Watford,Newcastle United,Sat 25 Sep 2021,52.2,4,0,19,15,1,3,0,12,20,1,Vicarage Road
+2021/22,Brentford,Liverpool,Sat 25 Sep 2021,32.7,1,0,8,12,3,1,0,7,16,3,Brentford Community Stadium
+2021/22,Brighton and Hove Albion,Leicester City,Sun 19 Sep 2021,37.1,2,0,8,12,2,1,0,10,14,1,Amex Stadium
+2021/22,West Ham United,Manchester United,Sun 19 Sep 2021,39.9,0,0,5,13,1,0,0,8,17,2,London Stadium
+2021/22,Tottenham Hotspur,Chelsea,Sun 19 Sep 2021,47,0,0,4,8,0,1,0,15,20,3,Tottenham Hotspur Stadium
+2021/22,Wolverhampton Wanderers,Brentford,Sat 18 Sep 2021,61.9,4,0,10,11,0,2,1,7,9,2,Molineux Stadium
+2021/22,Burnley,Arsenal,Sat 18 Sep 2021,45,2,0,9,18,0,1,0,8,13,1,Turf Moor
+2021/22,Liverpool,Crystal Palace,Sat 18 Sep 2021,59.9,3,0,17,25,3,1,0,11,13,0,Anfield
+2021/22,Manchester City,Southampton,Sat 18 Sep 2021,63.9,0,1,5,16,0,2,0,12,10,0,Etihad Stadium
+2021/22,Norwich City,Watford,Sat 18 Sep 2021,48.7,1,0,10,12,1,1,0,14,12,3,Carrow Road
+2021/22,Aston Villa,Everton,Sat 18 Sep 2021,55.6,1,0,7,15,3,1,0,10,11,0,Villa Park
+2021/22,Newcastle United,Leeds United,Fri 17 Sep 2021,35.4,2,0,9,17,1,2,0,11,22,1,St. James' Park
+2021/22,Everton,Burnley,Mon 13 Sep 2021,51.7,1,0,3,14,3,1,0,6,11,1,Goodison Park
+2021/22,Leeds United,Liverpool,Sun 12 Sep 2021,44.1,2,1,9,9,0,1,0,8,30,3,Elland Road
+2021/22,Crystal Palace,Tottenham Hotspur,Sat 11 Sep 2021,62.3,2,0,13,18,3,1,1,15,2,0,Selhurst Park
+2021/22,Arsenal,Norwich City,Sat 11 Sep 2021,51.9,1,0,9,30,1,2,0,11,10,0,Emirates Stadium
+2021/22,Brentford,Brighton and Hove Albion,Sat 11 Sep 2021,41.3,3,0,9,7,0,2,0,12,4,1,Brentford Community Stadium
+2021/22,Leicester City,Manchester City,Sat 11 Sep 2021,39.5,1,0,4,6,0,2,0,11,25,1,King Power Stadium
+2021/22,Manchester United,Newcastle United,Sat 11 Sep 2021,64.1,1,0,9,21,4,0,0,2,12,1,Old Trafford
+2021/22,Southampton,West Ham United,Sat 11 Sep 2021,41.8,3,0,10,11,0,1,1,12,13,0,St. Mary's Stadium
+2021/22,Watford,Wolverhampton Wanderers,Sat 11 Sep 2021,44,3,0,15,6,0,3,0,13,14,2,Vicarage Road
+2021/22,Chelsea,Aston Villa,Sat 11 Sep 2021,56.8,1,0,11,12,3,4,0,11,18,0,Stamford Bridge
+2021/22,Burnley,Leeds United,Sun 29 Aug 2021,35.9,4,0,13,12,1,3,0,9,12,1,Turf Moor
+2021/22,Tottenham Hotspur,Watford,Sun 29 Aug 2021,57.6,3,0,8,15,1,3,0,14,9,0,Tottenham Hotspur Stadium
+2021/22,Wolverhampton Wanderers,Manchester United,Sun 29 Aug 2021,44.1,3,0,7,15,0,4,0,9,10,1,Molineux Stadium
+2021/22,Manchester City,Arsenal,Sat 28 Aug 2021,80.4,1,0,5,25,5,2,1,7,1,0,Etihad Stadium
+2021/22,Aston Villa,Brentford,Sat 28 Aug 2021,46.5,3,0,15,7,1,3,0,14,9,1,Villa Park
+2021/22,Brighton and Hove Albion,Everton,Sat 28 Aug 2021,65.6,1,0,7,14,0,2,0,9,14,2,Amex Stadium
+2021/22,Newcastle United,Southampton,Sat 28 Aug 2021,36.3,3,0,11,10,2,3,0,6,22,2,St. James' Park
+2021/22,Norwich City,Leicester City,Sat 28 Aug 2021,44.3,2,0,8,14,1,1,0,9,9,2,Carrow Road
+2021/22,West Ham United,Crystal Palace,Sat 28 Aug 2021,45.7,1,0,10,14,2,0,0,7,9,2,London Stadium
+2021/22,Liverpool,Chelsea,Sat 28 Aug 2021,65.7,0,0,13,24,1,2,1,4,6,1,Anfield
+2021/22,West Ham United,Leicester City,Mon 23 Aug 2021,51.4,0,0,8,19,4,1,1,8,5,1,London Stadium
+2021/22,Southampton,Manchester United,Sun 22 Aug 2021,36.4,2,0,12,8,1,3,0,10,15,1,St. Mary's Stadium
+2021/22,Wolverhampton Wanderers,Tottenham Hotspur,Sun 22 Aug 2021,57.8,1,0,9,25,0,4,0,7,8,1,Molineux Stadium
+2021/22,Arsenal,Chelsea,Sun 22 Aug 2021,35,3,0,10,6,0,0,0,4,22,2,Emirates Stadium
+2021/22,Liverpool,Burnley,Sat 21 Aug 2021,66.5,0,0,6,27,2,0,0,12,9,0,Anfield
+2021/22,Aston Villa,Newcastle United,Sat 21 Aug 2021,47.3,3,0,8,10,2,4,0,18,9,0,Villa Park
+2021/22,Crystal Palace,Brentford,Sat 21 Aug 2021,52.7,3,0,12,7,0,1,0,9,14,0,Selhurst Park
+2021/22,Leeds United,Everton,Sat 21 Aug 2021,70,2,0,6,17,2,4,0,13,17,2,Elland Road
+2021/22,Manchester City,Norwich City,Sat 21 Aug 2021,66.9,1,0,13,16,5,0,0,7,1,0,Etihad Stadium
+2021/22,Brighton and Hove Albion,Watford,Sat 21 Aug 2021,56.9,4,0,11,13,2,0,0,6,10,0,Amex Stadium
+2021/22,Newcastle United,West Ham United,Sun 15 Aug 2021,46.4,1,0,4,17,2,0,0,3,18,4,St. James' Park
+2021/22,Tottenham Hotspur,Manchester City,Sun 15 Aug 2021,34.4,2,0,11,13,1,1,0,8,18,0,Tottenham Hotspur Stadium
+2021/22,Manchester United,Leeds United,Sat 14 Aug 2021,48.6,1,0,11,16,5,2,0,9,10,1,Old Trafford
+2021/22,Burnley,Brighton and Hove Albion,Sat 14 Aug 2021,35.9,2,0,10,14,1,1,0,7,14,2,Turf Moor
+2021/22,Chelsea,Crystal Palace,Sat 14 Aug 2021,61.7,0,0,15,13,3,0,0,11,4,0,Stamford Bridge
+2021/22,Everton,Southampton,Sat 14 Aug 2021,48.1,2,0,13,14,3,0,0,15,6,1,Goodison Park
+2021/22,Leicester City,Wolverhampton Wanderers,Sat 14 Aug 2021,56.3,1,0,6,9,1,2,0,10,17,0,King Power Stadium
+2021/22,Watford,Aston Villa,Sat 14 Aug 2021,37.9,3,0,18,13,3,1,0,13,11,2,Vicarage Road
+2021/22,Norwich City,Liverpool,Sat 14 Aug 2021,50.1,1,0,4,14,0,1,0,14,19,3,Carrow Road
+2021/22,Brentford,Arsenal,Fri 13 Aug 2021,35.3,0,0,12,8,2,0,0,8,22,0,Brentford Community Stadium
+2020/21,Arsenal,Brighton and Hove Albion,Sun 23 May 2021,53.9,0,0,10,16,2,0,0,8,5,0,Emirates Stadium
+2020/21,Aston Villa,Chelsea,Sun 23 May 2021,28.8,3,0,11,6,2,4,1,12,23,1,Villa Park
+2020/21,Fulham,Newcastle United,Sun 23 May 2021,64.3,1,0,12,14,0,0,0,6,10,2,Craven Cottage
+2020/21,Leeds United,West Bromwich Albion,Sun 23 May 2021,64.4,2,0,12,17,3,1,0,12,14,1,Elland Road
+2020/21,Leicester City,Tottenham Hotspur,Sun 23 May 2021,47,0,0,9,10,2,2,0,8,11,4,King Power Stadium
+2020/21,Liverpool,Crystal Palace,Sun 23 May 2021,69.6,2,0,10,19,2,2,0,8,5,0,Anfield
+2020/21,Manchester City,Everton,Sun 23 May 2021,67.7,2,0,8,21,5,2,0,10,8,0,Etihad Stadium
+2020/21,Sheffield United,Burnley,Sun 23 May 2021,43,3,0,11,12,1,1,0,1,10,0,Bramall Lane
+2020/21,West Ham United,Southampton,Sun 23 May 2021,36.9,0,0,5,14,3,3,0,9,17,0,London Stadium
+2020/21,Wolverhampton Wanderers,Manchester United,Sun 23 May 2021,57.2,4,0,14,14,1,1,0,3,9,2,Molineux Stadium
+2020/21,Everton,Wolverhampton Wanderers,Wed 19 May 2021,41,0,0,11,14,1,2,0,11,9,0,Goodison Park
+2020/21,Newcastle United,Sheffield United,Wed 19 May 2021,50.9,0,0,7,16,1,2,0,7,11,0,St. James' Park
+2020/21,Tottenham Hotspur,Aston Villa,Wed 19 May 2021,60.8,1,0,14,10,1,1,0,13,20,2,Tottenham Hotspur Stadium
+2020/21,Crystal Palace,Arsenal,Wed 19 May 2021,31.3,2,0,7,12,1,1,0,7,6,3,Selhurst Park
+2020/21,Burnley,Liverpool,Wed 19 May 2021,41.2,0,0,10,10,0,0,0,7,20,3,Turf Moor
+2020/21,West Bromwich Albion,West Ham United,Wed 19 May 2021,52.5,2,0,8,14,1,2,0,11,21,3,The Hawthorns
+2020/21,Manchester United,Fulham,Tue 18 May 2021,57.1,2,0,10,13,1,3,0,15,8,1,Old Trafford
+2020/21,Southampton,Leeds United,Tue 18 May 2021,51.3,0,0,10,18,0,3,0,12,15,2,St. Mary's Stadium
+2020/21,Brighton and Hove Albion,Manchester City,Tue 18 May 2021,62.7,3,0,13,19,3,3,1,11,8,2,Amex Stadium
+2020/21,Chelsea,Leicester City,Tue 18 May 2021,58.6,2,0,15,17,2,5,0,16,7,1,Stamford Bridge
+2020/21,Crystal Palace,Aston Villa,Sun 16 May 2021,45.5,3,0,23,23,3,2,0,13,19,2,Selhurst Park
+2020/21,Tottenham Hotspur,Wolverhampton Wanderers,Sun 16 May 2021,61.9,1,0,8,24,2,0,0,11,15,0,Tottenham Hotspur Stadium
+2020/21,West Bromwich Albion,Liverpool,Sun 16 May 2021,23.7,0,0,7,9,1,0,0,14,26,2,The Hawthorns
+2020/21,Everton,Sheffield United,Sun 16 May 2021,62.4,1,0,8,16,0,3,0,12,10,1,Goodison Park
+2020/21,Burnley,Leeds United,Sat 15 May 2021,48.2,1,0,10,16,0,1,0,10,16,4,Turf Moor
+2020/21,Southampton,Fulham,Sat 15 May 2021,46.2,0,0,9,11,3,1,0,15,10,1,St. Mary's Stadium
+2020/21,Brighton and Hove Albion,West Ham United,Sat 15 May 2021,51.1,1,0,7,10,1,0,0,5,15,1,Amex Stadium
+2020/21,Newcastle United,Manchester City,Fri 14 May 2021,17.9,2,0,11,11,3,2,0,10,15,4,St. James' Park
+2020/21,Aston Villa,Everton,Thu 13 May 2021,58,2,0,9,13,0,1,0,12,15,0,Villa Park
+2020/21,Manchester United,Liverpool,Thu 13 May 2021,53.3,3,0,10,18,2,0,0,12,17,4,Old Trafford
+2020/21,Chelsea,Arsenal,Wed 12 May 2021,67.7,0,0,7,19,0,1,0,6,5,1,Stamford Bridge
+2020/21,Manchester United,Leicester City,Tue 11 May 2021,53.1,0,0,9,4,1,0,0,12,12,2,Old Trafford
+2020/21,Southampton,Crystal Palace,Tue 11 May 2021,62.7,2,0,20,13,3,3,0,13,11,1,St. Mary's Stadium
+2020/21,Fulham,Burnley,Mon 10 May 2021,68,2,0,11,21,0,0,0,10,14,2,Craven Cottage
+2020/21,Wolverhampton Wanderers,Brighton and Hove Albion,Sun 9 May 2021,60.7,2,0,12,16,2,2,2,7,5,1,Molineux Stadium
+2020/21,Aston Villa,Manchester United,Sun 9 May 2021,41.1,1,1,13,11,1,1,0,18,18,3,Villa Park
+2020/21,West Ham United,Everton,Sun 9 May 2021,68.6,2,0,8,11,0,1,0,10,9,1,London Stadium
+2020/21,Arsenal,West Bromwich Albion,Sun 9 May 2021,65.7,1,0,7,15,3,2,0,9,12,1,Emirates Stadium
+2020/21,Manchester City,Chelsea,Sat 8 May 2021,48.3,2,0,12,16,1,0,0,10,12,2,Etihad Stadium
+2020/21,Liverpool,Southampton,Sat 8 May 2021,54.1,0,0,10,14,2,1,0,6,12,0,Anfield
+2020/21,Leeds United,Tottenham Hotspur,Sat 8 May 2021,53.3,1,0,12,16,3,2,0,10,11,1,Elland Road
+2020/21,Sheffield United,Crystal Palace,Sat 8 May 2021,49.8,1,0,11,7,0,1,0,8,21,2,Bramall Lane
+2020/21,Leicester City,Newcastle United,Fri 7 May 2021,68.3,1,0,12,25,2,1,0,9,14,4,King Power Stadium
+2020/21,West Bromwich Albion,Wolverhampton Wanderers,Mon 3 May 2021,42.4,2,0,17,10,1,0,0,11,20,1,The Hawthorns
+2020/21,Burnley,West Ham United,Mon 3 May 2021,44.6,2,0,4,8,1,1,0,8,22,2,Turf Moor
+2020/21,Newcastle United,Arsenal,Sun 2 May 2021,38.6,2,1,10,5,0,1,0,9,19,2,St. James' Park
+2020/21,Tottenham Hotspur,Sheffield United,Sun 2 May 2021,65.8,1,0,8,20,4,1,0,9,8,0,Tottenham Hotspur Stadium
+2020/21,Crystal Palace,Manchester City,Sat 1 May 2021,30,2,0,9,9,0,0,0,10,20,2,Selhurst Park
+2020/21,Brighton and Hove Albion,Leeds United,Sat 1 May 2021,41.9,1,0,17,17,2,1,0,6,11,0,Amex Stadium
+2020/21,Chelsea,Fulham,Sat 1 May 2021,48.7,1,0,15,9,2,1,0,8,10,0,Stamford Bridge
+2020/21,Everton,Aston Villa,Sat 1 May 2021,47.5,0,0,10,16,1,2,0,13,13,2,Goodison Park
+2020/21,Southampton,Leicester City,Fri 30 Apr 2021,29.2,1,1,9,5,1,0,0,13,23,1,St. Mary's Stadium
+2020/21,Leicester City,Crystal Palace,Mon 26 Apr 2021,66.8,0,0,13,13,2,1,0,12,4,1,King Power Stadium
+2020/21,Wolverhampton Wanderers,Burnley,Sun 25 Apr 2021,59.2,1,0,8,12,0,2,0,9,14,4,Molineux Stadium
+2020/21,Leeds United,Manchester United,Sun 25 Apr 2021,44.2,4,0,21,6,0,1,0,11,16,0,Elland Road
+2020/21,Aston Villa,West Bromwich Albion,Sun 25 Apr 2021,70.2,0,0,14,24,2,2,0,9,10,2,Villa Park
+2020/21,Liverpool,Newcastle United,Sat 24 Apr 2021,68.5,2,0,9,22,1,1,0,7,7,1,Anfield
+2020/21,West Ham United,Chelsea,Sat 24 Apr 2021,44.5,0,1,9,9,0,4,0,11,17,1,London Stadium
+2020/21,Sheffield United,Brighton and Hove Albion,Sat 24 Apr 2021,31.5,3,0,13,7,1,0,0,7,17,0,Bramall Lane
+2020/21,Arsenal,Everton,Fri 23 Apr 2021,59.1,1,0,13,14,0,3,0,10,8,1,Emirates Stadium
+2020/21,Leicester City,West Bromwich Albion,Thu 22 Apr 2021,72.7,0,0,13,17,3,2,0,12,4,0,King Power Stadium
+2020/21,Tottenham Hotspur,Southampton,Wed 21 Apr 2021,61.7,2,0,10,12,2,1,0,14,10,1,Tottenham Hotspur Stadium
+2020/21,Aston Villa,Manchester City,Wed 21 Apr 2021,28,0,1,12,8,1,1,1,7,13,2,Villa Park
+2020/21,Chelsea,Brighton and Hove Albion,Tue 20 Apr 2021,64.4,2,0,8,7,0,0,1,9,11,0,Stamford Bridge
+2020/21,Leeds United,Liverpool,Mon 19 Apr 2021,61.9,2,0,7,12,1,1,0,15,17,1,Elland Road
+2020/21,Arsenal,Fulham,Sun 18 Apr 2021,69.5,0,0,9,18,1,3,0,11,3,1,Emirates Stadium
+2020/21,Manchester United,Burnley,Sun 18 Apr 2021,69.4,1,0,9,17,3,2,0,12,10,1,Old Trafford
+2020/21,Newcastle United,West Ham United,Sat 17 Apr 2021,34.6,2,0,9,16,3,0,1,7,16,2,St. James' Park
+2020/21,Wolverhampton Wanderers,Sheffield United,Sat 17 Apr 2021,47.5,1,0,8,10,1,2,0,15,8,0,Molineux Stadium
+2020/21,Everton,Tottenham Hotspur,Fri 16 Apr 2021,52.8,1,0,8,18,2,1,0,8,12,2,Goodison Park
+2020/21,West Bromwich Albion,Southampton,Mon 12 Apr 2021,39.5,0,0,12,15,3,1,0,11,14,0,The Hawthorns
+2020/21,Brighton and Hove Albion,Everton,Mon 12 Apr 2021,55.2,1,0,12,23,0,2,0,7,8,0,Amex Stadium
+2020/21,Burnley,Newcastle United,Sun 11 Apr 2021,57.1,1,0,11,24,1,0,0,12,10,2,Turf Moor
+2020/21,West Ham United,Leicester City,Sun 11 Apr 2021,36.3,3,0,7,4,3,3,0,13,15,2,London Stadium
+2020/21,Tottenham Hotspur,Manchester United,Sun 11 Apr 2021,46.8,1,0,11,12,1,5,0,15,12,3,Tottenham Hotspur Stadium
+2020/21,Sheffield United,Arsenal,Sun 11 Apr 2021,45.1,1,0,9,7,0,1,0,6,14,3,Bramall Lane
+2020/21,Manchester City,Leeds United,Sat 10 Apr 2021,71.1,3,0,12,29,1,1,1,15,2,2,Etihad Stadium
+2020/21,Liverpool,Aston Villa,Sat 10 Apr 2021,66.3,2,0,16,23,2,4,0,11,9,1,Anfield
+2020/21,Crystal Palace,Chelsea,Sat 10 Apr 2021,35.7,1,0,7,1,1,0,0,12,23,4,Selhurst Park
+2020/21,Fulham,Wolverhampton Wanderers,Fri 9 Apr 2021,49.6,0,0,11,14,0,0,0,8,7,1,Craven Cottage
+2020/21,Everton,Crystal Palace,Mon 5 Apr 2021,47.5,2,0,10,15,1,0,0,10,13,1,Goodison Park
+2020/21,Wolverhampton Wanderers,West Ham United,Mon 5 Apr 2021,66.1,1,0,9,20,2,4,0,9,9,3,Molineux Stadium
+2020/21,Southampton,Burnley,Sun 4 Apr 2021,53.4,0,0,11,24,3,0,0,10,7,2,St. Mary's Stadium
+2020/21,Newcastle United,Tottenham Hotspur,Sun 4 Apr 2021,41.2,3,0,13,22,2,2,0,14,11,2,St. James' Park
+2020/21,Aston Villa,Fulham,Sun 4 Apr 2021,52.5,1,0,14,14,3,2,0,20,15,1,Villa Park
+2020/21,Manchester United,Brighton and Hove Albion,Sun 4 Apr 2021,57.7,2,0,14,15,2,2,0,7,5,1,Old Trafford
+2020/21,Chelsea,West Bromwich Albion,Sat 3 Apr 2021,66.2,1,1,11,18,2,1,0,6,14,5,Stamford Bridge
+2020/21,Leeds United,Sheffield United,Sat 3 Apr 2021,54.1,1,0,12,23,2,2,0,13,9,1,Elland Road
+2020/21,Leicester City,Manchester City,Sat 3 Apr 2021,43.8,2,0,13,5,0,3,0,12,11,2,King Power Stadium
+2020/21,Arsenal,Liverpool,Sat 3 Apr 2021,35.8,1,0,10,3,0,1,0,10,16,3,Emirates Stadium
+2020/21,West Ham United,Arsenal,Sun 21 Mar 2021,36.9,3,0,18,15,3,1,0,8,16,3,London Stadium
+2020/21,Aston Villa,Tottenham Hotspur,Sun 21 Mar 2021,50.1,3,0,18,8,0,2,0,13,9,2,Villa Park
+2020/21,Brighton and Hove Albion,Newcastle United,Sat 20 Mar 2021,65.3,0,0,12,11,3,1,0,5,3,0,Amex Stadium
+2020/21,Fulham,Leeds United,Fri 19 Mar 2021,51.2,2,0,13,13,1,2,0,12,13,2,Craven Cottage
+2020/21,Wolverhampton Wanderers,Liverpool,Mon 15 Mar 2021,52.7,2,0,17,10,0,1,0,10,12,1,Molineux Stadium
+2020/21,Southampton,Brighton and Hove Albion,Sun 14 Mar 2021,59.4,0,0,11,9,1,0,0,10,8,2,St. Mary's Stadium
+2020/21,Leicester City,Sheffield United,Sun 14 Mar 2021,71.7,0,0,10,19,5,2,0,9,1,0,King Power Stadium
+2020/21,Arsenal,Tottenham Hotspur,Sun 14 Mar 2021,52.6,1,0,12,13,2,2,1,14,6,1,Emirates Stadium
+2020/21,Manchester United,West Ham United,Sun 14 Mar 2021,61.8,4,0,12,15,1,0,0,2,7,0,Old Trafford
+2020/21,Leeds United,Chelsea,Sat 13 Mar 2021,37.7,3,0,16,7,0,0,0,6,15,0,Elland Road
+2020/21,Crystal Palace,West Bromwich Albion,Sat 13 Mar 2021,44.3,3,0,16,6,1,1,0,15,12,0,Selhurst Park
+2020/21,Everton,Burnley,Sat 13 Mar 2021,65.5,0,0,9,14,1,4,0,6,14,2,Goodison Park
+2020/21,Fulham,Manchester City,Sat 13 Mar 2021,46.1,0,0,14,3,0,0,0,13,8,3,Craven Cottage
+2020/21,Newcastle United,Aston Villa,Fri 12 Mar 2021,49.2,2,0,10,12,1,3,0,10,15,1,St. James' Park
+2020/21,Manchester City,Southampton,Wed 10 Mar 2021,58.3,1,0,6,17,5,0,0,4,11,2,Etihad Stadium
+2020/21,Chelsea,Everton,Mon 8 Mar 2021,65.5,0,0,11,19,2,3,0,12,7,0,Stamford Bridge
+2020/21,West Ham United,Leeds United,Mon 8 Mar 2021,34.7,1,0,9,16,2,1,0,9,17,0,London Stadium
+2020/21,West Bromwich Albion,Newcastle United,Sun 7 Mar 2021,52.8,0,0,11,13,0,0,0,10,9,0,The Hawthorns
+2020/21,Liverpool,Fulham,Sun 7 Mar 2021,63.1,2,0,10,16,0,3,0,8,10,1,Anfield
+2020/21,Manchester City,Manchester United,Sun 7 Mar 2021,65.9,0,0,9,23,0,3,0,12,8,2,Etihad Stadium
+2020/21,Tottenham Hotspur,Crystal Palace,Sun 7 Mar 2021,64.2,2,0,8,12,4,3,0,17,5,1,Tottenham Hotspur Stadium
+2020/21,Burnley,Arsenal,Sat 6 Mar 2021,41.1,1,1,5,9,1,1,0,12,15,1,Turf Moor
+2020/21,Sheffield United,Southampton,Sat 6 Mar 2021,50.9,4,0,17,8,0,3,0,11,15,2,Bramall Lane
+2020/21,Aston Villa,Wolverhampton Wanderers,Sat 6 Mar 2021,49.2,1,0,13,9,0,0,0,13,10,0,Villa Park
+2020/21,Brighton and Hove Albion,Leicester City,Sat 6 Mar 2021,36.6,0,0,14,7,1,1,0,8,8,2,Amex Stadium
+2020/21,Fulham,Tottenham Hotspur,Thu 4 Mar 2021,59.6,2,0,13,11,0,1,0,9,9,1,Craven Cottage
+2020/21,West Bromwich Albion,Everton,Thu 4 Mar 2021,48.1,3,0,9,11,0,1,0,7,11,1,The Hawthorns
+2020/21,Liverpool,Chelsea,Thu 4 Mar 2021,54.2,0,0,9,7,0,0,0,8,11,1,Anfield
+2020/21,Burnley,Leicester City,Wed 3 Mar 2021,38.9,0,0,6,12,1,2,0,12,16,1,Turf Moor
+2020/21,Crystal Palace,Manchester United,Wed 3 Mar 2021,37,1,0,4,8,0,0,0,13,11,0,Selhurst Park
+2020/21,Sheffield United,Aston Villa,Wed 3 Mar 2021,28.2,1,1,13,9,1,0,0,6,16,0,Bramall Lane
+2020/21,Manchester City,Wolverhampton Wanderers,Tue 2 Mar 2021,72.1,0,0,9,22,4,1,0,5,6,1,Etihad Stadium
+2020/21,Everton,Southampton,Mon 1 Mar 2021,46.6,0,0,13,7,1,2,0,9,9,0,Goodison Park
+2020/21,Crystal Palace,Fulham,Sun 28 Feb 2021,40.4,1,0,10,3,0,1,0,14,16,0,Selhurst Park
+2020/21,Leicester City,Arsenal,Sun 28 Feb 2021,44.2,2,0,15,8,1,1,0,3,12,3,King Power Stadium
+2020/21,Tottenham Hotspur,Burnley,Sun 28 Feb 2021,58.3,0,0,6,16,4,0,0,10,10,0,Tottenham Hotspur Stadium
+2020/21,Chelsea,Manchester United,Sun 28 Feb 2021,57.4,1,0,11,18,0,2,0,12,11,0,Stamford Bridge
+2020/21,Sheffield United,Liverpool,Sun 28 Feb 2021,39.3,0,0,9,8,0,0,0,9,16,2,Bramall Lane
+2020/21,Manchester City,West Ham United,Sat 27 Feb 2021,63.2,1,0,8,10,2,1,0,11,9,1,Etihad Stadium
+2020/21,West Bromwich Albion,Brighton and Hove Albion,Sat 27 Feb 2021,29.9,0,0,11,6,1,1,0,13,15,0,The Hawthorns
+2020/21,Leeds United,Aston Villa,Sat 27 Feb 2021,69.2,3,0,14,13,0,2,0,14,9,1,Elland Road
+2020/21,Newcastle United,Wolverhampton Wanderers,Sat 27 Feb 2021,47.6,2,0,11,19,1,0,0,13,14,1,St. James' Park
+2020/21,Leeds United,Southampton,Tue 23 Feb 2021,46.7,1,0,11,11,3,2,0,13,13,0,Elland Road
+2020/21,Brighton and Hove Albion,Crystal Palace,Mon 22 Feb 2021,74.5,2,0,11,25,1,0,0,6,3,2,Amex Stadium
+2020/21,West Ham United,Tottenham Hotspur,Sun 21 Feb 2021,30.8,4,0,14,4,2,3,0,7,20,1,London Stadium
+2020/21,Aston Villa,Leicester City,Sun 21 Feb 2021,49.9,2,0,11,11,1,1,0,12,16,2,Villa Park
+2020/21,Arsenal,Manchester City,Sun 21 Feb 2021,45,2,0,11,7,0,2,0,9,15,1,Emirates Stadium
+2020/21,Manchester United,Newcastle United,Sun 21 Feb 2021,71.6,1,0,9,15,3,2,0,11,10,1,Old Trafford
+2020/21,Southampton,Chelsea,Sat 20 Feb 2021,29.1,1,0,10,4,1,1,0,10,9,1,St. Mary's Stadium
+2020/21,Burnley,West Bromwich Albion,Sat 20 Feb 2021,62.1,3,0,16,6,0,0,1,10,10,0,Turf Moor
+2020/21,Liverpool,Everton,Sat 20 Feb 2021,71.4,2,0,10,15,0,1,0,10,9,2,Anfield
+2020/21,Fulham,Sheffield United,Sat 20 Feb 2021,65.1,1,0,11,15,1,2,0,14,4,0,Craven Cottage
+2020/21,Wolverhampton Wanderers,Leeds United,Fri 19 Feb 2021,41,1,0,13,15,1,0,0,8,18,0,Molineux Stadium
+2020/21,Burnley,Fulham,Wed 17 Feb 2021,46,1,0,7,8,1,1,0,13,8,1,Turf Moor
+2020/21,Everton,Manchester City,Wed 17 Feb 2021,29.6,2,0,8,3,1,1,0,8,16,3,Goodison Park
+2020/21,West Ham United,Sheffield United,Mon 15 Feb 2021,45.9,0,0,11,13,3,2,0,12,8,0,London Stadium
+2020/21,Chelsea,Newcastle United,Mon 15 Feb 2021,65.6,0,0,9,18,2,0,0,13,10,0,Stamford Bridge
+2020/21,Southampton,Wolverhampton Wanderers,Sun 14 Feb 2021,51.1,2,0,10,7,1,2,0,9,10,2,St. Mary's Stadium
+2020/21,West Bromwich Albion,Manchester United,Sun 14 Feb 2021,26.9,5,0,13,7,1,0,0,10,10,1,The Hawthorns
+2020/21,Arsenal,Leeds United,Sun 14 Feb 2021,45.9,0,0,8,13,4,2,0,17,9,2,Emirates Stadium
+2020/21,Everton,Fulham,Sun 14 Feb 2021,49.7,1,0,7,7,0,1,0,16,12,2,Goodison Park
+2020/21,Leicester City,Liverpool,Sat 13 Feb 2021,38,1,0,7,11,3,2,0,6,15,1,King Power Stadium
+2020/21,Crystal Palace,Burnley,Sat 13 Feb 2021,53.3,0,0,15,13,0,0,0,14,16,3,Selhurst Park
+2020/21,Manchester City,Tottenham Hotspur,Sat 13 Feb 2021,60.4,1,0,12,15,3,3,0,13,7,0,Etihad Stadium
+2020/21,Brighton and Hove Albion,Aston Villa,Sat 13 Feb 2021,58.2,2,0,16,26,0,3,0,12,4,0,Amex Stadium
+2020/21,Leeds United,Crystal Palace,Mon 8 Feb 2021,68.2,0,0,7,17,2,2,0,8,8,0,Elland Road
+2020/21,Tottenham Hotspur,West Bromwich Albion,Sun 7 Feb 2021,65.6,1,0,16,13,2,2,0,12,4,0,Tottenham Hotspur Stadium
+2020/21,Wolverhampton Wanderers,Leicester City,Sun 7 Feb 2021,43.9,1,0,11,13,0,3,0,15,13,0,Molineux Stadium
+2020/21,Liverpool,Manchester City,Sun 7 Feb 2021,55.9,2,0,13,8,1,1,0,8,8,4,Anfield
+2020/21,Sheffield United,Chelsea,Sun 7 Feb 2021,31.1,1,0,8,8,1,0,0,8,9,2,Bramall Lane
+2020/21,Aston Villa,Arsenal,Sat 6 Feb 2021,33.6,3,0,12,12,1,2,0,12,14,0,Villa Park
+2020/21,Burnley,Brighton and Hove Albion,Sat 6 Feb 2021,54.5,2,0,8,20,1,0,0,10,10,1,Turf Moor
+2020/21,Newcastle United,Southampton,Sat 6 Feb 2021,26.2,2,1,11,6,3,1,0,14,14,2,St. James' Park
+2020/21,Fulham,West Ham United,Sat 6 Feb 2021,60.6,1,0,11,20,0,3,1,10,8,0,Craven Cottage
+2020/21,Manchester United,Everton,Sat 6 Feb 2021,62,2,0,14,14,3,1,0,10,6,3,Old Trafford
+2020/21,Tottenham Hotspur,Chelsea,Thu 4 Feb 2021,42,2,0,20,7,0,3,0,14,16,1,Tottenham Hotspur Stadium
+2020/21,Burnley,Manchester City,Wed 3 Feb 2021,25.7,2,0,8,2,0,1,0,5,13,2,Turf Moor
+2020/21,Fulham,Leicester City,Wed 3 Feb 2021,57.5,3,0,17,8,0,1,0,10,9,2,Craven Cottage
+2020/21,Leeds United,Everton,Wed 3 Feb 2021,63.2,2,0,12,16,1,3,0,12,10,2,Elland Road
+2020/21,Aston Villa,West Ham United,Wed 3 Feb 2021,56.5,1,0,11,9,1,1,0,16,20,3,Villa Park
+2020/21,Liverpool,Brighton and Hove Albion,Wed 3 Feb 2021,63.4,1,0,12,11,0,0,0,6,13,1,Anfield
+2020/21,Sheffield United,West Bromwich Albion,Tue 2 Feb 2021,68.3,2,0,11,14,2,1,0,9,8,1,Bramall Lane
+2020/21,Wolverhampton Wanderers,Arsenal,Tue 2 Feb 2021,54.6,3,0,11,11,2,2,2,8,9,1,Molineux Stadium
+2020/21,Manchester United,Southampton,Tue 2 Feb 2021,74.6,2,0,11,24,9,3,2,6,3,0,Old Trafford
+2020/21,Newcastle United,Crystal Palace,Tue 2 Feb 2021,61.3,1,0,14,21,1,3,0,11,6,2,St. James' Park
+2020/21,Chelsea,Burnley,Sun 31 Jan 2021,71.1,0,0,7,19,2,1,0,9,1,0,Stamford Bridge
+2020/21,Leicester City,Leeds United,Sun 31 Jan 2021,50.8,0,0,17,18,1,3,0,16,8,3,King Power Stadium
+2020/21,West Ham United,Liverpool,Sun 31 Jan 2021,32.8,2,0,7,8,1,0,0,8,14,3,London Stadium
+2020/21,Brighton and Hove Albion,Tottenham Hotspur,Sun 31 Jan 2021,43.2,2,0,11,16,1,1,0,11,8,0,Amex Stadium
+2020/21,Everton,Newcastle United,Sat 30 Jan 2021,60.9,3,0,13,11,0,4,0,6,13,2,Goodison Park
+2020/21,Crystal Palace,Wolverhampton Wanderers,Sat 30 Jan 2021,47.3,1,0,7,11,1,2,0,10,6,0,Selhurst Park
+2020/21,Manchester City,Sheffield United,Sat 30 Jan 2021,75,0,0,7,10,1,3,0,10,4,0,Etihad Stadium
+2020/21,West Bromwich Albion,Fulham,Sat 30 Jan 2021,37.5,1,0,9,5,2,0,0,10,12,2,The Hawthorns
+2020/21,Arsenal,Manchester United,Sat 30 Jan 2021,43.3,1,0,9,17,0,3,0,16,14,0,Emirates Stadium
+2020/21,Southampton,Aston Villa,Sat 30 Jan 2021,59.8,1,0,12,20,0,0,0,11,8,1,St. Mary's Stadium
+2020/21,Tottenham Hotspur,Liverpool,Thu 28 Jan 2021,49.8,1,0,9,3,1,2,0,11,14,3,Tottenham Hotspur Stadium
+2020/21,Burnley,Aston Villa,Wed 27 Jan 2021,38.2,1,0,16,10,3,0,0,7,18,2,Turf Moor
+2020/21,Chelsea,Wolverhampton Wanderers,Wed 27 Jan 2021,78.9,1,0,14,14,0,1,0,7,4,0,Stamford Bridge
+2020/21,Brighton and Hove Albion,Fulham,Wed 27 Jan 2021,49.5,2,0,10,16,0,1,0,14,10,0,Amex Stadium
+2020/21,Everton,Leicester City,Wed 27 Jan 2021,35,1,0,12,8,1,1,0,10,19,1,Goodison Park
+2020/21,Manchester United,Sheffield United,Wed 27 Jan 2021,75.8,1,0,10,16,1,1,0,12,5,2,Old Trafford
+2020/21,Crystal Palace,West Ham United,Tue 26 Jan 2021,54.2,0,0,9,6,2,0,0,8,17,3,Selhurst Park
+2020/21,Newcastle United,Leeds United,Tue 26 Jan 2021,42.3,1,0,10,22,1,3,0,15,9,2,St. James' Park
+2020/21,Southampton,Arsenal,Tue 26 Jan 2021,58,1,0,11,13,1,2,0,6,9,3,St. Mary's Stadium
+2020/21,West Bromwich Albion,Manchester City,Tue 26 Jan 2021,22.3,2,0,8,4,0,0,0,8,18,5,The Hawthorns
+2020/21,Aston Villa,Newcastle United,Sat 23 Jan 2021,59.2,0,0,9,14,2,3,0,18,7,0,Villa Park
+2020/21,Liverpool,Burnley,Thu 21 Jan 2021,71.8,2,0,11,27,0,1,0,8,6,1,Anfield
+2020/21,Manchester City,Aston Villa,Wed 20 Jan 2021,69.1,0,0,10,28,2,2,0,9,11,0,Etihad Stadium
+2020/21,Fulham,Manchester United,Wed 20 Jan 2021,38.4,3,0,6,12,1,1,0,10,15,2,Craven Cottage
+2020/21,Leicester City,Chelsea,Tue 19 Jan 2021,35.6,1,0,7,8,2,3,0,16,9,0,King Power Stadium
+2020/21,West Ham United,West Bromwich Albion,Tue 19 Jan 2021,59,0,0,10,14,2,1,0,10,6,1,London Stadium
+2020/21,Arsenal,Newcastle United,Mon 18 Jan 2021,66.4,0,0,9,20,3,0,0,8,4,0,Emirates Stadium
+2020/21,Sheffield United,Tottenham Hotspur,Sun 17 Jan 2021,42,4,0,13,15,1,0,0,4,14,3,Bramall Lane
+2020/21,Liverpool,Manchester United,Sun 17 Jan 2021,65.7,2,0,15,17,0,1,0,6,8,0,Anfield
+2020/21,Manchester City,Crystal Palace,Sun 17 Jan 2021,72.2,0,0,9,13,4,0,0,8,2,0,Etihad Stadium
+2020/21,Wolverhampton Wanderers,West Bromwich Albion,Sat 16 Jan 2021,67.8,2,0,10,23,2,1,0,14,12,3,Molineux Stadium
+2020/21,Leeds United,Brighton and Hove Albion,Sat 16 Jan 2021,66.6,1,0,8,7,0,1,0,9,7,1,Elland Road
+2020/21,West Ham United,Burnley,Sat 16 Jan 2021,44.8,2,0,12,15,1,1,0,9,10,0,London Stadium
+2020/21,Fulham,Chelsea,Sat 16 Jan 2021,30.2,2,1,11,10,0,3,0,10,21,1,Craven Cottage
+2020/21,Leicester City,Southampton,Sat 16 Jan 2021,47.4,2,0,10,16,2,2,0,11,8,0,King Power Stadium
+2020/21,Arsenal,Crystal Palace,Thu 14 Jan 2021,67.3,1,0,11,11,0,1,0,11,12,0,Emirates Stadium
+2020/21,Manchester City,Brighton and Hove Albion,Wed 13 Jan 2021,65.1,0,0,4,16,1,2,0,12,5,0,Etihad Stadium
+2020/21,Tottenham Hotspur,Fulham,Wed 13 Jan 2021,52.4,1,0,13,15,1,2,0,15,15,1,Tottenham Hotspur Stadium
+2020/21,Sheffield United,Newcastle United,Tue 12 Jan 2021,66.2,2,0,13,17,1,3,1,12,7,0,Bramall Lane
+2020/21,Burnley,Manchester United,Tue 12 Jan 2021,37.3,1,0,15,11,0,2,0,13,13,1,Turf Moor
+2020/21,Wolverhampton Wanderers,Everton,Tue 12 Jan 2021,52.8,2,0,6,12,1,2,0,11,5,2,Molineux Stadium
+2020/21,Southampton,Liverpool,Mon 4 Jan 2021,33,1,0,5,7,1,3,0,12,17,0,St. Mary's Stadium
+2020/21,Newcastle United,Leicester City,Sun 3 Jan 2021,43.3,0,0,10,8,1,2,0,11,9,2,St. James' Park
+2020/21,Chelsea,Manchester City,Sun 3 Jan 2021,54.6,3,0,11,9,1,1,0,10,18,3,Stamford Bridge
+2020/21,Tottenham Hotspur,Leeds United,Sat 2 Jan 2021,36.7,2,1,15,20,3,1,0,13,18,0,Tottenham Hotspur Stadium
+2020/21,Crystal Palace,Sheffield United,Sat 2 Jan 2021,44.4,1,0,8,9,2,3,0,18,7,0,Selhurst Park
+2020/21,Brighton and Hove Albion,Wolverhampton Wanderers,Sat 2 Jan 2021,54.5,2,0,13,13,3,1,0,8,11,3,Amex Stadium
+2020/21,West Bromwich Albion,Arsenal,Sat 2 Jan 2021,38.1,1,0,7,7,0,2,0,4,21,4,The Hawthorns
+2020/21,Everton,West Ham United,Fri 1 Jan 2021,60,2,0,9,10,0,0,0,7,11,1,Goodison Park
+2020/21,Manchester United,Aston Villa,Fri 1 Jan 2021,48.4,4,0,22,19,2,0,0,10,15,1,Old Trafford
+2020/21,Newcastle United,Liverpool,Wed 30 Dec 2020,26.9,2,0,9,8,0,3,0,13,11,0,St. James' Park
+2020/21,Brighton and Hove Albion,Arsenal,Tue 29 Dec 2020,49.7,2,0,11,13,0,0,0,4,11,1,Amex Stadium
+2020/21,Burnley,Sheffield United,Tue 29 Dec 2020,37.1,1,0,13,5,1,2,0,17,7,0,Turf Moor
+2020/21,Southampton,West Ham United,Tue 29 Dec 2020,62.6,3,0,16,8,0,1,0,15,8,0,St. Mary's Stadium
+2020/21,West Bromwich Albion,Leeds United,Tue 29 Dec 2020,24.4,0,0,7,4,0,1,0,10,14,5,The Hawthorns
+2020/21,Manchester United,Wolverhampton Wanderers,Tue 29 Dec 2020,58.2,1,0,11,11,1,1,0,7,9,0,Old Trafford
+2020/21,Crystal Palace,Leicester City,Mon 28 Dec 2020,33.1,0,0,10,4,1,1,0,7,17,1,Selhurst Park
+2020/21,Chelsea,Aston Villa,Mon 28 Dec 2020,63.4,3,0,16,16,1,1,0,3,10,1,Stamford Bridge
+2020/21,Leeds United,Burnley,Sun 27 Dec 2020,51.4,0,0,8,11,1,3,0,14,14,0,Elland Road
+2020/21,West Ham United,Brighton and Hove Albion,Sun 27 Dec 2020,43.6,0,0,6,11,2,0,0,8,13,2,London Stadium
+2020/21,Liverpool,West Bromwich Albion,Sun 27 Dec 2020,78.4,0,0,8,17,1,1,0,5,5,1,Anfield
+2020/21,Wolverhampton Wanderers,Tottenham Hotspur,Sun 27 Dec 2020,54.8,4,0,20,11,1,1,0,13,6,1,Molineux Stadium
+2020/21,Arsenal,Chelsea,Sat 26 Dec 2020,39,2,0,13,15,3,1,0,10,19,1,Emirates Stadium
+2020/21,Manchester City,Newcastle United,Sat 26 Dec 2020,75.1,2,0,5,11,2,2,0,12,7,0,Etihad Stadium
+2020/21,Sheffield United,Everton,Sat 26 Dec 2020,43.8,2,0,11,10,0,4,0,10,7,1,Bramall Lane
+2020/21,Leicester City,Manchester United,Sat 26 Dec 2020,54.4,2,0,10,10,2,1,0,17,9,2,King Power Stadium
+2020/21,Aston Villa,Crystal Palace,Sat 26 Dec 2020,38.6,1,1,18,20,3,4,0,16,13,0,Villa Park
+2020/21,Fulham,Southampton,Sat 26 Dec 2020,46.7,2,0,15,10,0,0,0,12,3,0,Craven Cottage
+2020/21,Burnley,Wolverhampton Wanderers,Mon 21 Dec 2020,36.4,2,0,11,10,2,1,0,15,15,1,Turf Moor
+2020/21,Chelsea,West Ham United,Mon 21 Dec 2020,53.7,0,0,11,11,3,0,0,6,6,0,Stamford Bridge
+2020/21,Brighton and Hove Albion,Sheffield United,Sun 20 Dec 2020,73.5,1,0,9,21,1,5,1,11,5,1,Amex Stadium
+2020/21,Tottenham Hotspur,Leicester City,Sun 20 Dec 2020,56.4,2,0,15,8,0,2,0,14,17,2,Tottenham Hotspur Stadium
+2020/21,Manchester United,Leeds United,Sun 20 Dec 2020,41.5,1,0,6,26,6,0,0,6,17,2,Old Trafford
+2020/21,West Bromwich Albion,Aston Villa,Sun 20 Dec 2020,32.7,1,1,14,1,0,2,0,8,19,3,The Hawthorns
+2020/21,Crystal Palace,Liverpool,Sat 19 Dec 2020,35.3,1,0,5,5,0,0,0,11,14,7,Selhurst Park
+2020/21,Southampton,Manchester City,Sat 19 Dec 2020,48.3,2,0,9,9,0,2,0,11,11,1,St. Mary's Stadium
+2020/21,Everton,Arsenal,Sat 19 Dec 2020,42.2,1,0,9,9,2,3,0,9,13,1,Goodison Park
+2020/21,Newcastle United,Fulham,Sat 19 Dec 2020,49.5,1,0,7,12,1,3,1,17,11,1,St. James' Park
+2020/21,Aston Villa,Burnley,Thu 17 Dec 2020,59.1,1,0,17,27,0,1,0,19,6,0,Villa Park
+2020/21,Sheffield United,Manchester United,Thu 17 Dec 2020,40.1,3,0,17,12,2,2,0,8,15,3,Bramall Lane
+2020/21,Arsenal,Southampton,Wed 16 Dec 2020,35.2,1,1,13,9,1,3,0,13,13,1,Emirates Stadium
+2020/21,Leeds United,Newcastle United,Wed 16 Dec 2020,68.7,3,0,10,25,5,1,0,13,10,2,Elland Road
+2020/21,Leicester City,Everton,Wed 16 Dec 2020,61,2,0,12,14,0,3,0,9,11,2,King Power Stadium
+2020/21,Fulham,Brighton and Hove Albion,Wed 16 Dec 2020,46.4,1,0,15,9,0,0,0,11,9,0,Craven Cottage
+2020/21,Liverpool,Tottenham Hotspur,Wed 16 Dec 2020,75.8,0,0,8,17,2,2,0,9,8,1,Anfield
+2020/21,West Ham United,Crystal Palace,Wed 16 Dec 2020,51.9,0,0,8,9,1,1,1,12,8,1,London Stadium
+2020/21,Wolverhampton Wanderers,Chelsea,Tue 15 Dec 2020,45.1,2,0,12,12,2,2,0,12,13,1,Molineux Stadium
+2020/21,Manchester City,West Bromwich Albion,Tue 15 Dec 2020,77.2,2,0,5,26,1,3,0,8,5,1,Etihad Stadium
+2020/21,Southampton,Sheffield United,Sun 13 Dec 2020,68.2,0,0,8,16,3,1,0,14,3,0,St. Mary's Stadium
+2020/21,Crystal Palace,Tottenham Hotspur,Sun 13 Dec 2020,42.9,1,0,15,16,1,1,0,11,14,1,Selhurst Park
+2020/21,Fulham,Liverpool,Sun 13 Dec 2020,24.9,3,0,9,10,1,1,0,5,12,1,Craven Cottage
+2020/21,Arsenal,Burnley,Sun 13 Dec 2020,64.7,2,1,5,18,0,1,0,11,10,1,Emirates Stadium
+2020/21,Leicester City,Brighton and Hove Albion,Sun 13 Dec 2020,54.1,2,0,9,15,3,1,0,10,12,0,King Power Stadium
+2020/21,Wolverhampton Wanderers,Aston Villa,Sat 12 Dec 2020,50.5,2,1,23,16,0,5,1,15,13,1,Molineux Stadium
+2020/21,Newcastle United,West Bromwich Albion,Sat 12 Dec 2020,45.3,2,0,9,12,2,3,0,12,13,1,St. James' Park
+2020/21,Manchester United,Manchester City,Sat 12 Dec 2020,46.1,1,0,13,11,0,1,0,6,9,0,Old Trafford
+2020/21,Everton,Chelsea,Sat 12 Dec 2020,28,2,0,10,9,1,3,0,11,10,0,Goodison Park
+2020/21,Leeds United,West Ham United,Fri 11 Dec 2020,64,1,0,12,13,1,2,0,10,19,2,Elland Road
+2020/21,Brighton and Hove Albion,Southampton,Mon 7 Dec 2020,47.7,3,0,12,12,1,3,0,12,10,2,Amex Stadium
+2020/21,West Bromwich Albion,Crystal Palace,Sun 6 Dec 2020,50.1,2,1,10,9,1,2,0,16,18,5,The Hawthorns
+2020/21,Sheffield United,Leicester City,Sun 6 Dec 2020,29.7,1,0,13,4,1,3,0,6,13,2,Bramall Lane
+2020/21,Tottenham Hotspur,Arsenal,Sun 6 Dec 2020,30.2,1,0,16,5,2,2,0,12,11,0,Tottenham Hotspur Stadium
+2020/21,Liverpool,Wolverhampton Wanderers,Sun 6 Dec 2020,60.6,1,0,8,11,4,1,0,14,9,0,Anfield
+2020/21,West Ham United,Manchester United,Sat 5 Dec 2020,39.3,0,0,9,19,1,0,0,10,15,3,London Stadium
+2020/21,Chelsea,Leeds United,Sat 5 Dec 2020,45.8,0,0,12,23,3,2,0,9,8,1,Stamford Bridge
+2020/21,Burnley,Everton,Sat 5 Dec 2020,41.4,0,0,6,8,1,0,0,9,13,1,Turf Moor
+2020/21,Manchester City,Fulham,Sat 5 Dec 2020,68.9,0,0,7,15,2,0,0,6,6,0,Etihad Stadium
+2020/21,Leicester City,Fulham,Mon 30 Nov 2020,68,0,0,9,16,1,2,0,21,10,2,King Power Stadium
+2020/21,West Ham United,Aston Villa,Mon 30 Nov 2020,34,1,0,20,6,2,1,0,7,16,1,London Stadium
+2020/21,Southampton,Manchester United,Sun 29 Nov 2020,49.9,1,0,12,10,2,0,0,12,15,3,St. Mary's Stadium
+2020/21,Chelsea,Tottenham Hotspur,Sun 29 Nov 2020,60.3,4,0,20,13,0,2,0,9,5,0,Stamford Bridge
+2020/21,Arsenal,Wolverhampton Wanderers,Sun 29 Nov 2020,56.2,3,0,13,13,1,4,0,13,11,2,Emirates Stadium
+2020/21,Brighton and Hove Albion,Liverpool,Sat 28 Nov 2020,40.4,2,0,9,11,1,1,0,13,6,1,Amex Stadium
+2020/21,Manchester City,Burnley,Sat 28 Nov 2020,68.6,0,0,12,19,5,0,0,4,9,0,Etihad Stadium
+2020/21,Everton,Leeds United,Sat 28 Nov 2020,41.8,1,0,8,15,0,2,0,14,23,1,Goodison Park
+2020/21,West Bromwich Albion,Sheffield United,Sat 28 Nov 2020,48.7,2,0,10,17,1,3,0,9,21,0,The Hawthorns
+2020/21,Crystal Palace,Newcastle United,Fri 27 Nov 2020,57.4,2,0,9,12,0,2,0,10,14,2,Selhurst Park
+2020/21,Burnley,Crystal Palace,Mon 23 Nov 2020,46.1,2,0,13,10,1,0,0,9,15,0,Turf Moor
+2020/21,Wolverhampton Wanderers,Southampton,Mon 23 Nov 2020,45.3,2,0,14,20,1,0,0,14,7,1,Molineux Stadium
+2020/21,Fulham,Everton,Sun 22 Nov 2020,54.1,2,0,14,14,2,0,0,10,9,3,Craven Cottage
+2020/21,Sheffield United,West Ham United,Sun 22 Nov 2020,50.9,0,0,7,9,0,0,0,6,15,1,Bramall Lane
+2020/21,Leeds United,Arsenal,Sun 22 Nov 2020,66.3,3,0,9,25,0,0,1,8,9,0,Elland Road
+2020/21,Liverpool,Leicester City,Sun 22 Nov 2020,56.4,0,0,15,24,3,2,0,6,11,0,Anfield
+2020/21,Newcastle United,Chelsea,Sat 21 Nov 2020,29,2,0,11,8,0,0,0,12,14,2,St. James' Park
+2020/21,Aston Villa,Brighton and Hove Albion,Sat 21 Nov 2020,55.4,2,0,5,15,1,1,1,18,7,2,Villa Park
+2020/21,Tottenham Hotspur,Manchester City,Sat 21 Nov 2020,33.9,2,0,13,4,2,2,0,19,22,0,Tottenham Hotspur Stadium
+2020/21,Manchester United,West Bromwich Albion,Sat 21 Nov 2020,63.1,1,0,12,17,1,1,0,17,7,0,Old Trafford
+2020/21,West Bromwich Albion,Tottenham Hotspur,Sun 8 Nov 2020,41.2,1,0,17,12,0,0,0,12,19,1,The Hawthorns
+2020/21,Leicester City,Wolverhampton Wanderers,Sun 8 Nov 2020,49.6,2,0,12,10,1,3,0,8,8,0,King Power Stadium
+2020/21,Manchester City,Liverpool,Sun 8 Nov 2020,54.6,3,0,19,7,1,1,0,11,10,1,Etihad Stadium
+2020/21,Arsenal,Aston Villa,Sun 8 Nov 2020,58.8,0,0,11,13,0,0,0,13,15,3,Emirates Stadium
+2020/21,Everton,Manchester United,Sat 7 Nov 2020,54.7,4,0,12,7,1,2,0,19,13,3,Goodison Park
+2020/21,Crystal Palace,Leeds United,Sat 7 Nov 2020,35.2,0,0,9,10,4,2,0,16,9,1,Selhurst Park
+2020/21,Chelsea,Sheffield United,Sat 7 Nov 2020,70.1,0,0,5,20,4,2,0,14,6,1,Stamford Bridge
+2020/21,West Ham United,Fulham,Sat 7 Nov 2020,53,2,0,10,16,1,2,0,9,13,0,London Stadium
+2020/21,Brighton and Hove Albion,Burnley,Fri 6 Nov 2020,58.9,1,0,11,19,0,0,0,5,4,0,Amex Stadium
+2020/21,Southampton,Newcastle United,Fri 6 Nov 2020,60.7,1,0,12,15,2,2,0,11,4,0,St. Mary's Stadium
+2020/21,Fulham,West Bromwich Albion,Mon 2 Nov 2020,45.7,3,0,13,13,2,2,0,11,10,0,Craven Cottage
+2020/21,Leeds United,Leicester City,Mon 2 Nov 2020,67.5,1,0,9,11,1,1,0,5,10,4,Elland Road
+2020/21,Aston Villa,Southampton,Sun 1 Nov 2020,55.9,1,0,12,19,3,2,0,17,9,4,Villa Park
+2020/21,Newcastle United,Everton,Sun 1 Nov 2020,37.7,2,0,9,11,2,4,0,10,15,1,St. James' Park
+2020/21,Manchester United,Arsenal,Sun 1 Nov 2020,53.3,3,0,12,8,0,3,0,12,7,1,Old Trafford
+2020/21,Tottenham Hotspur,Brighton and Hove Albion,Sun 1 Nov 2020,43.4,2,0,14,9,2,1,0,13,6,1,Tottenham Hotspur Stadium
+2020/21,Burnley,Chelsea,Sat 31 Oct 2020,36.3,1,0,10,5,0,0,0,15,14,3,Turf Moor
+2020/21,Liverpool,West Ham United,Sat 31 Oct 2020,72.4,0,0,13,9,2,1,0,14,4,1,Anfield
+2020/21,Sheffield United,Manchester City,Sat 31 Oct 2020,35.2,0,0,14,3,0,0,0,6,16,1,Bramall Lane
+2020/21,Wolverhampton Wanderers,Crystal Palace,Fri 30 Oct 2020,45,0,0,13,15,2,2,1,4,11,0,Molineux Stadium
+2020/21,Brighton and Hove Albion,West Bromwich Albion,Mon 26 Oct 2020,49.7,2,0,14,5,1,0,0,7,9,1,Amex Stadium
+2020/21,Burnley,Tottenham Hotspur,Mon 26 Oct 2020,38.3,2,0,9,13,0,0,0,7,9,1,Turf Moor
+2020/21,Southampton,Everton,Sun 25 Oct 2020,54.3,1,0,11,13,2,2,1,11,6,0,St. Mary's Stadium
+2020/21,Wolverhampton Wanderers,Newcastle United,Sun 25 Oct 2020,63.4,0,0,10,16,1,1,0,10,5,1,Molineux Stadium
+2020/21,Arsenal,Leicester City,Sun 25 Oct 2020,56.3,3,0,13,12,0,5,0,9,6,1,Emirates Stadium
+2020/21,West Ham United,Manchester City,Sat 24 Oct 2020,30.5,2,0,14,6,1,0,0,6,14,1,London Stadium
+2020/21,Fulham,Crystal Palace,Sat 24 Oct 2020,64.2,0,1,11,16,1,1,0,11,14,2,Craven Cottage
+2020/21,Manchester United,Chelsea,Sat 24 Oct 2020,50.2,3,0,8,14,0,1,0,6,6,0,Old Trafford
+2020/21,Liverpool,Sheffield United,Sat 24 Oct 2020,62.2,0,0,7,17,2,3,0,15,13,1,Anfield
+2020/21,Aston Villa,Leeds United,Fri 23 Oct 2020,40.8,2,0,14,12,0,2,0,17,27,3,Villa Park
+2020/21,West Bromwich Albion,Burnley,Mon 19 Oct 2020,56.8,2,0,15,13,0,2,0,17,9,0,The Hawthorns
+2020/21,Leeds United,Wolverhampton Wanderers,Mon 19 Oct 2020,67.8,2,0,13,13,0,1,0,12,7,1,Elland Road
+2020/21,Sheffield United,Fulham,Sun 18 Oct 2020,41.5,0,0,5,10,1,2,0,9,15,1,Bramall Lane
+2020/21,Crystal Palace,Brighton and Hove Albion,Sun 18 Oct 2020,34.3,3,0,13,1,1,2,1,13,20,1,Selhurst Park
+2020/21,Tottenham Hotspur,West Ham United,Sun 18 Oct 2020,51.2,0,0,13,11,3,5,0,12,13,3,Tottenham Hotspur Stadium
+2020/21,Leicester City,Aston Villa,Sun 18 Oct 2020,50.5,4,0,18,11,0,3,0,18,10,1,King Power Stadium
+2020/21,Everton,Liverpool,Sat 17 Oct 2020,41.9,3,1,15,11,2,2,0,9,22,2,Goodison Park
+2020/21,Chelsea,Southampton,Sat 17 Oct 2020,53.4,1,0,11,11,3,1,0,9,13,3,Stamford Bridge
+2020/21,Manchester City,Arsenal,Sat 17 Oct 2020,58.5,4,0,15,13,1,1,0,10,11,0,Etihad Stadium
+2020/21,Newcastle United,Manchester United,Sat 17 Oct 2020,36.4,1,0,9,7,1,1,0,12,28,4,St. James' Park
+2020/21,Leicester City,West Ham United,Sun 4 Oct 2020,69.5,2,0,10,4,0,2,0,8,14,3,King Power Stadium
+2020/21,Southampton,West Bromwich Albion,Sun 4 Oct 2020,61.6,2,0,19,13,2,1,0,10,5,0,St. Mary's Stadium
+2020/21,Arsenal,Sheffield United,Sun 4 Oct 2020,64.5,0,0,3,6,2,1,0,9,6,1,Emirates Stadium
+2020/21,Wolverhampton Wanderers,Fulham,Sun 4 Oct 2020,47.1,1,0,15,14,1,1,0,8,10,0,Molineux Stadium
+2020/21,Manchester United,Tottenham Hotspur,Sun 4 Oct 2020,38.4,2,1,14,5,1,1,0,11,22,6,Old Trafford
+2020/21,Aston Villa,Liverpool,Sun 4 Oct 2020,30.2,2,0,7,18,7,1,0,10,14,2,Villa Park
+2020/21,Chelsea,Crystal Palace,Sat 3 Oct 2020,70.9,2,0,17,17,4,0,0,13,4,0,Stamford Bridge
+2020/21,Everton,Brighton and Hove Albion,Sat 3 Oct 2020,43.4,0,0,13,11,4,1,0,14,11,2,Goodison Park
+2020/21,Leeds United,Manchester City,Sat 3 Oct 2020,52.1,2,0,11,12,1,1,0,12,23,1,Elland Road
+2020/21,Newcastle United,Burnley,Sat 3 Oct 2020,47.7,2,0,13,10,3,3,0,17,7,1,St. James' Park
+2020/21,Fulham,Aston Villa,Mon 28 Sep 2020,65,6,0,18,16,0,3,0,14,12,3,Craven Cottage
+2020/21,Liverpool,Arsenal,Mon 28 Sep 2020,66,2,0,11,21,3,2,0,7,4,1,Anfield
+2020/21,Sheffield United,Leeds United,Sun 27 Sep 2020,36.3,2,0,18,14,0,1,0,4,17,1,Bramall Lane
+2020/21,Tottenham Hotspur,Newcastle United,Sun 27 Sep 2020,65.8,1,0,15,23,1,4,0,9,6,1,Tottenham Hotspur Stadium
+2020/21,Manchester City,Leicester City,Sun 27 Sep 2020,71.7,1,0,13,16,2,3,0,8,7,5,Etihad Stadium
+2020/21,West Ham United,Wolverhampton Wanderers,Sun 27 Sep 2020,36.9,0,0,7,15,4,1,0,11,11,0,London Stadium
+2020/21,West Bromwich Albion,Chelsea,Sat 26 Sep 2020,24.1,1,0,8,9,3,3,0,16,22,3,The Hawthorns
+2020/21,Burnley,Southampton,Sat 26 Sep 2020,53.4,1,0,8,10,0,0,0,10,5,1,Turf Moor
+2020/21,Brighton and Hove Albion,Manchester United,Sat 26 Sep 2020,53.3,4,0,18,18,2,2,0,16,7,3,Amex Stadium
+2020/21,Crystal Palace,Everton,Sat 26 Sep 2020,42.3,3,0,16,8,1,1,0,15,10,2,Selhurst Park
+2020/21,Aston Villa,Sheffield United,Mon 21 Sep 2020,71.9,3,0,12,18,1,1,1,13,4,0,Villa Park
+2020/21,Wolverhampton Wanderers,Manchester City,Mon 21 Sep 2020,34.8,0,0,7,10,1,3,0,8,14,3,Molineux Stadium
+2020/21,Southampton,Tottenham Hotspur,Sun 20 Sep 2020,52.5,4,0,17,14,2,3,0,18,9,5,St. Mary's Stadium
+2020/21,Newcastle United,Brighton and Hove Albion,Sun 20 Sep 2020,47.2,3,0,16,6,0,0,1,15,13,3,St. James' Park
+2020/21,Chelsea,Liverpool,Sun 20 Sep 2020,38.7,1,1,10,5,0,0,0,6,18,2,Stamford Bridge
+2020/21,Leicester City,Burnley,Sun 20 Sep 2020,67.8,1,0,11,14,4,2,0,13,16,2,King Power Stadium
+2020/21,Everton,West Bromwich Albion,Sat 19 Sep 2020,71.3,1,0,9,17,5,0,1,11,6,2,Goodison Park
+2020/21,Leeds United,Fulham,Sat 19 Sep 2020,50.3,1,0,13,10,4,2,0,18,14,3,Elland Road
+2020/21,Manchester United,Crystal Palace,Sat 19 Sep 2020,75.8,2,0,13,17,1,1,0,10,14,3,Old Trafford
+2020/21,Arsenal,West Ham United,Sat 19 Sep 2020,62.6,0,0,11,7,2,1,0,13,14,1,Emirates Stadium
+2020/21,Sheffield United,Wolverhampton Wanderers,Mon 14 Sep 2020,55.1,2,0,13,9,0,1,0,7,11,2,Bramall Lane
+2020/21,Brighton and Hove Albion,Chelsea,Mon 14 Sep 2020,52.3,1,0,8,13,1,0,0,13,10,3,Amex Stadium
+2020/21,West Bromwich Albion,Leicester City,Sun 13 Sep 2020,35.8,1,0,12,7,0,1,0,9,13,3,The Hawthorns
+2020/21,Tottenham Hotspur,Everton,Sun 13 Sep 2020,51.6,1,0,15,9,0,0,0,7,15,1,Tottenham Hotspur Stadium
+2020/21,Fulham,Arsenal,Sat 12 Sep 2020,45.6,2,0,12,5,0,2,0,12,13,3,Craven Cottage
+2020/21,Crystal Palace,Southampton,Sat 12 Sep 2020,29.4,2,0,14,5,1,1,1,11,9,0,Selhurst Park
+2020/21,Liverpool,Leeds United,Sat 12 Sep 2020,48.8,1,0,9,22,4,0,0,6,6,3,Anfield
+2020/21,West Ham United,Newcastle United,Sat 12 Sep 2020,58.3,2,0,13,15,0,2,0,7,15,2,London Stadium
+2019/20,Arsenal,Watford,Sun 26 Jul 2020,51.1,3,0,9,13,3,3,0,12,19,2,Emirates Stadium
+2019/20,Burnley,Brighton and Hove Albion,Sun 26 Jul 2020,54.2,3,0,11,13,1,0,0,11,15,2,Turf Moor
+2019/20,Chelsea,Wolverhampton Wanderers,Sun 26 Jul 2020,62.9,2,0,10,11,2,3,0,16,5,0,Stamford Bridge
+2019/20,Crystal Palace,Tottenham Hotspur,Sun 26 Jul 2020,47.2,3,0,11,13,1,2,0,13,7,1,Selhurst Park
+2019/20,Everton,AFC Bournemouth,Sun 26 Jul 2020,70,1,0,11,13,1,0,0,9,13,3,Goodison Park
+2019/20,Leicester City,Manchester United,Sun 26 Jul 2020,45.8,1,1,12,14,0,5,0,11,7,2,King Power Stadium
+2019/20,Manchester City,Norwich City,Sun 26 Jul 2020,73.1,1,0,7,31,5,1,0,4,5,0,Etihad Stadium
+2019/20,Newcastle United,Liverpool,Sun 26 Jul 2020,25.3,1,0,11,3,1,0,0,5,14,3,St. James' Park
+2019/20,Southampton,Sheffield United,Sun 26 Jul 2020,72.1,0,0,9,13,3,1,0,16,5,1,St. Mary's Stadium
+2019/20,West Ham United,Aston Villa,Sun 26 Jul 2020,63,2,0,16,10,1,1,0,13,13,1,London Stadium
+2019/20,Manchester United,West Ham United,Wed 22 Jul 2020,57.2,3,0,10,11,1,1,0,9,12,1,Old Trafford
+2019/20,Liverpool,Chelsea,Wed 22 Jul 2020,50,1,0,8,10,5,0,0,11,10,3,Anfield
+2019/20,Watford,Manchester City,Tue 21 Jul 2020,23.1,2,0,14,2,0,0,0,11,26,4,Vicarage Road
+2019/20,Aston Villa,Arsenal,Tue 21 Jul 2020,31,2,0,13,8,1,4,0,19,7,0,Villa Park
+2019/20,Brighton and Hove Albion,Newcastle United,Mon 20 Jul 2020,62.5,4,0,13,11,0,2,0,12,12,0,Amex Stadium
+2019/20,Sheffield United,Everton,Mon 20 Jul 2020,50.6,1,0,11,8,0,3,0,19,5,1,Bramall Lane
+2019/20,Wolverhampton Wanderers,Crystal Palace,Mon 20 Jul 2020,53.4,2,0,11,11,2,1,0,15,7,0,Molineux Stadium
+2019/20,AFC Bournemouth,Southampton,Sun 19 Jul 2020,43,2,0,12,11,0,2,0,11,16,2,Vitality Stadium
+2019/20,Tottenham Hotspur,Leicester City,Sun 19 Jul 2020,29,2,0,15,7,3,1,0,10,24,0,Tottenham Hotspur Stadium
+2019/20,Norwich City,Burnley,Sat 18 Jul 2020,42.3,0,2,9,6,0,0,0,16,23,2,Carrow Road
+2019/20,West Ham United,Watford,Fri 17 Jul 2020,40.6,0,0,11,10,3,2,0,11,14,1,London Stadium
+2019/20,Everton,Aston Villa,Thu 16 Jul 2020,54.9,2,0,15,9,1,1,0,13,15,1,Goodison Park
+2019/20,Leicester City,Sheffield United,Thu 16 Jul 2020,54.4,1,0,12,15,2,2,0,10,5,0,King Power Stadium
+2019/20,Crystal Palace,Manchester United,Thu 16 Jul 2020,40.6,1,0,10,13,0,2,0,15,17,2,Selhurst Park
+2019/20,Southampton,Brighton and Hove Albion,Thu 16 Jul 2020,67.9,1,0,6,21,1,0,0,10,10,1,St. Mary's Stadium
+2019/20,Burnley,Wolverhampton Wanderers,Wed 15 Jul 2020,46.7,0,0,10,9,1,0,0,8,14,1,Turf Moor
+2019/20,Manchester City,AFC Bournemouth,Wed 15 Jul 2020,72.5,1,0,10,8,2,1,0,10,15,1,Etihad Stadium
+2019/20,Newcastle United,Tottenham Hotspur,Wed 15 Jul 2020,52.8,2,0,6,22,1,3,0,13,8,3,St. James' Park
+2019/20,Arsenal,Liverpool,Wed 15 Jul 2020,31.1,3,0,14,3,2,1,0,10,24,1,Emirates Stadium
+2019/20,Chelsea,Norwich City,Tue 14 Jul 2020,67.7,2,0,10,22,1,2,0,9,2,0,Stamford Bridge
+2019/20,Manchester United,Southampton,Mon 13 Jul 2020,47.5,1,0,14,8,2,3,0,15,9,2,Old Trafford
+2019/20,Wolverhampton Wanderers,Everton,Sun 12 Jul 2020,55.1,0,0,9,14,3,2,0,9,6,0,Molineux Stadium
+2019/20,Aston Villa,Crystal Palace,Sun 12 Jul 2020,44.9,2,0,21,12,2,4,1,21,9,0,Villa Park
+2019/20,Tottenham Hotspur,Arsenal,Sun 12 Jul 2020,37.3,5,0,16,15,2,3,0,11,13,1,Tottenham Hotspur Stadium
+2019/20,AFC Bournemouth,Leicester City,Sun 12 Jul 2020,44.1,2,0,11,9,4,1,1,12,13,1,Vitality Stadium
+2019/20,Norwich City,West Ham United,Sat 11 Jul 2020,52.5,1,0,9,11,0,0,0,8,19,4,Carrow Road
+2019/20,Watford,Newcastle United,Sat 11 Jul 2020,47.7,1,0,23,17,2,4,0,15,8,1,Vicarage Road
+2019/20,Liverpool,Burnley,Sat 11 Jul 2020,70.8,1,0,7,23,1,2,0,4,6,1,Anfield
+2019/20,Sheffield United,Chelsea,Sat 11 Jul 2020,23.7,1,0,8,9,3,0,0,6,15,0,Bramall Lane
+2019/20,Brighton and Hove Albion,Manchester City,Sat 11 Jul 2020,29.8,1,0,7,3,0,0,0,3,26,5,Amex Stadium
+2019/20,AFC Bournemouth,Tottenham Hotspur,Thu 9 Jul 2020,35.7,3,0,11,9,0,2,0,14,9,0,Vitality Stadium
+2019/20,Everton,Southampton,Thu 9 Jul 2020,38.7,3,0,13,11,1,3,0,14,16,1,Goodison Park
+2019/20,Aston Villa,Manchester United,Thu 9 Jul 2020,33.4,2,0,7,9,0,3,0,13,14,3,Villa Park
+2019/20,Manchester City,Newcastle United,Wed 8 Jul 2020,73.6,0,0,13,23,5,0,0,7,6,0,Etihad Stadium
+2019/20,Sheffield United,Wolverhampton Wanderers,Wed 8 Jul 2020,42.8,2,0,5,7,1,0,0,6,6,0,Bramall Lane
+2019/20,West Ham United,Burnley,Wed 8 Jul 2020,53.2,1,0,7,21,0,1,0,7,8,1,London Stadium
+2019/20,Brighton and Hove Albion,Liverpool,Wed 8 Jul 2020,44.4,1,0,7,12,1,4,0,15,20,3,Amex Stadium
+2019/20,Crystal Palace,Chelsea,Tue 7 Jul 2020,42,1,0,11,13,2,0,0,10,14,3,Selhurst Park
+2019/20,Watford,Norwich City,Tue 7 Jul 2020,43.5,2,0,11,9,2,4,0,15,12,1,Vicarage Road
+2019/20,Arsenal,Leicester City,Tue 7 Jul 2020,37.5,1,1,10,11,1,0,0,14,13,1,Emirates Stadium
+2019/20,Tottenham Hotspur,Everton,Mon 6 Jul 2020,51.6,3,0,14,12,1,2,0,18,11,0,Tottenham Hotspur Stadium
+2019/20,Burnley,Sheffield United,Sun 5 Jul 2020,47.4,0,0,8,9,1,0,0,14,10,1,Turf Moor
+2019/20,Newcastle United,West Ham United,Sun 5 Jul 2020,57.4,1,0,9,11,2,0,0,11,17,2,St. James' Park
+2019/20,Liverpool,Aston Villa,Sun 5 Jul 2020,71.2,1,0,18,6,2,1,0,8,9,0,Anfield
+2019/20,Southampton,Manchester City,Sun 5 Jul 2020,26.3,1,0,6,8,1,2,0,7,26,0,St. Mary's Stadium
+2019/20,Norwich City,Brighton and Hove Albion,Sat 4 Jul 2020,58,2,0,11,12,0,2,0,13,8,1,Carrow Road
+2019/20,Leicester City,Crystal Palace,Sat 4 Jul 2020,52.2,2,0,18,15,3,1,0,8,7,0,King Power Stadium
+2019/20,Manchester United,AFC Bournemouth,Sat 4 Jul 2020,69.3,0,0,3,19,5,1,0,12,7,2,Old Trafford
+2019/20,Wolverhampton Wanderers,Arsenal,Sat 4 Jul 2020,51.9,2,0,6,10,0,4,0,11,8,2,Molineux Stadium
+2019/20,Chelsea,Watford,Sat 4 Jul 2020,70.4,0,0,9,21,3,2,0,12,7,0,Stamford Bridge
+2019/20,Sheffield United,Tottenham Hotspur,Thu 2 Jul 2020,32.5,2,0,13,7,3,0,0,13,9,1,Bramall Lane
+2019/20,Manchester City,Liverpool,Thu 2 Jul 2020,47,2,0,8,14,4,2,0,7,11,0,Etihad Stadium
+2019/20,AFC Bournemouth,Newcastle United,Wed 1 Jul 2020,54.9,2,0,11,12,1,0,0,10,12,4,Vitality Stadium
+2019/20,Arsenal,Norwich City,Wed 1 Jul 2020,51.6,1,0,10,13,4,4,0,10,8,0,Emirates Stadium
+2019/20,Everton,Leicester City,Wed 1 Jul 2020,34.9,1,0,13,7,2,1,0,10,15,1,Goodison Park
+2019/20,West Ham United,Chelsea,Wed 1 Jul 2020,28.8,2,0,10,10,3,1,0,9,17,2,London Stadium
+2019/20,Brighton and Hove Albion,Manchester United,Tue 30 Jun 2020,38,0,0,10,8,0,1,0,9,12,3,Amex Stadium
+2019/20,Crystal Palace,Burnley,Mon 29 Jun 2020,58.4,1,0,12,17,0,1,0,13,8,1,Selhurst Park
+2019/20,Watford,Southampton,Sun 28 Jun 2020,47.6,3,0,18,8,1,0,0,9,11,3,Vicarage Road
+2019/20,Aston Villa,Wolverhampton Wanderers,Sat 27 Jun 2020,48,1,0,16,11,0,1,0,16,9,1,Villa Park
+2019/20,Burnley,Watford,Thu 25 Jun 2020,55.2,1,0,13,9,1,0,0,15,10,0,Turf Moor
+2019/20,Southampton,Arsenal,Thu 25 Jun 2020,52.6,0,1,10,12,0,2,0,14,10,2,St. Mary's Stadium
+2019/20,Chelsea,Manchester City,Thu 25 Jun 2020,35.3,1,0,13,15,2,1,1,3,11,1,Stamford Bridge
+2019/20,Manchester United,Sheffield United,Wed 24 Jun 2020,68.2,1,0,10,15,3,0,0,6,4,0,Old Trafford
+2019/20,Newcastle United,Aston Villa,Wed 24 Jun 2020,52.1,2,0,15,13,1,2,0,13,14,1,St. James' Park
+2019/20,Norwich City,Everton,Wed 24 Jun 2020,46.6,0,0,8,9,0,1,0,13,12,1,Carrow Road
+2019/20,Wolverhampton Wanderers,AFC Bournemouth,Wed 24 Jun 2020,55.1,3,0,11,10,1,3,0,11,4,0,Molineux Stadium
+2019/20,Liverpool,Crystal Palace,Wed 24 Jun 2020,73.3,0,0,7,21,4,0,0,5,3,0,Anfield
+2019/20,Leicester City,Brighton and Hove Albion,Tue 23 Jun 2020,66.4,2,0,10,11,0,2,0,13,10,0,King Power Stadium
+2019/20,Tottenham Hotspur,West Ham United,Tue 23 Jun 2020,64.5,2,0,12,15,2,2,0,7,10,0,Tottenham Hotspur Stadium
+2019/20,Manchester City,Burnley,Mon 22 Jun 2020,71.7,1,0,8,19,5,1,0,7,1,0,Etihad Stadium
+2019/20,Newcastle United,Sheffield United,Sun 21 Jun 2020,46,2,0,9,12,3,0,1,10,7,0,St. James' Park
+2019/20,Aston Villa,Chelsea,Sun 21 Jun 2020,26,2,0,9,8,1,1,0,17,19,2,Villa Park
+2019/20,Everton,Liverpool,Sun 21 Jun 2020,29.9,2,0,15,8,0,2,0,12,10,0,Goodison Park
+2019/20,Watford,Leicester City,Sat 20 Jun 2020,31.7,0,0,15,8,1,1,0,12,15,1,Vicarage Road
+2019/20,Brighton and Hove Albion,Arsenal,Sat 20 Jun 2020,41.3,2,0,13,9,2,1,0,8,13,1,Amex Stadium
+2019/20,West Ham United,Wolverhampton Wanderers,Sat 20 Jun 2020,42.2,1,0,8,7,0,1,0,7,10,2,London Stadium
+2019/20,AFC Bournemouth,Crystal Palace,Sat 20 Jun 2020,58.7,3,0,13,12,0,2,0,15,7,2,Vitality Stadium
+2019/20,Norwich City,Southampton,Fri 19 Jun 2020,55,1,0,9,9,0,1,0,15,22,3,Carrow Road
+2019/20,Tottenham Hotspur,Manchester United,Fri 19 Jun 2020,38.8,0,0,17,10,1,1,0,18,12,1,Tottenham Hotspur Stadium
+2019/20,Aston Villa,Sheffield United,Wed 17 Jun 2020,45.1,1,0,11,14,0,1,0,14,5,0,Villa Park
+2019/20,Manchester City,Arsenal,Wed 17 Jun 2020,67.1,1,0,9,20,3,1,1,7,3,0,Etihad Stadium
+2019/20,Leicester City,Aston Villa,Mon 9 Mar 2020,64.6,2,0,15,15,4,1,0,12,4,0,King Power Stadium
+2019/20,Chelsea,Everton,Sun 8 Mar 2020,60.2,1,0,8,17,4,2,0,10,3,0,Stamford Bridge
+2019/20,Manchester United,Manchester City,Sun 8 Mar 2020,27.7,2,0,11,12,2,4,0,9,7,0,Old Trafford
+2019/20,Liverpool,AFC Bournemouth,Sat 7 Mar 2020,74.5,0,0,10,14,2,1,0,12,6,1,Anfield
+2019/20,Arsenal,West Ham United,Sat 7 Mar 2020,68.9,1,0,11,9,1,2,0,9,14,0,Emirates Stadium
+2019/20,Crystal Palace,Watford,Sat 7 Mar 2020,44.2,4,0,12,10,1,4,0,16,10,0,Selhurst Park
+2019/20,Sheffield United,Norwich City,Sat 7 Mar 2020,41.8,0,0,12,10,1,0,0,8,12,0,Bramall Lane
+2019/20,Southampton,Newcastle United,Sat 7 Mar 2020,38,0,1,14,6,0,3,0,15,14,1,St. Mary's Stadium
+2019/20,Wolverhampton Wanderers,Brighton and Hove Albion,Sat 7 Mar 2020,43.1,1,0,4,11,0,3,0,7,7,0,Molineux Stadium
+2019/20,Burnley,Tottenham Hotspur,Sat 7 Mar 2020,45,5,0,16,21,1,4,0,11,13,1,Turf Moor
+2019/20,Everton,Manchester United,Sun 1 Mar 2020,44.1,3,0,11,16,1,4,0,11,14,1,Goodison Park
+2019/20,Tottenham Hotspur,Wolverhampton Wanderers,Sun 1 Mar 2020,65.5,3,0,12,13,2,2,0,14,14,3,Tottenham Hotspur Stadium
+2019/20,Brighton and Hove Albion,Crystal Palace,Sat 29 Feb 2020,66.5,2,0,8,23,0,1,0,9,12,1,Amex Stadium
+2019/20,AFC Bournemouth,Chelsea,Sat 29 Feb 2020,26.9,2,0,8,9,2,2,0,5,23,2,Vitality Stadium
+2019/20,Newcastle United,Burnley,Sat 29 Feb 2020,54,4,0,11,21,0,3,0,9,7,0,St. James' Park
+2019/20,West Ham United,Southampton,Sat 29 Feb 2020,33.7,1,0,8,14,3,1,0,11,10,1,London Stadium
+2019/20,Watford,Liverpool,Sat 29 Feb 2020,29.2,0,0,4,14,3,0,0,8,7,0,Vicarage Road
+2019/20,Norwich City,Leicester City,Fri 28 Feb 2020,42.6,1,0,13,11,1,2,0,16,19,0,Carrow Road
+2019/20,Liverpool,West Ham United,Mon 24 Feb 2020,69.3,0,0,4,25,3,3,0,10,7,2,Anfield
+2019/20,Manchester United,Watford,Sun 23 Feb 2020,58,0,0,6,21,3,1,0,15,7,0,Old Trafford
+2019/20,Wolverhampton Wanderers,Norwich City,Sun 23 Feb 2020,39.8,2,0,11,19,3,3,0,6,6,0,Molineux Stadium
+2019/20,Arsenal,Everton,Sun 23 Feb 2020,51.3,0,0,12,9,3,4,0,12,17,2,Emirates Stadium
+2019/20,Chelsea,Tottenham Hotspur,Sat 22 Feb 2020,49.1,1,0,14,17,2,2,0,14,5,1,Stamford Bridge
+2019/20,Burnley,AFC Bournemouth,Sat 22 Feb 2020,42.1,4,0,9,16,3,3,0,9,12,0,Turf Moor
+2019/20,Crystal Palace,Newcastle United,Sat 22 Feb 2020,44.2,2,0,15,18,1,6,1,11,8,0,Selhurst Park
+2019/20,Sheffield United,Brighton and Hove Albion,Sat 22 Feb 2020,66.3,0,0,5,13,1,2,0,6,9,1,Bramall Lane
+2019/20,Southampton,Aston Villa,Sat 22 Feb 2020,45.9,1,0,13,28,2,4,0,17,4,0,St. Mary's Stadium
+2019/20,Leicester City,Manchester City,Sat 22 Feb 2020,31.9,0,0,14,10,0,0,0,10,18,1,King Power Stadium
+2019/20,Manchester City,West Ham United,Wed 19 Feb 2020,77.3,0,0,5,20,2,1,0,7,3,0,Etihad Stadium
+2019/20,Chelsea,Manchester United,Mon 17 Feb 2020,61.2,4,0,11,17,0,3,0,11,9,2,Stamford Bridge
+2019/20,Aston Villa,Tottenham Hotspur,Sun 16 Feb 2020,54.3,2,0,12,18,2,0,0,10,23,3,Villa Park
+2019/20,Arsenal,Newcastle United,Sun 16 Feb 2020,68.4,2,0,15,15,4,0,0,9,10,0,Emirates Stadium
+2019/20,Southampton,Burnley,Sat 15 Feb 2020,63.6,2,0,8,10,1,2,0,11,9,2,St. Mary's Stadium
+2019/20,Norwich City,Liverpool,Sat 15 Feb 2020,36.7,1,0,5,5,0,2,0,11,17,1,Carrow Road
+2019/20,Wolverhampton Wanderers,Leicester City,Fri 14 Feb 2020,40.8,2,0,13,15,0,2,1,10,9,0,Molineux Stadium
+2019/20,Sheffield United,AFC Bournemouth,Sun 9 Feb 2020,54.3,2,0,10,16,2,3,0,8,10,1,Bramall Lane
+2019/20,Everton,Crystal Palace,Sat 8 Feb 2020,46.6,0,0,11,14,3,1,0,12,10,1,Goodison Park
+2019/20,Brighton and Hove Albion,Watford,Sat 8 Feb 2020,67.2,2,0,9,10,1,2,0,12,5,1,Amex Stadium
+2019/20,Burnley,Arsenal,Sun 2 Feb 2020,42.7,1,0,8,15,0,3,0,11,13,0,Turf Moor
+2019/20,Tottenham Hotspur,Manchester City,Sun 2 Feb 2020,33.1,2,0,8,3,2,3,1,14,19,0,Tottenham Hotspur Stadium
+2019/20,Leicester City,Chelsea,Sat 1 Feb 2020,49.7,2,0,16,14,2,2,0,14,7,2,King Power Stadium
+2019/20,AFC Bournemouth,Aston Villa,Sat 1 Feb 2020,39.6,1,1,10,16,2,3,0,15,18,1,Vitality Stadium
+2019/20,Crystal Palace,Sheffield United,Sat 1 Feb 2020,60.7,3,1,9,13,0,2,0,15,10,1,Selhurst Park
+2019/20,Liverpool,Southampton,Sat 1 Feb 2020,61.5,0,0,9,16,4,2,0,15,17,0,Anfield
+2019/20,Newcastle United,Norwich City,Sat 1 Feb 2020,43.4,2,0,10,15,0,1,0,15,19,0,St. James' Park
+2019/20,Watford,Everton,Sat 1 Feb 2020,44.6,2,0,17,11,2,2,1,14,12,3,Vicarage Road
+2019/20,West Ham United,Brighton and Hove Albion,Sat 1 Feb 2020,35.1,1,0,8,12,3,1,0,9,19,3,London Stadium
+2019/20,Manchester United,Wolverhampton Wanderers,Sat 1 Feb 2020,63.7,3,0,14,16,0,2,0,15,15,0,Old Trafford
+2019/20,West Ham United,Liverpool,Wed 29 Jan 2020,29.4,2,0,6,7,0,0,0,6,13,2,London Stadium
+2019/20,Wolverhampton Wanderers,Liverpool,Thu 23 Jan 2020,46.4,0,0,6,10,1,1,0,11,13,2,Molineux Stadium
+2019/20,Leicester City,West Ham United,Wed 22 Jan 2020,67.3,1,0,10,19,4,1,0,19,6,1,King Power Stadium
+2019/20,Tottenham Hotspur,Norwich City,Wed 22 Jan 2020,50.4,0,0,12,14,2,1,0,7,13,1,Tottenham Hotspur Stadium
+2019/20,Manchester United,Burnley,Wed 22 Jan 2020,72.2,0,0,11,24,0,2,0,7,5,2,Old Trafford
+2019/20,AFC Bournemouth,Brighton and Hove Albion,Tue 21 Jan 2020,34.7,1,0,9,11,3,1,0,12,21,1,Vitality Stadium
+2019/20,Aston Villa,Watford,Tue 21 Jan 2020,64.5,2,0,11,16,2,2,0,18,8,1,Villa Park
+2019/20,Crystal Palace,Southampton,Tue 21 Jan 2020,44.4,1,0,12,6,0,2,0,13,15,2,Selhurst Park
+2019/20,Everton,Newcastle United,Tue 21 Jan 2020,54.9,1,0,13,17,2,1,0,10,9,2,Goodison Park
+2019/20,Sheffield United,Manchester City,Tue 21 Jan 2020,32.7,4,0,13,4,0,3,0,13,18,1,Bramall Lane
+2019/20,Chelsea,Arsenal,Tue 21 Jan 2020,58.8,2,0,11,19,2,1,1,6,2,2,Stamford Bridge
+2019/20,Burnley,Leicester City,Sun 19 Jan 2020,44.5,1,0,14,8,2,0,0,8,18,1,Turf Moor
+2019/20,Liverpool,Manchester United,Sun 19 Jan 2020,53.2,1,0,7,16,2,3,0,10,9,0,Anfield
+2019/20,Arsenal,Sheffield United,Sat 18 Jan 2020,61,1,0,9,11,1,2,0,13,12,1,Emirates Stadium
+2019/20,Brighton and Hove Albion,Aston Villa,Sat 18 Jan 2020,55.3,3,0,11,10,1,3,0,13,8,1,Amex Stadium
+2019/20,Manchester City,Crystal Palace,Sat 18 Jan 2020,72.5,1,0,9,25,2,2,0,7,5,2,Etihad Stadium
+2019/20,Norwich City,AFC Bournemouth,Sat 18 Jan 2020,66,2,1,10,16,1,2,1,10,6,0,Carrow Road
+2019/20,Southampton,Wolverhampton Wanderers,Sat 18 Jan 2020,52.5,2,0,13,11,2,1,0,12,8,3,St. Mary's Stadium
+2019/20,West Ham United,Everton,Sat 18 Jan 2020,48.8,1,0,11,12,1,0,0,13,11,1,London Stadium
+2019/20,Newcastle United,Chelsea,Sat 18 Jan 2020,30.1,1,0,9,7,1,1,0,14,19,0,St. James' Park
+2019/20,Watford,Tottenham Hotspur,Sat 18 Jan 2020,41.5,2,0,13,15,0,3,0,13,16,0,Vicarage Road
+2019/20,AFC Bournemouth,Watford,Sun 12 Jan 2020,56.7,1,0,3,10,0,1,0,13,18,3,Vitality Stadium
+2019/20,Aston Villa,Manchester City,Sun 12 Jan 2020,29.4,2,0,5,7,1,1,0,12,22,6,Villa Park
+2019/20,Crystal Palace,Arsenal,Sat 11 Jan 2020,42.7,2,0,14,6,1,3,1,22,7,1,Selhurst Park
+2019/20,Chelsea,Burnley,Sat 11 Jan 2020,65.5,0,0,7,18,3,3,0,4,7,0,Stamford Bridge
+2019/20,Everton,Brighton and Hove Albion,Sat 11 Jan 2020,53.8,2,0,7,14,1,1,0,7,9,0,Goodison Park
+2019/20,Leicester City,Southampton,Sat 11 Jan 2020,58.2,0,0,9,5,1,3,0,17,16,2,King Power Stadium
+2019/20,Manchester United,Norwich City,Sat 11 Jan 2020,59.6,0,0,18,13,4,0,0,7,8,0,Old Trafford
+2019/20,Wolverhampton Wanderers,Newcastle United,Sat 11 Jan 2020,65.7,0,0,13,9,1,3,0,12,5,1,Molineux Stadium
+2019/20,Tottenham Hotspur,Liverpool,Sat 11 Jan 2020,33.2,0,0,4,14,0,2,0,8,13,1,Tottenham Hotspur Stadium
+2019/20,Sheffield United,West Ham United,Fri 10 Jan 2020,46.9,1,0,11,13,1,0,0,6,7,0,Bramall Lane
+2019/20,Liverpool,Sheffield United,Thu 2 Jan 2020,74.8,0,0,5,19,2,0,0,8,3,0,Anfield
+2019/20,Brighton and Hove Albion,Chelsea,Wed 1 Jan 2020,47.7,2,0,8,16,1,3,0,15,16,1,Amex Stadium
+2019/20,Burnley,Aston Villa,Wed 1 Jan 2020,61.9,1,0,12,20,1,1,0,10,11,2,Turf Moor
+2019/20,Newcastle United,Leicester City,Wed 1 Jan 2020,23.4,1,0,8,5,0,1,0,12,17,3,St. James' Park
+2019/20,Southampton,Tottenham Hotspur,Wed 1 Jan 2020,40.9,3,0,21,12,1,4,0,8,11,0,St. Mary's Stadium
+2019/20,Watford,Wolverhampton Wanderers,Wed 1 Jan 2020,36.4,3,1,12,9,2,1,0,6,16,1,Vicarage Road
+2019/20,Manchester City,Everton,Wed 1 Jan 2020,65.4,0,0,11,16,2,4,0,11,7,1,Etihad Stadium
+2019/20,Norwich City,Crystal Palace,Wed 1 Jan 2020,40.6,5,0,12,15,1,0,0,9,12,1,Carrow Road
+2019/20,West Ham United,AFC Bournemouth,Wed 1 Jan 2020,42.6,1,1,3,14,4,2,0,12,3,0,London Stadium
+2019/20,Arsenal,Manchester United,Wed 1 Jan 2020,48.8,2,0,11,10,2,0,0,15,10,0,Emirates Stadium
+2019/20,Arsenal,Chelsea,Sun 29 Dec 2019,42.1,5,0,13,7,1,4,0,19,13,2,Emirates Stadium
+2019/20,Liverpool,Wolverhampton Wanderers,Sun 29 Dec 2019,62.9,1,0,7,10,1,0,0,3,10,0,Anfield
+2019/20,Manchester City,Sheffield United,Sun 29 Dec 2019,72.9,1,0,5,16,2,1,0,6,8,0,Etihad Stadium
+2019/20,Brighton and Hove Albion,AFC Bournemouth,Sat 28 Dec 2019,55.1,0,0,9,16,2,2,0,11,10,0,Amex Stadium
+2019/20,Newcastle United,Everton,Sat 28 Dec 2019,42.7,2,0,13,20,1,2,0,13,22,2,St. James' Park
+2019/20,Southampton,Crystal Palace,Sat 28 Dec 2019,59.9,1,0,13,14,1,2,0,7,5,1,St. Mary's Stadium
+2019/20,Watford,Aston Villa,Sat 28 Dec 2019,48.8,3,1,16,20,3,1,0,9,11,0,Vicarage Road
+2019/20,Norwich City,Tottenham Hotspur,Sat 28 Dec 2019,41.1,3,0,12,5,2,3,0,10,15,2,Carrow Road
+2019/20,West Ham United,Leicester City,Sat 28 Dec 2019,42.7,4,0,16,14,1,1,0,4,13,2,London Stadium
+2019/20,Burnley,Manchester United,Sat 28 Dec 2019,38.6,4,0,17,8,0,3,0,10,14,2,Turf Moor
+2019/20,Wolverhampton Wanderers,Manchester City,Fri 27 Dec 2019,61.9,0,0,7,21,3,1,1,13,7,2,Molineux Stadium
+2019/20,AFC Bournemouth,Arsenal,Thu 26 Dec 2019,39.5,4,0,5,12,1,4,0,13,17,1,Vitality Stadium
+2019/20,Aston Villa,Norwich City,Thu 26 Dec 2019,42.5,2,0,15,11,1,3,0,12,16,0,Villa Park
+2019/20,Chelsea,Southampton,Thu 26 Dec 2019,66.1,3,0,10,10,0,2,0,9,5,2,Stamford Bridge
+2019/20,Crystal Palace,West Ham United,Thu 26 Dec 2019,58.2,0,0,5,13,2,2,0,10,10,1,Selhurst Park
+2019/20,Everton,Burnley,Thu 26 Dec 2019,67.5,0,0,15,21,1,0,0,14,6,0,Goodison Park
+2019/20,Sheffield United,Watford,Thu 26 Dec 2019,58.1,0,0,11,16,1,3,0,8,5,1,Bramall Lane
+2019/20,Manchester United,Newcastle United,Thu 26 Dec 2019,73.3,2,0,10,22,4,2,0,7,7,1,Old Trafford
+2019/20,Leicester City,Liverpool,Thu 26 Dec 2019,41.2,1,0,5,3,0,1,0,7,15,4,King Power Stadium
+2019/20,Tottenham Hotspur,Brighton and Hove Albion,Thu 26 Dec 2019,53.8,4,0,10,11,2,2,0,9,11,1,Tottenham Hotspur Stadium
+2019/20,Watford,Manchester United,Sun 22 Dec 2019,36.1,3,0,16,11,2,1,0,11,17,0,Vicarage Road
+2019/20,Tottenham Hotspur,Chelsea,Sun 22 Dec 2019,44.5,4,1,9,5,0,3,0,11,13,2,Tottenham Hotspur Stadium
+2019/20,Everton,Arsenal,Sat 21 Dec 2019,43,2,0,10,9,0,3,0,11,6,0,Goodison Park
+2019/20,AFC Bournemouth,Burnley,Sat 21 Dec 2019,64.8,2,0,13,3,0,4,0,21,2,1,Vitality Stadium
+2019/20,Aston Villa,Southampton,Sat 21 Dec 2019,56.5,2,0,16,19,1,1,0,15,17,3,Villa Park
+2019/20,Brighton and Hove Albion,Sheffield United,Sat 21 Dec 2019,69,1,0,6,9,0,3,0,11,7,1,Amex Stadium
+2019/20,Newcastle United,Crystal Palace,Sat 21 Dec 2019,42.5,2,0,12,8,1,0,0,11,16,0,St. James' Park
+2019/20,Norwich City,Wolverhampton Wanderers,Sat 21 Dec 2019,50.2,2,0,7,13,1,4,0,14,14,2,Carrow Road
+2019/20,Manchester City,Leicester City,Sat 21 Dec 2019,62.7,2,0,14,23,3,2,0,9,5,1,Etihad Stadium
+2019/20,Crystal Palace,Brighton and Hove Albion,Mon 16 Dec 2019,34.8,1,0,7,11,1,1,0,12,15,1,Selhurst Park
+2019/20,Manchester United,Everton,Sun 15 Dec 2019,66.5,1,0,10,24,1,2,0,12,8,1,Old Trafford
+2019/20,Wolverhampton Wanderers,Tottenham Hotspur,Sun 15 Dec 2019,57.8,4,0,14,19,1,4,0,10,9,2,Molineux Stadium
+2019/20,Arsenal,Manchester City,Sun 15 Dec 2019,42.4,1,0,9,6,0,4,0,24,14,3,Emirates Stadium
+2019/20,Liverpool,Watford,Sat 14 Dec 2019,67.9,2,0,8,16,2,1,0,6,8,0,Anfield
+2019/20,Burnley,Newcastle United,Sat 14 Dec 2019,48,0,0,15,7,1,2,0,12,9,0,Turf Moor
+2019/20,Chelsea,AFC Bournemouth,Sat 14 Dec 2019,67,1,0,9,18,0,2,0,14,11,1,Stamford Bridge
+2019/20,Leicester City,Norwich City,Sat 14 Dec 2019,56.8,0,0,11,18,1,5,0,15,10,1,King Power Stadium
+2019/20,Sheffield United,Aston Villa,Sat 14 Dec 2019,56.7,2,0,10,7,2,2,0,9,8,0,Bramall Lane
+2019/20,Southampton,West Ham United,Sat 14 Dec 2019,57,1,0,9,11,0,3,0,14,11,1,St. Mary's Stadium
+2019/20,West Ham United,Arsenal,Mon 9 Dec 2019,35.8,2,0,12,11,1,0,0,6,10,3,London Stadium
+2019/20,Aston Villa,Leicester City,Sun 8 Dec 2019,40.4,6,0,21,15,1,2,0,15,23,4,Villa Park
+2019/20,Newcastle United,Southampton,Sun 8 Dec 2019,45.3,1,0,11,12,2,3,0,17,19,1,St. James' Park
+2019/20,Norwich City,Sheffield United,Sun 8 Dec 2019,58.2,0,0,6,14,1,4,1,12,9,2,Carrow Road
+2019/20,Brighton and Hove Albion,Wolverhampton Wanderers,Sun 8 Dec 2019,62,3,0,10,13,2,0,0,7,13,2,Amex Stadium
+2019/20,Everton,Chelsea,Sat 7 Dec 2019,30,3,0,14,13,3,0,0,9,15,1,Goodison Park
+2019/20,AFC Bournemouth,Liverpool,Sat 7 Dec 2019,26.2,0,0,5,3,0,1,0,6,21,3,Vitality Stadium
+2019/20,Tottenham Hotspur,Burnley,Sat 7 Dec 2019,49,1,0,12,13,5,1,0,8,7,0,Tottenham Hotspur Stadium
+2019/20,Watford,Crystal Palace,Sat 7 Dec 2019,50.2,4,0,15,13,0,2,0,16,3,0,Vicarage Road
+2019/20,Manchester City,Manchester United,Sat 7 Dec 2019,71.9,3,0,10,22,1,2,0,10,11,2,Etihad Stadium
+2019/20,Sheffield United,Newcastle United,Thu 5 Dec 2019,73.3,2,0,10,13,0,0,0,6,6,2,Bramall Lane
+2019/20,Arsenal,Brighton and Hove Albion,Thu 5 Dec 2019,49.2,3,0,10,12,1,1,0,11,20,2,Emirates Stadium
+2019/20,Chelsea,Aston Villa,Wed 4 Dec 2019,64.5,2,0,18,25,2,1,0,10,9,1,Stamford Bridge
+2019/20,Leicester City,Watford,Wed 4 Dec 2019,63,3,0,13,12,2,2,0,16,4,0,King Power Stadium
+2019/20,Manchester United,Tottenham Hotspur,Wed 4 Dec 2019,46.6,0,0,9,12,2,1,0,9,8,1,Old Trafford
+2019/20,Southampton,Norwich City,Wed 4 Dec 2019,40.1,1,0,12,14,2,1,0,7,10,1,St. Mary's Stadium
+2019/20,Wolverhampton Wanderers,West Ham United,Wed 4 Dec 2019,49.4,1,0,8,13,2,2,0,9,6,0,Molineux Stadium
+2019/20,Liverpool,Everton,Wed 4 Dec 2019,58.5,1,0,13,11,5,2,0,17,12,2,Anfield
+2019/20,Crystal Palace,AFC Bournemouth,Tue 3 Dec 2019,30.8,3,1,6,7,1,3,0,15,6,0,Selhurst Park
+2019/20,Burnley,Manchester City,Tue 3 Dec 2019,24.5,1,0,9,4,1,1,0,6,17,4,Turf Moor
+2019/20,Norwich City,Arsenal,Sun 1 Dec 2019,39.9,2,0,8,15,2,1,0,10,16,2,Carrow Road
+2019/20,Wolverhampton Wanderers,Sheffield United,Sun 1 Dec 2019,59.4,1,0,12,13,1,5,0,18,10,1,Molineux Stadium
+2019/20,Leicester City,Everton,Sun 1 Dec 2019,69.3,0,0,7,16,2,1,0,9,11,1,King Power Stadium
+2019/20,Manchester United,Aston Villa,Sun 1 Dec 2019,62.3,4,0,16,16,2,1,0,8,9,2,Old Trafford
+2019/20,Newcastle United,Manchester City,Sat 30 Nov 2019,23.6,1,0,4,6,2,2,0,6,24,2,St. James' Park
+2019/20,Burnley,Crystal Palace,Sat 30 Nov 2019,43.5,2,0,13,15,0,0,0,9,7,2,Turf Moor
+2019/20,Chelsea,West Ham United,Sat 30 Nov 2019,65.7,0,0,0,19,0,3,0,16,5,1,Stamford Bridge
+2019/20,Liverpool,Brighton and Hove Albion,Sat 30 Nov 2019,44.8,0,1,3,15,2,0,0,10,12,1,Anfield
+2019/20,Tottenham Hotspur,AFC Bournemouth,Sat 30 Nov 2019,52.6,0,0,10,14,3,2,0,12,20,2,Tottenham Hotspur Stadium
+2019/20,Southampton,Watford,Sat 30 Nov 2019,62.8,1,0,6,11,2,0,0,10,6,1,St. Mary's Stadium
+2019/20,Aston Villa,Newcastle United,Mon 25 Nov 2019,62,1,0,10,17,2,1,0,9,11,0,Villa Park
+2019/20,Sheffield United,Manchester United,Sun 24 Nov 2019,40.6,1,0,13,12,3,2,0,10,11,3,Bramall Lane
+2019/20,West Ham United,Tottenham Hotspur,Sat 23 Nov 2019,47.1,3,0,12,11,2,2,0,14,15,3,London Stadium
+2019/20,AFC Bournemouth,Wolverhampton Wanderers,Sat 23 Nov 2019,46.6,2,1,10,9,1,1,0,12,18,2,Vitality Stadium
+2019/20,Arsenal,Southampton,Sat 23 Nov 2019,61,6,0,13,12,2,2,0,19,21,2,Emirates Stadium
+2019/20,Brighton and Hove Albion,Leicester City,Sat 23 Nov 2019,52.6,2,0,9,7,0,0,0,1,19,2,Amex Stadium
+2019/20,Crystal Palace,Liverpool,Sat 23 Nov 2019,40,0,0,8,16,1,1,0,7,12,2,Selhurst Park
+2019/20,Everton,Norwich City,Sat 23 Nov 2019,57.3,3,0,12,18,0,5,0,11,13,2,Goodison Park
+2019/20,Watford,Burnley,Sat 23 Nov 2019,61.9,1,0,14,15,0,3,0,13,11,3,Vicarage Road
+2019/20,Manchester City,Chelsea,Sat 23 Nov 2019,46.7,1,0,5,15,2,1,0,9,11,1,Etihad Stadium
+2019/20,Manchester United,Brighton and Hove Albion,Sun 10 Nov 2019,42.7,2,0,10,21,3,5,0,14,6,1,Old Trafford
+2019/20,Wolverhampton Wanderers,Aston Villa,Sun 10 Nov 2019,50.1,4,0,17,17,2,3,0,8,13,1,Molineux Stadium
+2019/20,Liverpool,Manchester City,Sun 10 Nov 2019,45,0,0,10,12,3,2,0,5,18,1,Anfield
+2019/20,Chelsea,Crystal Palace,Sat 9 Nov 2019,60.6,3,0,9,23,2,2,0,17,3,0,Stamford Bridge
+2019/20,Burnley,West Ham United,Sat 9 Nov 2019,40,2,0,17,14,3,1,0,10,7,0,Turf Moor
+2019/20,Newcastle United,AFC Bournemouth,Sat 9 Nov 2019,33.9,2,0,10,21,2,0,0,5,16,1,St. James' Park
+2019/20,Southampton,Everton,Sat 9 Nov 2019,47.3,1,0,12,4,1,1,0,12,24,2,St. Mary's Stadium
+2019/20,Tottenham Hotspur,Sheffield United,Sat 9 Nov 2019,61.1,2,0,6,17,1,2,0,9,14,1,Tottenham Hotspur Stadium
+2019/20,Leicester City,Arsenal,Sat 9 Nov 2019,50.2,1,0,10,19,2,1,0,10,8,0,King Power Stadium
+2019/20,Norwich City,Watford,Fri 8 Nov 2019,65.8,1,0,7,17,0,2,1,13,12,2,Carrow Road
+2019/20,Crystal Palace,Leicester City,Sun 3 Nov 2019,44.2,2,0,15,12,0,2,0,16,14,2,Selhurst Park
+2019/20,Everton,Tottenham Hotspur,Sun 3 Nov 2019,47.3,1,0,9,7,1,2,1,8,5,1,Goodison Park
+2019/20,AFC Bournemouth,Manchester United,Sat 2 Nov 2019,42.6,4,0,14,13,1,3,0,12,15,0,Vitality Stadium
+2019/20,Arsenal,Wolverhampton Wanderers,Sat 2 Nov 2019,57.5,0,0,6,10,1,2,0,15,24,1,Emirates Stadium
+2019/20,Aston Villa,Liverpool,Sat 2 Nov 2019,26.3,1,0,12,4,1,2,0,9,25,2,Villa Park
+2019/20,Brighton and Hove Albion,Norwich City,Sat 2 Nov 2019,58.5,0,0,11,21,2,1,0,8,7,0,Amex Stadium
+2019/20,Manchester City,Southampton,Sat 2 Nov 2019,75.3,3,0,11,26,2,1,0,10,3,1,Etihad Stadium
+2019/20,Sheffield United,Burnley,Sat 2 Nov 2019,45.6,1,0,8,13,3,2,0,12,6,0,Bramall Lane
+2019/20,West Ham United,Newcastle United,Sat 2 Nov 2019,69.5,2,0,10,16,2,1,0,7,12,3,London Stadium
+2019/20,Watford,Chelsea,Sat 2 Nov 2019,32.8,4,0,8,12,1,2,0,5,16,2,Vicarage Road
+2019/20,Newcastle United,Wolverhampton Wanderers,Sun 27 Oct 2019,43.1,2,1,8,13,1,2,0,16,13,1,St. James' Park
+2019/20,Arsenal,Crystal Palace,Sun 27 Oct 2019,56.2,2,0,18,15,2,0,0,9,10,2,Emirates Stadium
+2019/20,Liverpool,Tottenham Hotspur,Sun 27 Oct 2019,68,3,0,9,21,2,3,0,11,11,1,Anfield
+2019/20,Norwich City,Manchester United,Sun 27 Oct 2019,46.1,2,0,13,10,1,2,0,10,21,3,Carrow Road
+2019/20,Manchester City,Aston Villa,Sat 26 Oct 2019,63.1,1,1,10,26,3,1,0,5,11,0,Etihad Stadium
+2019/20,Brighton and Hove Albion,Everton,Sat 26 Oct 2019,55.5,2,0,12,8,3,1,0,12,10,2,Amex Stadium
+2019/20,Watford,AFC Bournemouth,Sat 26 Oct 2019,40.2,5,0,14,7,0,3,0,8,15,0,Vicarage Road
+2019/20,West Ham United,Sheffield United,Sat 26 Oct 2019,60.8,2,0,7,12,1,2,0,10,10,1,London Stadium
+2019/20,Burnley,Chelsea,Sat 26 Oct 2019,36.7,3,0,7,13,2,2,0,8,16,4,Turf Moor
+2019/20,Southampton,Leicester City,Fri 25 Oct 2019,27.4,0,1,3,6,0,0,0,12,25,9,St. Mary's Stadium
+2019/20,Sheffield United,Arsenal,Mon 21 Oct 2019,31.4,4,0,10,8,1,4,0,12,9,0,Bramall Lane
+2019/20,Manchester United,Liverpool,Sun 20 Oct 2019,32,0,0,6,7,1,1,0,14,10,1,Old Trafford
+2019/20,Everton,West Ham United,Sat 19 Oct 2019,51.3,2,0,15,19,2,2,0,15,8,0,Goodison Park
+2019/20,AFC Bournemouth,Norwich City,Sat 19 Oct 2019,47.7,1,0,8,11,0,3,0,11,10,0,Vitality Stadium
+2019/20,Aston Villa,Brighton and Hove Albion,Sat 19 Oct 2019,48.9,1,0,9,24,2,2,1,17,20,1,Villa Park
+2019/20,Chelsea,Newcastle United,Sat 19 Oct 2019,71.1,2,0,9,16,1,1,0,12,5,0,Stamford Bridge
+2019/20,Leicester City,Burnley,Sat 19 Oct 2019,64.5,0,0,4,19,2,3,0,10,13,1,King Power Stadium
+2019/20,Tottenham Hotspur,Watford,Sat 19 Oct 2019,69.4,4,0,5,12,1,3,0,9,7,1,Tottenham Hotspur Stadium
+2019/20,Wolverhampton Wanderers,Southampton,Sat 19 Oct 2019,57,3,0,10,4,1,2,0,17,14,1,Molineux Stadium
+2019/20,Crystal Palace,Manchester City,Sat 19 Oct 2019,28.7,1,0,8,7,0,1,0,10,21,2,Selhurst Park
+2019/20,Arsenal,AFC Bournemouth,Sun 6 Oct 2019,52.5,1,0,12,12,1,2,0,6,10,0,Emirates Stadium
+2019/20,Manchester City,Wolverhampton Wanderers,Sun 6 Oct 2019,76,5,0,11,18,0,2,0,14,7,2,Etihad Stadium
+2019/20,Southampton,Chelsea,Sun 6 Oct 2019,43.3,0,0,8,10,1,1,0,15,13,4,St. Mary's Stadium
+2019/20,Newcastle United,Manchester United,Sun 6 Oct 2019,31.9,3,0,12,12,1,3,0,10,12,0,St. James' Park
+2019/20,Brighton and Hove Albion,Tottenham Hotspur,Sat 5 Oct 2019,47.7,2,0,11,17,3,1,0,7,8,0,Amex Stadium
+2019/20,Burnley,Everton,Sat 5 Oct 2019,40.8,2,0,5,9,1,1,1,12,11,0,Turf Moor
+2019/20,Liverpool,Leicester City,Sat 5 Oct 2019,50.7,1,0,9,18,2,4,0,17,2,1,Anfield
+2019/20,Norwich City,Aston Villa,Sat 5 Oct 2019,57.6,1,0,14,21,1,3,0,17,22,5,Carrow Road
+2019/20,Watford,Sheffield United,Sat 5 Oct 2019,39.5,0,0,7,8,0,2,0,6,9,0,Vicarage Road
+2019/20,West Ham United,Crystal Palace,Sat 5 Oct 2019,51.7,3,0,11,9,1,2,0,7,7,2,London Stadium
+2019/20,Manchester United,Arsenal,Mon 30 Sep 2019,54.8,4,0,18,16,1,2,0,13,10,1,Old Trafford
+2019/20,Leicester City,Newcastle United,Sun 29 Sep 2019,68.9,1,0,12,13,5,1,1,9,3,0,King Power Stadium
+2019/20,Sheffield United,Liverpool,Sat 28 Sep 2019,29.6,1,0,8,12,0,1,0,4,16,1,Bramall Lane
+2019/20,AFC Bournemouth,West Ham United,Sat 28 Sep 2019,49.1,3,0,7,13,2,1,0,8,17,2,Vitality Stadium
+2019/20,Aston Villa,Burnley,Sat 28 Sep 2019,60.2,1,0,10,16,2,4,0,16,10,2,Villa Park
+2019/20,Chelsea,Brighton and Hove Albion,Sat 28 Sep 2019,52.6,2,0,5,24,2,3,0,13,8,0,Stamford Bridge
+2019/20,Crystal Palace,Norwich City,Sat 28 Sep 2019,44.6,3,0,14,15,2,1,0,10,10,0,Selhurst Park
+2019/20,Tottenham Hotspur,Southampton,Sat 28 Sep 2019,41.4,0,1,5,9,2,2,0,16,14,1,Tottenham Hotspur Stadium
+2019/20,Wolverhampton Wanderers,Watford,Sat 28 Sep 2019,39.1,0,0,5,6,2,1,0,6,14,0,Molineux Stadium
+2019/20,Everton,Manchester City,Sat 28 Sep 2019,37.2,2,0,4,12,1,2,0,8,19,3,Goodison Park
+2019/20,Crystal Palace,Wolverhampton Wanderers,Sun 22 Sep 2019,49.9,2,0,7,13,1,1,1,10,13,1,Selhurst Park
+2019/20,West Ham United,Manchester United,Sun 22 Sep 2019,46.5,2,0,8,8,2,2,0,9,9,0,London Stadium
+2019/20,Arsenal,Aston Villa,Sun 22 Sep 2019,58.1,5,1,13,21,3,1,0,15,14,2,Emirates Stadium
+2019/20,Chelsea,Liverpool,Sun 22 Sep 2019,55,3,0,8,13,1,3,0,13,6,2,Stamford Bridge
+2019/20,Leicester City,Tottenham Hotspur,Sat 21 Sep 2019,44.2,1,0,16,16,2,2,0,13,11,1,King Power Stadium
+2019/20,Burnley,Norwich City,Sat 21 Sep 2019,41.4,0,0,11,13,2,1,0,10,11,0,Turf Moor
+2019/20,Everton,Sheffield United,Sat 21 Sep 2019,69.8,1,0,9,16,0,3,0,9,2,2,Goodison Park
+2019/20,Manchester City,Watford,Sat 21 Sep 2019,68.7,2,0,5,28,8,2,0,9,5,0,Etihad Stadium
+2019/20,Newcastle United,Brighton and Hove Albion,Sat 21 Sep 2019,28.7,2,0,12,11,0,1,0,8,16,0,St. James' Park
+2019/20,Southampton,AFC Bournemouth,Fri 20 Sep 2019,64.8,1,0,8,25,1,3,0,9,6,3,St. Mary's Stadium
+2019/20,Aston Villa,West Ham United,Mon 16 Sep 2019,46.6,2,0,13,10,0,1,1,12,13,0,Villa Park
+2019/20,AFC Bournemouth,Everton,Sun 15 Sep 2019,40.5,0,0,5,13,3,4,0,14,14,1,Vitality Stadium
+2019/20,Watford,Arsenal,Sun 15 Sep 2019,52.4,3,0,14,31,2,3,0,4,7,2,Vicarage Road
+2019/20,Liverpool,Newcastle United,Sat 14 Sep 2019,75.3,0,0,5,21,3,0,0,4,8,1,Anfield
+2019/20,Brighton and Hove Albion,Burnley,Sat 14 Sep 2019,62.5,0,0,13,14,1,2,0,7,7,1,Amex Stadium
+2019/20,Manchester United,Leicester City,Sat 14 Sep 2019,41.7,1,0,14,10,1,2,0,14,9,0,Old Trafford
+2019/20,Sheffield United,Southampton,Sat 14 Sep 2019,48.2,1,1,10,17,0,1,0,7,11,1,Bramall Lane
+2019/20,Tottenham Hotspur,Crystal Palace,Sat 14 Sep 2019,64.1,4,0,19,13,4,3,0,11,11,0,Tottenham Hotspur Stadium
+2019/20,Wolverhampton Wanderers,Chelsea,Sat 14 Sep 2019,45.3,1,0,8,11,2,2,0,11,15,5,Molineux Stadium
+2019/20,Norwich City,Manchester City,Sat 14 Sep 2019,31.4,3,0,8,7,3,1,0,7,25,2,Carrow Road
+2019/20,Everton,Wolverhampton Wanderers,Sun 1 Sep 2019,58.7,1,0,12,15,3,4,1,12,8,2,Goodison Park
+2019/20,Arsenal,Tottenham Hotspur,Sun 1 Sep 2019,54.8,3,0,13,26,2,5,0,19,13,2,Emirates Stadium
+2019/20,Southampton,Manchester United,Sat 31 Aug 2019,41.4,1,1,17,10,1,2,0,7,21,1,St. Mary's Stadium
+2019/20,Chelsea,Sheffield United,Sat 31 Aug 2019,62.3,0,0,6,13,2,1,0,11,8,2,Stamford Bridge
+2019/20,Crystal Palace,Aston Villa,Sat 31 Aug 2019,52.8,2,0,15,22,1,4,1,16,10,0,Selhurst Park
+2019/20,Leicester City,AFC Bournemouth,Sat 31 Aug 2019,55,1,0,9,15,3,3,0,11,8,1,King Power Stadium
+2019/20,Manchester City,Brighton and Hove Albion,Sat 31 Aug 2019,53.5,1,0,10,15,4,1,0,6,6,0,Etihad Stadium
+2019/20,Newcastle United,Watford,Sat 31 Aug 2019,48.8,2,0,5,13,1,3,0,11,13,1,St. James' Park
+2019/20,West Ham United,Norwich City,Sat 31 Aug 2019,48.6,2,0,16,18,2,1,0,10,8,0,London Stadium
+2019/20,Burnley,Liverpool,Sat 31 Aug 2019,36.2,0,0,10,7,0,0,0,16,15,3,Turf Moor
+2019/20,AFC Bournemouth,Manchester City,Sun 25 Aug 2019,26.2,1,0,7,10,1,3,0,13,18,3,Vitality Stadium
+2019/20,Tottenham Hotspur,Newcastle United,Sun 25 Aug 2019,80.2,2,0,10,17,0,2,0,5,8,1,Tottenham Hotspur Stadium
+2019/20,Wolverhampton Wanderers,Burnley,Sun 25 Aug 2019,65.1,0,0,9,17,1,2,0,11,13,1,Molineux Stadium
+2019/20,Norwich City,Chelsea,Sat 24 Aug 2019,46.6,1,0,9,6,2,1,0,9,23,3,Carrow Road
+2019/20,Brighton and Hove Albion,Southampton,Sat 24 Aug 2019,50.7,1,1,9,12,0,3,0,10,12,2,Amex Stadium
+2019/20,Manchester United,Crystal Palace,Sat 24 Aug 2019,71.3,2,0,8,22,1,4,0,18,5,2,Old Trafford
+2019/20,Sheffield United,Leicester City,Sat 24 Aug 2019,49.1,1,0,11,7,1,0,0,6,10,2,Bramall Lane
+2019/20,Watford,West Ham United,Sat 24 Aug 2019,54.9,1,0,12,23,1,1,0,11,16,3,Vicarage Road
+2019/20,Liverpool,Arsenal,Sat 24 Aug 2019,52,1,0,8,25,3,1,0,5,9,1,Anfield
+2019/20,Aston Villa,Everton,Fri 23 Aug 2019,35.2,2,0,10,7,2,3,0,18,12,0,Villa Park
+2019/20,Wolverhampton Wanderers,Manchester United,Mon 19 Aug 2019,34.4,2,0,17,6,1,2,0,8,9,1,Molineux Stadium
+2019/20,Sheffield United,Crystal Palace,Sun 18 Aug 2019,42.5,3,0,16,15,1,1,0,11,6,0,Bramall Lane
+2019/20,Chelsea,Leicester City,Sun 18 Aug 2019,50.2,1,0,9,14,1,0,0,14,12,1,Stamford Bridge
+2019/20,Arsenal,Burnley,Sat 17 Aug 2019,67.5,2,0,13,15,2,1,0,11,18,1,Emirates Stadium
+2019/20,Aston Villa,AFC Bournemouth,Sat 17 Aug 2019,62.6,0,0,10,21,1,2,0,13,12,2,Villa Park
+2019/20,Brighton and Hove Albion,West Ham United,Sat 17 Aug 2019,57.3,0,0,11,16,1,2,0,10,8,1,Amex Stadium
+2019/20,Everton,Watford,Sat 17 Aug 2019,44.1,2,0,11,12,1,3,0,11,8,0,Goodison Park
+2019/20,Norwich City,Newcastle United,Sat 17 Aug 2019,63.3,1,0,9,15,3,3,0,11,12,1,Carrow Road
+2019/20,Southampton,Liverpool,Sat 17 Aug 2019,36.2,2,0,10,14,1,1,0,6,15,2,St. Mary's Stadium
+2019/20,Manchester City,Tottenham Hotspur,Sat 17 Aug 2019,55.4,1,0,14,30,2,0,0,4,3,2,Etihad Stadium
+2019/20,Leicester City,Wolverhampton Wanderers,Sun 11 Aug 2019,70,0,0,3,16,0,2,0,13,8,0,King Power Stadium
+2019/20,Newcastle United,Arsenal,Sun 11 Aug 2019,38.1,1,0,12,9,0,3,0,7,8,1,St. James' Park
+2019/20,Manchester United,Chelsea,Sun 11 Aug 2019,46.2,3,0,15,11,4,4,0,13,18,0,Old Trafford
+2019/20,West Ham United,Manchester City,Sat 10 Aug 2019,42.9,2,0,6,5,0,2,0,13,14,5,London Stadium
+2019/20,AFC Bournemouth,Sheffield United,Sat 10 Aug 2019,52.9,2,0,10,13,1,1,0,19,8,1,Vitality Stadium
+2019/20,Burnley,Southampton,Sat 10 Aug 2019,46.5,0,0,6,10,3,0,0,12,11,0,Turf Moor
+2019/20,Crystal Palace,Everton,Sat 10 Aug 2019,35.4,2,0,16,6,0,1,1,14,10,0,Selhurst Park
+2019/20,Watford,Brighton and Hove Albion,Sat 10 Aug 2019,48.2,0,0,15,11,0,1,0,11,5,3,Vicarage Road
+2019/20,Tottenham Hotspur,Aston Villa,Sat 10 Aug 2019,70.1,1,0,13,31,3,0,0,9,7,1,Tottenham Hotspur Stadium
+2019/20,Liverpool,Norwich City,Fri 9 Aug 2019,57.9,0,0,9,15,4,2,0,9,12,1,Anfield
+2018/19,Brighton and Hove Albion,Manchester City,Sun 12 May 2019,23.7,0,0,12,6,1,0,0,8,20,4,Amex Stadium
+2018/19,Burnley,Arsenal,Sun 12 May 2019,39.7,5,0,11,14,1,1,0,3,17,3,Turf Moor
+2018/19,Crystal Palace,AFC Bournemouth,Sun 12 May 2019,45,3,0,11,17,5,0,0,8,16,3,Selhurst Park
+2018/19,Fulham,Newcastle United,Sun 12 May 2019,68.1,1,0,6,16,0,0,0,8,13,4,Craven Cottage
+2018/19,Leicester City,Chelsea,Sun 12 May 2019,46.9,0,0,9,9,0,1,0,8,14,0,King Power Stadium
+2018/19,Liverpool,Wolverhampton Wanderers,Sun 12 May 2019,59,0,0,3,13,2,2,0,11,7,0,Anfield
+2018/19,Manchester United,Cardiff City,Sun 12 May 2019,73.6,3,0,9,26,0,3,0,6,13,2,Old Trafford
+2018/19,Southampton,Huddersfield Town,Sun 12 May 2019,53.7,0,0,8,10,1,1,0,6,10,1,St. Mary's Stadium
+2018/19,Tottenham Hotspur,Everton,Sun 12 May 2019,55,0,0,10,11,2,2,0,13,16,2,Tottenham Hotspur Stadium
+2018/19,Watford,West Ham United,Sun 12 May 2019,48.3,1,1,10,17,1,0,0,10,16,4,Vicarage Road
+2018/19,Manchester City,Leicester City,Mon 6 May 2019,61,3,0,12,19,1,2,0,5,7,0,Etihad Stadium
+2018/19,Chelsea,Watford,Sun 5 May 2019,58.4,0,0,6,19,3,1,0,12,16,0,Stamford Bridge
+2018/19,Huddersfield Town,Manchester United,Sun 5 May 2019,35.8,1,0,10,7,1,1,0,10,23,1,John Smith's Stadium
+2018/19,Arsenal,Brighton and Hove Albion,Sun 5 May 2019,70.5,5,0,9,20,1,2,0,14,11,1,Emirates Stadium
+2018/19,AFC Bournemouth,Tottenham Hotspur,Sat 4 May 2019,53.6,1,0,11,20,1,5,2,12,11,0,Vitality Stadium
+2018/19,West Ham United,Southampton,Sat 4 May 2019,56.3,1,0,2,17,3,1,0,11,11,0,London Stadium
+2018/19,Wolverhampton Wanderers,Fulham,Sat 4 May 2019,39.2,1,0,10,19,1,3,0,15,6,0,Molineux Stadium
+2018/19,Cardiff City,Crystal Palace,Sat 4 May 2019,39.3,0,0,14,18,2,0,0,11,21,3,Cardiff City Stadium
+2018/19,Newcastle United,Liverpool,Sat 4 May 2019,30.9,1,0,10,14,2,1,0,4,11,3,St. James' Park
+2018/19,Everton,Burnley,Fri 3 May 2019,60.1,0,0,8,20,2,2,0,9,5,0,Goodison Park
+2018/19,Leicester City,Arsenal,Sun 28 Apr 2019,67.2,3,0,13,24,3,1,1,13,6,0,King Power Stadium
+2018/19,Burnley,Manchester City,Sun 28 Apr 2019,30.1,1,0,5,2,0,1,0,7,25,1,Turf Moor
+2018/19,Manchester United,Chelsea,Sun 28 Apr 2019,51.7,3,0,9,7,1,2,0,14,16,1,Old Trafford
+2018/19,Tottenham Hotspur,West Ham United,Sat 27 Apr 2019,63,0,0,3,14,0,2,0,8,16,1,Tottenham Hotspur Stadium
+2018/19,Crystal Palace,Everton,Sat 27 Apr 2019,36.1,2,0,9,8,0,0,0,15,22,0,Selhurst Park
+2018/19,Fulham,Cardiff City,Sat 27 Apr 2019,73,0,0,10,8,1,0,0,8,13,0,Craven Cottage
+2018/19,Southampton,AFC Bournemouth,Sat 27 Apr 2019,44.4,2,0,8,22,3,1,0,9,9,3,St. Mary's Stadium
+2018/19,Watford,Wolverhampton Wanderers,Sat 27 Apr 2019,56.5,3,0,10,10,1,2,0,11,11,2,Vicarage Road
+2018/19,Brighton and Hove Albion,Newcastle United,Sat 27 Apr 2019,49.8,2,0,7,9,1,3,0,10,9,1,Amex Stadium
+2018/19,Liverpool,Huddersfield Town,Fri 26 Apr 2019,70.3,0,0,5,21,5,0,0,14,5,0,Anfield
+2018/19,Wolverhampton Wanderers,Arsenal,Wed 24 Apr 2019,29.6,2,0,12,11,3,3,0,9,11,1,Molineux Stadium
+2018/19,Manchester United,Manchester City,Wed 24 Apr 2019,36.8,2,0,10,12,0,2,0,10,8,2,Old Trafford
+2018/19,Tottenham Hotspur,Brighton and Hove Albion,Tue 23 Apr 2019,78.5,1,0,7,29,1,2,0,13,6,0,Tottenham Hotspur Stadium
+2018/19,Watford,Southampton,Tue 23 Apr 2019,62.2,5,0,10,15,1,2,0,14,8,1,Vicarage Road
+2018/19,Chelsea,Burnley,Mon 22 Apr 2019,76.4,2,0,9,22,2,1,0,4,6,2,Stamford Bridge
+2018/19,Everton,Manchester United,Sun 21 Apr 2019,48.3,1,0,11,15,4,1,0,7,7,0,Goodison Park
+2018/19,Arsenal,Crystal Palace,Sun 21 Apr 2019,72.6,4,0,15,12,2,1,0,12,16,3,Emirates Stadium
+2018/19,Cardiff City,Liverpool,Sun 21 Apr 2019,23.9,1,0,6,7,0,1,0,5,17,2,Cardiff City Stadium
+2018/19,AFC Bournemouth,Fulham,Sat 20 Apr 2019,49,1,0,11,15,0,3,0,18,17,1,Vitality Stadium
+2018/19,Newcastle United,Southampton,Sat 20 Apr 2019,43.4,0,0,5,15,3,2,0,11,15,1,St. James' Park
+2018/19,Manchester City,Tottenham Hotspur,Sat 20 Apr 2019,60.7,1,0,11,15,1,2,0,11,10,0,Etihad Stadium
+2018/19,Huddersfield Town,Watford,Sat 20 Apr 2019,45.7,2,0,15,13,1,2,0,9,11,2,John Smith's Stadium
+2018/19,West Ham United,Leicester City,Sat 20 Apr 2019,49.3,2,0,8,11,2,0,0,9,11,2,London Stadium
+2018/19,Wolverhampton Wanderers,Brighton and Hove Albion,Sat 20 Apr 2019,68.2,0,0,0,23,0,1,0,8,5,0,Molineux Stadium
+2018/19,Brighton and Hove Albion,Cardiff City,Tue 16 Apr 2019,63.9,0,0,11,14,0,1,0,13,10,2,Amex Stadium
+2018/19,Watford,Arsenal,Mon 15 Apr 2019,34.1,2,1,12,11,0,0,0,8,19,1,Vicarage Road
+2018/19,Crystal Palace,Manchester City,Sun 14 Apr 2019,27.6,0,0,5,7,1,0,0,11,20,3,Selhurst Park
+2018/19,Liverpool,Chelsea,Sun 14 Apr 2019,61.8,0,0,5,15,2,1,0,9,6,0,Anfield
+2018/19,Tottenham Hotspur,Huddersfield Town,Sat 13 Apr 2019,70,2,0,10,22,4,2,0,12,7,0,Tottenham Hotspur Stadium
+2018/19,Brighton and Hove Albion,AFC Bournemouth,Sat 13 Apr 2019,50.1,2,1,10,8,0,4,0,6,14,5,Amex Stadium
+2018/19,Burnley,Cardiff City,Sat 13 Apr 2019,46,2,0,7,14,2,4,0,10,14,0,Turf Moor
+2018/19,Fulham,Everton,Sat 13 Apr 2019,40.6,2,0,8,12,2,1,0,10,9,0,Craven Cottage
+2018/19,Southampton,Wolverhampton Wanderers,Sat 13 Apr 2019,30.7,1,0,13,12,3,3,0,8,17,1,St. Mary's Stadium
+2018/19,Manchester United,West Ham United,Sat 13 Apr 2019,42.3,1,0,14,14,2,1,0,5,18,1,Old Trafford
+2018/19,Leicester City,Newcastle United,Fri 12 Apr 2019,71.7,2,0,6,12,0,3,0,10,11,1,King Power Stadium
+2018/19,Chelsea,West Ham United,Mon 8 Apr 2019,54,2,0,8,16,2,1,0,7,9,0,Stamford Bridge
+2018/19,Everton,Arsenal,Sun 7 Apr 2019,42.9,1,0,8,23,1,4,0,9,7,0,Goodison Park
+2018/19,AFC Bournemouth,Burnley,Sat 6 Apr 2019,59.9,2,0,12,10,1,3,0,16,10,3,Vitality Stadium
+2018/19,Huddersfield Town,Leicester City,Sat 6 Apr 2019,44.8,3,0,13,10,1,0,0,11,18,4,John Smith's Stadium
+2018/19,Newcastle United,Crystal Palace,Sat 6 Apr 2019,53.8,1,0,12,18,0,2,0,13,3,1,St. James' Park
+2018/19,Southampton,Liverpool,Fri 5 Apr 2019,33,2,0,8,11,1,4,0,7,17,3,St. Mary's Stadium
+2018/19,Chelsea,Brighton and Hove Albion,Wed 3 Apr 2019,68.3,0,0,5,17,3,0,0,9,3,0,Stamford Bridge
+2018/19,Manchester City,Cardiff City,Wed 3 Apr 2019,78.8,0,0,3,27,2,3,0,7,4,0,Etihad Stadium
+2018/19,Tottenham Hotspur,Crystal Palace,Wed 3 Apr 2019,65.3,1,0,8,26,2,0,0,5,5,0,Tottenham Hotspur Stadium
+2018/19,Watford,Fulham,Tue 2 Apr 2019,46.6,3,0,12,15,4,2,0,5,17,1,Vicarage Road
+2018/19,Wolverhampton Wanderers,Manchester United,Tue 2 Apr 2019,49.8,1,0,5,9,2,2,1,11,18,1,Molineux Stadium
+2018/19,Arsenal,Newcastle United,Mon 1 Apr 2019,70.6,2,0,11,7,2,0,0,10,3,0,Emirates Stadium
+2018/19,Cardiff City,Chelsea,Sun 31 Mar 2019,28.9,2,0,8,8,1,3,0,14,21,2,Cardiff City Stadium
+2018/19,Liverpool,Tottenham Hotspur,Sun 31 Mar 2019,48.7,0,0,5,14,2,1,0,8,11,1,Anfield
+2018/19,Fulham,Manchester City,Sat 30 Mar 2019,34.6,2,0,4,5,0,0,0,12,24,2,Craven Cottage
+2018/19,Brighton and Hove Albion,Southampton,Sat 30 Mar 2019,60.2,1,0,8,14,0,2,0,10,8,1,Amex Stadium
+2018/19,Burnley,Wolverhampton Wanderers,Sat 30 Mar 2019,37.2,1,0,12,6,2,1,0,10,8,0,Turf Moor
+2018/19,Crystal Palace,Huddersfield Town,Sat 30 Mar 2019,48.5,0,0,10,19,2,0,0,7,15,0,Selhurst Park
+2018/19,Leicester City,AFC Bournemouth,Sat 30 Mar 2019,58.8,0,0,6,18,2,2,0,12,8,0,King Power Stadium
+2018/19,Manchester United,Watford,Sat 30 Mar 2019,51.5,1,0,14,8,2,2,0,9,20,1,Old Trafford
+2018/19,West Ham United,Everton,Sat 30 Mar 2019,49.3,1,0,7,3,0,1,0,14,17,2,London Stadium
+2018/19,Fulham,Liverpool,Sun 17 Mar 2019,37.2,2,0,11,7,1,1,0,7,16,2,Craven Cottage
+2018/19,Everton,Chelsea,Sun 17 Mar 2019,32.7,1,0,17,15,2,2,0,9,17,0,Goodison Park
+2018/19,AFC Bournemouth,Newcastle United,Sat 16 Mar 2019,48.9,3,0,9,10,2,2,0,12,12,2,Vitality Stadium
+2018/19,Burnley,Leicester City,Sat 16 Mar 2019,62.2,1,0,9,13,1,1,1,10,9,2,Turf Moor
+2018/19,West Ham United,Huddersfield Town,Sat 16 Mar 2019,64.1,0,0,7,16,4,2,0,15,15,3,London Stadium
+2018/19,Liverpool,Burnley,Sun 10 Mar 2019,68.6,2,0,4,23,4,0,0,7,3,2,Anfield
+2018/19,Chelsea,Wolverhampton Wanderers,Sun 10 Mar 2019,75.6,1,0,8,22,1,4,0,14,2,1,Stamford Bridge
+2018/19,Arsenal,Manchester United,Sun 10 Mar 2019,46.1,2,0,12,14,2,2,0,18,14,0,Emirates Stadium
+2018/19,Crystal Palace,Brighton and Hove Albion,Sat 9 Mar 2019,62.7,1,0,8,15,1,5,0,18,4,2,Selhurst Park
+2018/19,Cardiff City,West Ham United,Sat 9 Mar 2019,29.3,2,0,7,16,2,1,0,12,9,0,Cardiff City Stadium
+2018/19,Huddersfield Town,AFC Bournemouth,Sat 9 Mar 2019,56.5,3,0,14,8,0,1,0,9,8,2,John Smith's Stadium
+2018/19,Leicester City,Fulham,Sat 9 Mar 2019,52.8,0,0,9,18,3,2,0,13,6,1,King Power Stadium
+2018/19,Newcastle United,Everton,Sat 9 Mar 2019,45.5,3,0,13,19,3,1,0,10,7,2,St. James' Park
+2018/19,Southampton,Tottenham Hotspur,Sat 9 Mar 2019,36.8,4,0,16,12,2,2,0,9,16,1,St. Mary's Stadium
+2018/19,Manchester City,Watford,Sat 9 Mar 2019,71.1,1,0,11,19,3,1,0,7,2,1,Etihad Stadium
+2018/19,Watford,Leicester City,Sun 3 Mar 2019,39,5,0,15,6,2,1,0,12,14,1,Vicarage Road
+2018/19,Fulham,Chelsea,Sun 3 Mar 2019,36,2,0,11,12,1,1,0,10,20,2,Craven Cottage
+2018/19,Everton,Liverpool,Sun 3 Mar 2019,42.2,1,0,12,7,0,2,0,10,10,0,Goodison Park
+2018/19,Tottenham Hotspur,Arsenal,Sat 2 Mar 2019,60.2,3,0,15,11,1,2,1,14,9,1,Wembley Stadium
+2018/19,AFC Bournemouth,Manchester City,Sat 2 Mar 2019,18,1,0,7,0,0,2,0,7,23,1,Vitality Stadium
+2018/19,Brighton and Hove Albion,Huddersfield Town,Sat 2 Mar 2019,52.7,2,0,11,14,1,2,0,6,6,0,Amex Stadium
+2018/19,Burnley,Crystal Palace,Sat 2 Mar 2019,56.3,1,0,9,18,1,2,0,9,10,3,Turf Moor
+2018/19,Manchester United,Southampton,Sat 2 Mar 2019,64.2,2,0,7,16,3,1,0,10,9,2,Old Trafford
+2018/19,Wolverhampton Wanderers,Cardiff City,Sat 2 Mar 2019,56.3,1,0,11,13,2,2,0,6,12,0,Molineux Stadium
+2018/19,West Ham United,Newcastle United,Sat 2 Mar 2019,55.8,3,0,8,10,2,4,0,14,17,0,London Stadium
+2018/19,Arsenal,AFC Bournemouth,Wed 27 Feb 2019,64.8,2,0,11,16,5,2,0,9,13,1,Emirates Stadium
+2018/19,Southampton,Fulham,Wed 27 Feb 2019,40.9,0,0,15,14,2,1,0,13,14,0,St. Mary's Stadium
+2018/19,Chelsea,Tottenham Hotspur,Wed 27 Feb 2019,46.5,1,0,7,11,2,1,0,14,9,0,Stamford Bridge
+2018/19,Crystal Palace,Manchester United,Wed 27 Feb 2019,45.5,2,0,8,17,1,3,0,9,13,3,Selhurst Park
+2018/19,Liverpool,Watford,Wed 27 Feb 2019,61.6,0,0,5,19,5,2,0,7,5,0,Anfield
+2018/19,Manchester City,West Ham United,Wed 27 Feb 2019,75.6,0,0,2,20,1,2,0,6,2,0,Etihad Stadium
+2018/19,Cardiff City,Everton,Tue 26 Feb 2019,32.8,3,0,12,6,0,1,0,12,12,3,Cardiff City Stadium
+2018/19,Huddersfield Town,Wolverhampton Wanderers,Tue 26 Feb 2019,49.9,2,0,10,15,1,2,0,10,7,0,John Smith's Stadium
+2018/19,Leicester City,Brighton and Hove Albion,Tue 26 Feb 2019,49.1,1,0,6,19,2,1,0,4,15,1,King Power Stadium
+2018/19,Newcastle United,Burnley,Tue 26 Feb 2019,54.3,1,0,8,13,2,3,0,8,12,0,St. James' Park
+2018/19,Arsenal,Southampton,Sun 24 Feb 2019,62.1,0,0,7,12,2,0,0,14,10,0,Emirates Stadium
+2018/19,Manchester United,Liverpool,Sun 24 Feb 2019,35.4,1,0,15,6,0,3,0,17,7,0,Old Trafford
+2018/19,Burnley,Tottenham Hotspur,Sat 23 Feb 2019,30.5,1,0,9,10,2,3,0,12,17,1,Turf Moor
+2018/19,AFC Bournemouth,Wolverhampton Wanderers,Sat 23 Feb 2019,44.6,4,0,10,10,1,5,0,15,10,1,Vitality Stadium
+2018/19,Newcastle United,Huddersfield Town,Sat 23 Feb 2019,54.3,2,0,11,29,2,0,1,7,3,0,St. James' Park
+2018/19,Leicester City,Crystal Palace,Sat 23 Feb 2019,65.4,2,0,7,27,1,1,0,14,7,4,King Power Stadium
+2018/19,Cardiff City,Watford,Fri 22 Feb 2019,35.4,1,0,10,15,1,2,0,11,12,5,Cardiff City Stadium
+2018/19,West Ham United,Fulham,Fri 22 Feb 2019,55.1,1,0,11,21,3,1,0,11,8,1,London Stadium
+2018/19,Wolverhampton Wanderers,Newcastle United,Mon 11 Feb 2019,59.5,1,0,7,22,1,3,0,9,9,1,Molineux Stadium
+2018/19,Tottenham Hotspur,Leicester City,Sun 10 Feb 2019,53.1,3,0,11,12,3,1,0,4,20,1,Wembley Stadium
+2018/19,Manchester City,Chelsea,Sun 10 Feb 2019,55.8,1,0,9,15,6,2,0,13,12,0,Etihad Stadium
+2018/19,Fulham,Manchester United,Sat 9 Feb 2019,51.2,3,0,14,15,0,2,0,9,15,3,Craven Cottage
+2018/19,Crystal Palace,West Ham United,Sat 9 Feb 2019,57.2,3,0,12,25,1,0,0,9,6,1,Selhurst Park
+2018/19,Huddersfield Town,Arsenal,Sat 9 Feb 2019,54.6,3,0,17,16,1,2,0,12,9,2,John Smith's Stadium
+2018/19,Liverpool,AFC Bournemouth,Sat 9 Feb 2019,65.6,2,0,14,20,3,2,0,6,12,0,Anfield
+2018/19,Southampton,Cardiff City,Sat 9 Feb 2019,66.7,3,0,15,14,1,3,0,12,6,2,St. Mary's Stadium
+2018/19,Watford,Everton,Sat 9 Feb 2019,44,2,0,21,7,1,0,1,10,9,0,Vicarage Road
+2018/19,Brighton and Hove Albion,Burnley,Sat 9 Feb 2019,68.2,1,0,8,16,1,1,0,7,9,3,Amex Stadium
+2018/19,Everton,Manchester City,Wed 6 Feb 2019,38.8,1,0,12,4,0,1,0,6,15,2,Goodison Park
+2018/19,West Ham United,Liverpool,Mon 4 Feb 2019,26.7,1,0,9,13,1,1,0,11,11,1,London Stadium
+2018/19,Leicester City,Manchester United,Sun 3 Feb 2019,44.8,4,0,14,17,0,4,0,9,10,1,King Power Stadium
+2018/19,Manchester City,Arsenal,Sun 3 Feb 2019,58.8,1,0,11,19,3,1,0,8,4,1,Etihad Stadium
+2018/19,Tottenham Hotspur,Newcastle United,Sat 2 Feb 2019,71.6,0,0,6,21,1,1,0,6,8,0,Wembley Stadium
+2018/19,Brighton and Hove Albion,Watford,Sat 2 Feb 2019,55.1,1,0,15,21,0,0,0,10,5,0,Amex Stadium
+2018/19,Burnley,Southampton,Sat 2 Feb 2019,54.2,3,0,10,15,1,1,0,9,10,1,Turf Moor
+2018/19,Chelsea,Huddersfield Town,Sat 2 Feb 2019,65,0,0,8,23,5,0,0,5,5,0,Stamford Bridge
+2018/19,Crystal Palace,Fulham,Sat 2 Feb 2019,37.3,2,0,9,17,2,3,0,12,8,0,Selhurst Park
+2018/19,Everton,Wolverhampton Wanderers,Sat 2 Feb 2019,64,3,0,12,13,1,1,0,14,8,3,Goodison Park
+2018/19,Cardiff City,AFC Bournemouth,Sat 2 Feb 2019,26.9,1,0,17,12,2,2,0,14,9,0,Cardiff City Stadium
+2018/19,AFC Bournemouth,Chelsea,Wed 30 Jan 2019,32.1,1,0,8,12,4,0,0,6,11,0,Vitality Stadium
+2018/19,Southampton,Crystal Palace,Wed 30 Jan 2019,58.8,2,0,11,13,1,2,1,8,15,1,St. Mary's Stadium
+2018/19,Liverpool,Leicester City,Wed 30 Jan 2019,72.1,1,0,13,10,1,3,0,6,5,1,Anfield
+2018/19,Tottenham Hotspur,Watford,Wed 30 Jan 2019,68.5,0,0,6,17,2,4,0,9,9,1,Wembley Stadium
+2018/19,Arsenal,Cardiff City,Tue 29 Jan 2019,70.9,3,0,14,15,2,3,0,12,19,1,Emirates Stadium
+2018/19,Fulham,Brighton and Hove Albion,Tue 29 Jan 2019,61.9,2,0,10,24,4,3,0,5,15,2,Craven Cottage
+2018/19,Huddersfield Town,Everton,Tue 29 Jan 2019,58.4,1,0,13,10,0,4,1,10,10,1,John Smith's Stadium
+2018/19,Wolverhampton Wanderers,West Ham United,Tue 29 Jan 2019,54.7,4,0,8,20,3,1,0,10,4,0,Molineux Stadium
+2018/19,Manchester United,Burnley,Tue 29 Jan 2019,74.4,1,0,10,28,2,3,0,9,6,2,Old Trafford
+2018/19,Newcastle United,Manchester City,Tue 29 Jan 2019,23.8,2,0,9,7,2,3,0,7,12,1,St. James' Park
+2018/19,Huddersfield Town,Manchester City,Sun 20 Jan 2019,32.4,2,0,10,5,0,2,0,9,12,3,John Smith's Stadium
+2018/19,Fulham,Tottenham Hotspur,Sun 20 Jan 2019,26.8,2,0,10,12,1,3,0,8,14,2,Craven Cottage
+2018/19,Wolverhampton Wanderers,Leicester City,Sat 19 Jan 2019,45.6,3,0,11,12,4,3,0,10,16,3,Molineux Stadium
+2018/19,AFC Bournemouth,West Ham United,Sat 19 Jan 2019,38.5,0,0,6,10,2,1,0,10,9,0,Vitality Stadium
+2018/19,Liverpool,Crystal Palace,Sat 19 Jan 2019,70.6,0,1,6,19,4,1,0,8,9,3,Anfield
+2018/19,Manchester United,Brighton and Hove Albion,Sat 19 Jan 2019,56,1,0,11,20,2,0,0,11,7,1,Old Trafford
+2018/19,Newcastle United,Cardiff City,Sat 19 Jan 2019,53.5,0,0,11,16,3,1,0,6,9,0,St. James' Park
+2018/19,Southampton,Everton,Sat 19 Jan 2019,39.4,2,0,12,11,2,1,0,11,7,1,St. Mary's Stadium
+2018/19,Watford,Burnley,Sat 19 Jan 2019,54.8,1,0,14,9,0,2,0,9,12,0,Vicarage Road
+2018/19,Arsenal,Chelsea,Sat 19 Jan 2019,35.7,0,0,13,13,2,2,0,15,13,0,Emirates Stadium
+2018/19,Manchester City,Wolverhampton Wanderers,Mon 14 Jan 2019,76.1,1,0,6,24,3,0,1,3,3,0,Etihad Stadium
+2018/19,Everton,AFC Bournemouth,Sun 13 Jan 2019,50.9,5,0,17,15,2,0,0,8,16,0,Goodison Park
+2018/19,Tottenham Hotspur,Manchester United,Sun 13 Jan 2019,61.2,1,0,8,21,0,2,0,8,13,1,Wembley Stadium
+2018/19,West Ham United,Arsenal,Sat 12 Jan 2019,41.4,0,0,7,11,1,2,0,10,11,0,London Stadium
+2018/19,Brighton and Hove Albion,Liverpool,Sat 12 Jan 2019,29.1,0,0,15,7,0,0,0,5,10,1,Amex Stadium
+2018/19,Burnley,Fulham,Sat 12 Jan 2019,41.8,1,0,5,11,2,2,0,9,12,1,Turf Moor
+2018/19,Cardiff City,Huddersfield Town,Sat 12 Jan 2019,38.9,3,0,12,3,0,1,0,14,14,0,Cardiff City Stadium
+2018/19,Crystal Palace,Watford,Sat 12 Jan 2019,55.3,1,0,11,15,1,4,0,11,16,2,Selhurst Park
+2018/19,Leicester City,Southampton,Sat 12 Jan 2019,71.7,2,0,7,23,1,1,1,9,8,2,King Power Stadium
+2018/19,Chelsea,Newcastle United,Sat 12 Jan 2019,65.9,1,0,6,10,2,1,0,13,9,1,Stamford Bridge
+2018/19,Manchester City,Liverpool,Thu 3 Jan 2019,49.6,4,0,12,9,2,2,0,7,7,1,Etihad Stadium
+2018/19,AFC Bournemouth,Watford,Wed 2 Jan 2019,57,1,0,9,25,3,4,0,15,11,3,Vitality Stadium
+2018/19,Chelsea,Southampton,Wed 2 Jan 2019,71.6,1,0,8,17,0,2,0,11,6,0,Stamford Bridge
+2018/19,Huddersfield Town,Burnley,Wed 2 Jan 2019,42.9,0,1,11,9,1,4,1,9,16,2,John Smith's Stadium
+2018/19,West Ham United,Brighton and Hove Albion,Wed 2 Jan 2019,54.3,0,0,9,13,2,1,0,11,13,2,London Stadium
+2018/19,Wolverhampton Wanderers,Crystal Palace,Wed 2 Jan 2019,51.9,4,0,9,9,0,1,0,7,17,2,Molineux Stadium
+2018/19,Newcastle United,Manchester United,Wed 2 Jan 2019,34.9,1,0,10,14,0,2,0,9,16,2,St. James' Park
+2018/19,Everton,Leicester City,Tue 1 Jan 2019,59.6,3,0,5,17,0,1,0,8,8,1,Goodison Park
+2018/19,Arsenal,Fulham,Tue 1 Jan 2019,59.6,0,0,7,16,4,1,0,12,9,1,Emirates Stadium
+2018/19,Cardiff City,Tottenham Hotspur,Tue 1 Jan 2019,26.9,1,0,6,5,0,0,0,6,13,3,Cardiff City Stadium
+2018/19,Crystal Palace,Chelsea,Sun 30 Dec 2018,34.2,0,0,11,4,0,1,0,8,12,1,Selhurst Park
+2018/19,Burnley,West Ham United,Sun 30 Dec 2018,43,1,0,15,17,2,4,0,11,11,0,Turf Moor
+2018/19,Southampton,Manchester City,Sun 30 Dec 2018,23.4,2,1,11,5,1,3,0,10,14,3,St. Mary's Stadium
+2018/19,Manchester United,AFC Bournemouth,Sun 30 Dec 2018,64.9,2,1,10,11,4,0,0,7,7,1,Old Trafford
+2018/19,Brighton and Hove Albion,Everton,Sat 29 Dec 2018,44.8,0,0,10,11,1,2,0,11,13,0,Amex Stadium
+2018/19,Fulham,Huddersfield Town,Sat 29 Dec 2018,43.5,3,0,12,14,1,1,0,10,9,0,Craven Cottage
+2018/19,Leicester City,Cardiff City,Sat 29 Dec 2018,62.2,0,0,14,16,0,2,0,16,12,1,King Power Stadium
+2018/19,Tottenham Hotspur,Wolverhampton Wanderers,Sat 29 Dec 2018,60.8,3,0,7,10,1,2,0,7,11,3,Wembley Stadium
+2018/19,Watford,Newcastle United,Sat 29 Dec 2018,62.7,1,0,17,12,1,2,0,16,8,1,Vicarage Road
+2018/19,Liverpool,Arsenal,Sat 29 Dec 2018,47.9,1,0,8,15,5,2,0,13,8,1,Anfield
+2018/19,Southampton,West Ham United,Thu 27 Dec 2018,45.8,2,0,10,11,1,0,0,3,16,2,St. Mary's Stadium
+2018/19,Fulham,Wolverhampton Wanderers,Wed 26 Dec 2018,29.8,2,0,9,11,1,1,0,6,14,1,Craven Cottage
+2018/19,Burnley,Everton,Wed 26 Dec 2018,49,2,0,11,11,1,4,0,19,13,5,Turf Moor
+2018/19,Crystal Palace,Cardiff City,Wed 26 Dec 2018,62.4,0,0,9,31,0,3,0,11,9,0,Selhurst Park
+2018/19,Leicester City,Manchester City,Wed 26 Dec 2018,33.9,2,0,5,10,2,2,1,8,11,1,King Power Stadium
+2018/19,Liverpool,Newcastle United,Wed 26 Dec 2018,75,0,0,7,16,4,0,0,10,6,0,Anfield
+2018/19,Manchester United,Huddersfield Town,Wed 26 Dec 2018,64.7,1,0,9,16,3,1,0,13,10,1,Old Trafford
+2018/19,Tottenham Hotspur,AFC Bournemouth,Wed 26 Dec 2018,56.7,2,0,5,10,5,1,0,8,14,0,Wembley Stadium
+2018/19,Brighton and Hove Albion,Arsenal,Wed 26 Dec 2018,32,2,0,10,12,1,1,0,4,7,1,Amex Stadium
+2018/19,Watford,Chelsea,Wed 26 Dec 2018,35,1,0,15,11,1,0,0,5,10,2,Vicarage Road
+2018/19,Everton,Tottenham Hotspur,Sun 23 Dec 2018,41.5,0,0,13,10,2,2,0,9,17,6,Goodison Park
+2018/19,Arsenal,Burnley,Sat 22 Dec 2018,60.1,2,0,10,11,3,5,0,14,7,1,Emirates Stadium
+2018/19,AFC Bournemouth,Brighton and Hove Albion,Sat 22 Dec 2018,57.2,2,0,8,14,2,0,1,18,10,0,Vitality Stadium
+2018/19,Chelsea,Leicester City,Sat 22 Dec 2018,72.1,0,0,10,17,0,2,0,9,8,1,Stamford Bridge
+2018/19,Huddersfield Town,Southampton,Sat 22 Dec 2018,62.3,2,0,12,16,1,3,0,9,13,3,John Smith's Stadium
+2018/19,Manchester City,Crystal Palace,Sat 22 Dec 2018,78.3,0,0,7,19,2,4,0,6,5,3,Etihad Stadium
+2018/19,Newcastle United,Fulham,Sat 22 Dec 2018,53.5,1,0,9,9,0,2,0,12,4,0,St. James' Park
+2018/19,West Ham United,Watford,Sat 22 Dec 2018,51.6,3,0,9,18,0,2,0,11,11,2,London Stadium
+2018/19,Cardiff City,Manchester United,Sat 22 Dec 2018,25.7,2,0,13,9,1,1,0,13,17,5,Cardiff City Stadium
+2018/19,Wolverhampton Wanderers,Liverpool,Fri 21 Dec 2018,38.3,0,0,7,11,0,0,0,3,15,2,Molineux Stadium
+2018/19,Brighton and Hove Albion,Chelsea,Sun 16 Dec 2018,41.7,2,0,14,6,1,2,0,6,10,2,Amex Stadium
+2018/19,Southampton,Arsenal,Sun 16 Dec 2018,33.8,3,0,12,12,3,1,0,10,13,2,St. Mary's Stadium
+2018/19,Liverpool,Manchester United,Sun 16 Dec 2018,64.5,0,0,6,36,3,2,0,14,6,1,Anfield
+2018/19,Manchester City,Everton,Sat 15 Dec 2018,67,1,0,7,13,3,2,0,9,9,1,Etihad Stadium
+2018/19,Crystal Palace,Leicester City,Sat 15 Dec 2018,43.3,2,0,10,8,1,1,0,8,12,0,Selhurst Park
+2018/19,Huddersfield Town,Newcastle United,Sat 15 Dec 2018,73.5,1,0,5,15,0,1,0,13,8,1,John Smith's Stadium
+2018/19,Tottenham Hotspur,Burnley,Sat 15 Dec 2018,70.3,0,0,7,15,1,2,0,8,4,0,Wembley Stadium
+2018/19,Watford,Cardiff City,Sat 15 Dec 2018,71.5,0,0,7,17,3,0,0,5,10,2,Vicarage Road
+2018/19,Wolverhampton Wanderers,AFC Bournemouth,Sat 15 Dec 2018,37.8,1,0,15,10,2,2,0,7,13,0,Molineux Stadium
+2018/19,Fulham,West Ham United,Sat 15 Dec 2018,56,2,0,14,16,0,1,0,10,6,2,Craven Cottage
+2018/19,Everton,Watford,Mon 10 Dec 2018,56.6,1,0,13,12,2,1,0,13,15,2,Goodison Park
+2018/19,Newcastle United,Wolverhampton Wanderers,Sun 9 Dec 2018,50.4,2,1,10,12,1,5,0,17,13,2,St. James' Park
+2018/19,AFC Bournemouth,Liverpool,Sat 8 Dec 2018,40.5,2,0,9,8,0,1,0,11,10,4,Vitality Stadium
+2018/19,Arsenal,Huddersfield Town,Sat 8 Dec 2018,61.9,5,0,13,14,1,4,0,20,6,0,Emirates Stadium
+2018/19,Burnley,Brighton and Hove Albion,Sat 8 Dec 2018,37.4,2,0,11,14,1,0,0,11,14,0,Turf Moor
+2018/19,Cardiff City,Southampton,Sat 8 Dec 2018,36.2,2,0,9,13,1,2,0,10,12,0,Cardiff City Stadium
+2018/19,Manchester United,Fulham,Sat 8 Dec 2018,62.7,1,0,11,20,4,1,1,15,10,1,Old Trafford
+2018/19,West Ham United,Crystal Palace,Sat 8 Dec 2018,48.3,1,0,10,13,3,2,0,8,8,2,London Stadium
+2018/19,Chelsea,Manchester City,Sat 8 Dec 2018,38.7,2,0,12,8,2,0,0,11,14,0,Stamford Bridge
+2018/19,Leicester City,Tottenham Hotspur,Sat 8 Dec 2018,42.2,3,0,12,11,0,1,0,7,7,2,King Power Stadium
+2018/19,Burnley,Liverpool,Wed 5 Dec 2018,25.8,1,0,10,10,1,0,0,3,18,3,Turf Moor
+2018/19,Everton,Newcastle United,Wed 5 Dec 2018,76.3,0,0,7,19,1,5,0,18,8,1,Goodison Park
+2018/19,Fulham,Leicester City,Wed 5 Dec 2018,45.5,0,0,12,25,1,0,0,7,13,1,Craven Cottage
+2018/19,Wolverhampton Wanderers,Chelsea,Wed 5 Dec 2018,29.9,4,0,18,6,2,4,0,10,17,1,Molineux Stadium
+2018/19,Manchester United,Arsenal,Wed 5 Dec 2018,44.8,3,0,13,10,2,3,0,10,9,2,Old Trafford
+2018/19,Tottenham Hotspur,Southampton,Wed 5 Dec 2018,52.1,0,0,7,13,3,0,0,5,18,1,Wembley Stadium
+2018/19,AFC Bournemouth,Huddersfield Town,Tue 4 Dec 2018,32.8,4,0,14,6,2,2,0,11,23,1,Vitality Stadium
+2018/19,Brighton and Hove Albion,Crystal Palace,Tue 4 Dec 2018,31.5,2,1,14,9,3,3,0,12,18,1,Amex Stadium
+2018/19,West Ham United,Cardiff City,Tue 4 Dec 2018,61,1,0,10,17,3,2,0,10,9,1,London Stadium
+2018/19,Watford,Manchester City,Tue 4 Dec 2018,29.9,0,0,4,11,1,1,0,8,15,2,Vicarage Road
+2018/19,Chelsea,Fulham,Sun 2 Dec 2018,66,2,0,8,16,2,1,0,17,9,0,Stamford Bridge
+2018/19,Arsenal,Tottenham Hotspur,Sun 2 Dec 2018,59.3,3,0,15,22,4,3,1,17,11,2,Emirates Stadium
+2018/19,Liverpool,Everton,Sun 2 Dec 2018,57.6,3,0,12,16,1,2,0,7,9,0,Anfield
+2018/19,Crystal Palace,Burnley,Sat 1 Dec 2018,58.6,1,0,9,29,2,1,0,10,4,0,Selhurst Park
+2018/19,Huddersfield Town,Brighton and Hove Albion,Sat 1 Dec 2018,32.1,0,1,10,7,1,2,0,12,14,2,John Smith's Stadium
+2018/19,Leicester City,Watford,Sat 1 Dec 2018,37.7,2,0,7,7,2,1,1,6,8,0,King Power Stadium
+2018/19,Manchester City,AFC Bournemouth,Sat 1 Dec 2018,73.1,0,0,9,16,3,0,0,3,4,1,Etihad Stadium
+2018/19,Newcastle United,West Ham United,Sat 1 Dec 2018,58.7,3,0,10,16,0,3,0,10,7,3,St. James' Park
+2018/19,Southampton,Manchester United,Sat 1 Dec 2018,40.3,4,0,12,16,2,4,0,13,11,2,St. Mary's Stadium
+2018/19,Cardiff City,Wolverhampton Wanderers,Fri 30 Nov 2018,47.9,1,0,3,17,2,2,0,12,15,1,Cardiff City Stadium
+2018/19,Burnley,Newcastle United,Mon 26 Nov 2018,56.5,0,0,6,14,1,1,0,11,17,2,Turf Moor
+2018/19,AFC Bournemouth,Arsenal,Sun 25 Nov 2018,41.3,2,0,6,11,1,1,0,9,20,2,Vitality Stadium
+2018/19,Wolverhampton Wanderers,Huddersfield Town,Sun 25 Nov 2018,44.8,1,0,9,12,0,2,0,8,14,2,Molineux Stadium
+2018/19,Brighton and Hove Albion,Leicester City,Sat 24 Nov 2018,54.6,3,0,10,14,1,1,1,7,8,1,Amex Stadium
+2018/19,Everton,Cardiff City,Sat 24 Nov 2018,70.7,0,0,12,16,1,3,0,13,7,0,Goodison Park
+2018/19,Fulham,Southampton,Sat 24 Nov 2018,37.2,2,0,10,10,3,3,0,6,19,2,Craven Cottage
+2018/19,Manchester United,Crystal Palace,Sat 24 Nov 2018,59.8,1,0,13,12,0,2,0,12,13,0,Old Trafford
+2018/19,Watford,Liverpool,Sat 24 Nov 2018,36.3,0,0,12,5,0,1,1,13,10,3,Vicarage Road
+2018/19,West Ham United,Manchester City,Sat 24 Nov 2018,30.7,0,0,6,9,0,0,0,3,9,4,London Stadium
+2018/19,Tottenham Hotspur,Chelsea,Sat 24 Nov 2018,39.9,0,0,19,18,3,3,0,12,13,1,Wembley Stadium
+2018/19,Liverpool,Fulham,Sun 11 Nov 2018,73,1,0,11,21,2,1,0,9,8,0,Anfield
+2018/19,Chelsea,Everton,Sun 11 Nov 2018,68.7,4,0,7,15,0,3,0,11,6,0,Stamford Bridge
+2018/19,Arsenal,Wolverhampton Wanderers,Sun 11 Nov 2018,71.7,2,0,9,10,1,2,0,16,13,1,Emirates Stadium
+2018/19,Manchester City,Manchester United,Sun 11 Nov 2018,64.9,1,0,12,17,3,1,0,12,6,1,Etihad Stadium
+2018/19,Cardiff City,Brighton and Hove Albion,Sat 10 Nov 2018,60.6,2,0,7,20,2,1,1,21,7,1,Cardiff City Stadium
+2018/19,Huddersfield Town,West Ham United,Sat 10 Nov 2018,43.9,1,0,9,15,1,1,0,8,12,1,John Smith's Stadium
+2018/19,Leicester City,Burnley,Sat 10 Nov 2018,63,2,0,13,22,0,0,0,10,6,0,King Power Stadium
+2018/19,Newcastle United,AFC Bournemouth,Sat 10 Nov 2018,39.3,2,0,9,18,2,1,0,11,14,1,St. James' Park
+2018/19,Southampton,Watford,Sat 10 Nov 2018,42.3,3,0,13,14,1,2,0,13,12,1,St. Mary's Stadium
+2018/19,Crystal Palace,Tottenham Hotspur,Sat 10 Nov 2018,35.4,1,0,12,11,0,1,0,9,11,1,Selhurst Park
+2018/19,Huddersfield Town,Fulham,Mon 5 Nov 2018,45.1,1,0,11,10,1,2,0,8,8,0,John Smith's Stadium
+2018/19,Manchester City,Southampton,Sun 4 Nov 2018,67.3,1,0,14,18,6,1,0,9,13,1,Etihad Stadium
+2018/19,Chelsea,Crystal Palace,Sun 4 Nov 2018,73.7,0,0,6,15,3,1,0,13,7,1,Stamford Bridge
+2018/19,AFC Bournemouth,Manchester United,Sat 3 Nov 2018,48.7,4,0,12,18,1,3,0,12,18,2,Vitality Stadium
+2018/19,Cardiff City,Leicester City,Sat 3 Nov 2018,40.1,2,0,13,11,0,2,0,12,13,1,Cardiff City Stadium
+2018/19,Everton,Brighton and Hove Albion,Sat 3 Nov 2018,61.5,0,0,9,14,3,1,0,17,5,1,Goodison Park
+2018/19,Newcastle United,Watford,Sat 3 Nov 2018,41.9,1,0,12,10,1,5,0,11,16,0,St. James' Park
+2018/19,West Ham United,Burnley,Sat 3 Nov 2018,62.8,1,0,7,22,4,4,0,9,6,2,London Stadium
+2018/19,Arsenal,Liverpool,Sat 3 Nov 2018,61.8,1,0,7,12,1,1,0,7,13,1,Emirates Stadium
+2018/19,Wolverhampton Wanderers,Tottenham Hotspur,Sat 3 Nov 2018,48.6,1,0,11,16,2,2,0,8,10,3,Molineux Stadium
+2018/19,Tottenham Hotspur,Manchester City,Mon 29 Oct 2018,48,2,0,13,4,0,2,0,13,13,1,Wembley Stadium
+2018/19,Burnley,Chelsea,Sun 28 Oct 2018,30.2,4,0,14,7,0,2,0,10,24,4,Turf Moor
+2018/19,Crystal Palace,Arsenal,Sun 28 Oct 2018,42.2,1,0,10,16,2,2,0,16,7,2,Selhurst Park
+2018/19,Manchester United,Everton,Sun 28 Oct 2018,53.7,2,0,15,14,2,1,0,12,14,1,Old Trafford
+2018/19,Brighton and Hove Albion,Wolverhampton Wanderers,Sat 27 Oct 2018,39.9,3,0,11,7,1,0,0,8,25,0,Amex Stadium
+2018/19,Fulham,AFC Bournemouth,Sat 27 Oct 2018,52,2,1,16,11,0,1,0,3,12,3,Craven Cottage
+2018/19,Liverpool,Cardiff City,Sat 27 Oct 2018,79.6,0,0,6,19,4,0,0,4,2,1,Anfield
+2018/19,Southampton,Newcastle United,Sat 27 Oct 2018,50.2,0,0,9,22,0,1,0,12,6,0,St. Mary's Stadium
+2018/19,Watford,Huddersfield Town,Sat 27 Oct 2018,48.1,1,0,9,12,3,2,0,13,13,0,Vicarage Road
+2018/19,Leicester City,West Ham United,Sat 27 Oct 2018,64.2,1,0,17,21,1,1,1,5,11,1,King Power Stadium
+2018/19,Arsenal,Leicester City,Mon 22 Oct 2018,69.1,2,0,10,19,3,2,0,10,8,1,Emirates Stadium
+2018/19,Everton,Crystal Palace,Sun 21 Oct 2018,59.8,2,0,13,20,2,1,0,17,7,0,Goodison Park
+2018/19,Chelsea,Manchester United,Sat 20 Oct 2018,62.3,2,0,9,21,2,5,0,17,7,2,Stamford Bridge
+2018/19,AFC Bournemouth,Southampton,Sat 20 Oct 2018,57.3,1,0,11,9,0,2,0,14,8,0,Vitality Stadium
+2018/19,Cardiff City,Fulham,Sat 20 Oct 2018,40.5,3,0,15,22,4,3,0,16,9,2,Cardiff City Stadium
+2018/19,Manchester City,Burnley,Sat 20 Oct 2018,69.1,2,0,11,24,5,2,0,5,5,0,Etihad Stadium
+2018/19,Newcastle United,Brighton and Hove Albion,Sat 20 Oct 2018,68,0,0,13,27,0,2,0,17,8,1,St. James' Park
+2018/19,West Ham United,Tottenham Hotspur,Sat 20 Oct 2018,44,3,0,8,13,0,0,0,10,10,1,London Stadium
+2018/19,Wolverhampton Wanderers,Watford,Sat 20 Oct 2018,44.8,3,0,23,10,0,1,0,13,9,2,Molineux Stadium
+2018/19,Huddersfield Town,Liverpool,Sat 20 Oct 2018,47.8,0,0,9,13,0,2,0,6,11,1,John Smith's Stadium
+2018/19,Fulham,Arsenal,Sun 7 Oct 2018,48.9,2,0,11,21,1,0,0,12,9,5,Craven Cottage
+2018/19,Southampton,Chelsea,Sun 7 Oct 2018,34.7,6,0,13,15,0,0,0,11,21,3,St. Mary's Stadium
+2018/19,Liverpool,Manchester City,Sun 7 Oct 2018,49.4,1,0,10,7,0,3,0,10,6,0,Anfield
+2018/19,Burnley,Huddersfield Town,Sat 6 Oct 2018,31.8,2,0,9,6,1,2,0,11,18,1,Turf Moor
+2018/19,Crystal Palace,Wolverhampton Wanderers,Sat 6 Oct 2018,67.1,3,0,11,11,0,4,0,13,7,1,Selhurst Park
+2018/19,Leicester City,Everton,Sat 6 Oct 2018,51.3,2,1,10,8,1,1,0,11,17,2,King Power Stadium
+2018/19,Tottenham Hotspur,Cardiff City,Sat 6 Oct 2018,75.5,3,0,7,19,1,1,1,11,8,0,Wembley Stadium
+2018/19,Watford,AFC Bournemouth,Sat 6 Oct 2018,47.2,3,1,11,14,0,1,0,9,10,4,Vicarage Road
+2018/19,Manchester United,Newcastle United,Sat 6 Oct 2018,73,2,0,16,18,3,2,0,8,13,2,Old Trafford
+2018/19,Brighton and Hove Albion,West Ham United,Fri 5 Oct 2018,35.4,3,0,12,9,1,2,0,8,17,0,Amex Stadium
+2018/19,AFC Bournemouth,Crystal Palace,Mon 1 Oct 2018,44.4,3,0,9,11,2,4,0,12,10,1,Vitality Stadium
+2018/19,Cardiff City,Burnley,Sun 30 Sep 2018,54.3,1,0,11,20,1,3,0,15,3,2,Cardiff City Stadium
+2018/19,West Ham United,Manchester United,Sat 29 Sep 2018,49,0,0,12,8,3,1,0,12,9,1,London Stadium
+2018/19,Arsenal,Watford,Sat 29 Sep 2018,63.5,2,0,11,9,2,2,0,17,14,0,Emirates Stadium
+2018/19,Everton,Fulham,Sat 29 Sep 2018,51.2,0,0,13,19,3,3,0,13,6,0,Goodison Park
+2018/19,Huddersfield Town,Tottenham Hotspur,Sat 29 Sep 2018,52.7,2,0,17,9,0,2,0,16,10,2,John Smith's Stadium
+2018/19,Manchester City,Brighton and Hove Albion,Sat 29 Sep 2018,80.1,0,0,4,28,2,3,0,10,4,0,Etihad Stadium
+2018/19,Newcastle United,Leicester City,Sat 29 Sep 2018,41.5,0,0,11,6,0,0,0,5,12,2,St. James' Park
+2018/19,Wolverhampton Wanderers,Southampton,Sat 29 Sep 2018,48.8,3,0,11,14,2,1,0,7,17,0,Molineux Stadium
+2018/19,Chelsea,Liverpool,Sat 29 Sep 2018,47.2,0,0,7,10,1,2,0,9,13,1,Stamford Bridge
+2018/19,West Ham United,Chelsea,Sun 23 Sep 2018,28.2,2,0,11,6,0,1,0,9,17,0,London Stadium
+2018/19,Arsenal,Everton,Sun 23 Sep 2018,62.5,2,0,17,9,2,1,0,12,10,0,Emirates Stadium
+2018/19,Fulham,Watford,Sat 22 Sep 2018,60.7,2,0,11,15,1,1,0,9,11,1,Craven Cottage
+2018/19,Burnley,AFC Bournemouth,Sat 22 Sep 2018,37.6,2,0,17,12,4,0,0,6,19,0,Turf Moor
+2018/19,Cardiff City,Manchester City,Sat 22 Sep 2018,21.4,1,0,6,2,0,1,0,4,21,5,Cardiff City Stadium
+2018/19,Crystal Palace,Newcastle United,Sat 22 Sep 2018,61.9,1,0,8,16,0,1,0,11,6,0,Selhurst Park
+2018/19,Leicester City,Huddersfield Town,Sat 22 Sep 2018,62,2,0,10,18,3,1,0,16,9,1,King Power Stadium
+2018/19,Liverpool,Southampton,Sat 22 Sep 2018,60.6,0,0,7,12,3,2,0,10,7,0,Anfield
+2018/19,Manchester United,Wolverhampton Wanderers,Sat 22 Sep 2018,64.5,1,0,5,15,1,1,0,17,11,1,Old Trafford
+2018/19,Brighton and Hove Albion,Tottenham Hotspur,Sat 22 Sep 2018,28.6,2,0,15,8,1,1,0,9,16,2,Amex Stadium
+2018/19,Southampton,Brighton and Hove Albion,Mon 17 Sep 2018,51.2,2,0,10,14,2,3,0,13,12,2,St. Mary's Stadium
+2018/19,Wolverhampton Wanderers,Burnley,Sun 16 Sep 2018,58.9,2,0,10,30,1,4,0,9,7,0,Molineux Stadium
+2018/19,Everton,West Ham United,Sun 16 Sep 2018,55.9,2,0,15,16,1,5,0,12,9,3,Goodison Park
+2018/19,Tottenham Hotspur,Liverpool,Sat 15 Sep 2018,60.4,0,0,17,11,1,0,0,16,17,2,Wembley Stadium
+2018/19,AFC Bournemouth,Leicester City,Sat 15 Sep 2018,46.7,3,0,13,10,4,2,1,15,14,2,Vitality Stadium
+2018/19,Chelsea,Cardiff City,Sat 15 Sep 2018,76.8,0,0,8,18,4,0,0,10,6,1,Stamford Bridge
+2018/19,Huddersfield Town,Crystal Palace,Sat 15 Sep 2018,58.4,1,0,11,15,0,2,0,17,7,1,John Smith's Stadium
+2018/19,Manchester City,Fulham,Sat 15 Sep 2018,64.7,0,0,7,28,3,0,0,7,9,0,Etihad Stadium
+2018/19,Newcastle United,Arsenal,Sat 15 Sep 2018,36.3,0,0,13,4,1,0,0,11,12,2,St. James' Park
+2018/19,Watford,Manchester United,Sat 15 Sep 2018,42.9,2,0,9,14,1,1,1,11,9,2,Vicarage Road
+2018/19,Cardiff City,Arsenal,Sun 2 Sep 2018,27.7,3,0,12,14,2,4,0,14,17,3,Cardiff City Stadium
+2018/19,Burnley,Manchester United,Sun 2 Sep 2018,46.6,2,0,7,9,0,3,1,13,21,2,Turf Moor
+2018/19,Watford,Tottenham Hotspur,Sun 2 Sep 2018,34.4,2,0,9,7,2,1,0,8,11,1,Vicarage Road
+2018/19,Leicester City,Liverpool,Sat 1 Sep 2018,51.2,3,0,9,12,1,2,0,12,10,2,King Power Stadium
+2018/19,Brighton and Hove Albion,Fulham,Sat 1 Sep 2018,41.5,3,0,12,15,2,3,0,14,10,2,Amex Stadium
+2018/19,Chelsea,AFC Bournemouth,Sat 1 Sep 2018,72.6,2,0,10,24,2,2,0,7,8,0,Stamford Bridge
+2018/19,Crystal Palace,Southampton,Sat 1 Sep 2018,50.7,1,0,11,20,0,1,0,12,19,2,Selhurst Park
+2018/19,Everton,Huddersfield Town,Sat 1 Sep 2018,57.6,3,0,13,11,1,3,0,14,9,1,Goodison Park
+2018/19,West Ham United,Wolverhampton Wanderers,Sat 1 Sep 2018,47.7,2,0,10,13,0,1,0,11,15,1,London Stadium
+2018/19,Manchester City,Newcastle United,Sat 1 Sep 2018,78.1,0,0,5,24,2,0,0,13,3,1,Etihad Stadium
+2018/19,Manchester United,Tottenham Hotspur,Mon 27 Aug 2018,57,2,0,11,23,0,3,0,16,9,3,Old Trafford
+2018/19,Watford,Crystal Palace,Sun 26 Aug 2018,43.7,4,0,14,13,2,2,0,11,9,1,Vicarage Road
+2018/19,Fulham,Burnley,Sun 26 Aug 2018,63.8,2,0,11,25,4,1,0,8,12,2,Craven Cottage
+2018/19,Newcastle United,Chelsea,Sun 26 Aug 2018,18.9,3,0,16,6,1,1,0,8,15,2,St. James' Park
+2018/19,Wolverhampton Wanderers,Manchester City,Sat 25 Aug 2018,28.9,1,0,13,11,1,2,0,8,18,1,Molineux Stadium
+2018/19,AFC Bournemouth,Everton,Sat 25 Aug 2018,49.9,0,1,12,17,2,3,1,10,11,2,Vitality Stadium
+2018/19,Arsenal,West Ham United,Sat 25 Aug 2018,61.5,1,0,16,17,3,3,0,13,13,1,Emirates Stadium
+2018/19,Huddersfield Town,Cardiff City,Sat 25 Aug 2018,58,0,1,8,5,0,1,0,10,14,0,John Smith's Stadium
+2018/19,Southampton,Leicester City,Sat 25 Aug 2018,51.7,1,1,13,11,1,1,0,11,8,2,St. Mary's Stadium
+2018/19,Liverpool,Brighton and Hove Albion,Sat 25 Aug 2018,70,1,0,8,22,1,1,0,14,6,0,Anfield
+2018/19,Crystal Palace,Liverpool,Mon 20 Aug 2018,36.8,1,1,6,8,0,1,0,13,16,2,Selhurst Park
+2018/19,Burnley,Watford,Sun 19 Aug 2018,58.4,1,0,8,8,1,2,0,19,9,3,Turf Moor
+2018/19,Manchester City,Huddersfield Town,Sun 19 Aug 2018,76.9,0,0,9,32,6,2,0,4,5,1,Etihad Stadium
+2018/19,Brighton and Hove Albion,Manchester United,Sun 19 Aug 2018,33.4,1,0,16,6,3,1,0,13,9,2,Amex Stadium
+2018/19,Cardiff City,Newcastle United,Sat 18 Aug 2018,51.3,2,0,14,12,0,2,1,16,12,0,Cardiff City Stadium
+2018/19,Everton,Southampton,Sat 18 Aug 2018,58,0,0,8,13,2,5,0,20,15,1,Goodison Park
+2018/19,Leicester City,Wolverhampton Wanderers,Sat 18 Aug 2018,42.8,2,1,10,6,2,1,0,8,11,0,King Power Stadium
+2018/19,Tottenham Hotspur,Fulham,Sat 18 Aug 2018,59.6,0,0,9,25,3,0,0,5,10,1,Wembley Stadium
+2018/19,West Ham United,AFC Bournemouth,Sat 18 Aug 2018,61,6,0,14,11,1,2,0,10,12,2,London Stadium
+2018/19,Chelsea,Arsenal,Sat 18 Aug 2018,62.3,0,0,12,24,3,2,0,9,15,2,Stamford Bridge
+2018/19,Liverpool,West Ham United,Sun 12 Aug 2018,64.8,1,0,14,18,4,2,0,9,5,0,Anfield
+2018/19,Southampton,Burnley,Sun 12 Aug 2018,47.7,0,0,10,18,0,1,0,9,16,0,St. Mary's Stadium
+2018/19,Arsenal,Manchester City,Sun 12 Aug 2018,42,2,0,11,9,0,2,0,14,17,2,Emirates Stadium
+2018/19,Newcastle United,Tottenham Hotspur,Sat 11 Aug 2018,40.4,2,0,11,15,1,2,0,12,15,2,St. James' Park
+2018/19,AFC Bournemouth,Cardiff City,Sat 11 Aug 2018,62.9,1,0,11,12,2,1,0,9,10,0,Vitality Stadium
+2018/19,Fulham,Crystal Palace,Sat 11 Aug 2018,66.3,1,0,9,15,0,2,0,11,12,2,Craven Cottage
+2018/19,Huddersfield Town,Chelsea,Sat 11 Aug 2018,37.2,2,0,9,6,0,1,0,8,13,3,John Smith's Stadium
+2018/19,Watford,Brighton and Hove Albion,Sat 11 Aug 2018,53.2,2,0,10,19,2,2,0,16,6,0,Vicarage Road
+2018/19,Wolverhampton Wanderers,Everton,Sat 11 Aug 2018,57.4,0,0,8,11,2,1,1,7,8,2,Molineux Stadium
+2018/19,Manchester United,Leicester City,Fri 10 Aug 2018,46.3,2,0,11,8,2,1,0,8,13,1,Old Trafford
