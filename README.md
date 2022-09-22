@@ -12,7 +12,7 @@ You must install the following dependencies if you want to compile the applicati
 - tabulate (for table printing)
 
 ## Running the program
-The program is a simple CLI with plenty of options.you can just run the [executable](https://github.com/QEDady/Premier-League-Database-Project/blob/master/Application/application.exe) to use the program. Notice that you must have an internet connection for the program to connect to the hosted database at [db4free](db4free.net).
+The program is a simple CLI with plenty of options.you can just run the [executable](https://github.com/QEDady/Premier-League-Database-Project/blob/master/Application/application.exe) to use the program. Notice that you must have an internet connection for the program to connect to the hosted database at [db4free](https://db4free.net/).
 
 One account you can use is amer.elsheikh@aucegypt.edu with password EPL_Pass (or you can simply create an account or use the guest mode)
 
